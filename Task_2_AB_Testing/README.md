@@ -121,7 +121,13 @@ The Tableau dashboard provides a visual summary of:
 - CTR Uplift
 - Statistical test results
 - Key findings and recommendation
-  
+
+---
+
+## 🖼️ Dashboard Preview
+
+![AB Testing Analysis of Campaign Engagement](Dashboard_AB.png)
+
 ---
 
 ## 📁 Project Files
