@@ -1,0 +1,1174 @@
+Property_ID,Property_Name,City,Neighborhood,Price,Bedrooms,Bathrooms,Square_Feet,Property_Type,Latitude,Longitude,School_Distance,Parking,Age_of_Property,Status,Builder,Listing_Date
+PROP00726,Hinjewadi Court,Pune,Hinjewadi,18694000,4,3,2075,Independent House,18.451739,73.789203,6.3,Yes,0,Available,Sobha Ltd,2022-04-16
+PROP00543,Yelahanka Towers,Bangalore,Yelahanka,33022000,2,2,1903,Apartment,13.047936,77.674231,7.1,Yes,0,Available,Prestige Group,2026-06-16
+PROP00942,Saket Estate,Delhi,Saket,44246000,1,1,1884,Apartment,28.636694,77.09689,7.3,Yes,10,Sold,Shapoorji Pallonji,2022-11-18
+PROP00616,HSR Layout Residency,Bangalore,HSR Layout,22092000,2,2,1794,Independent House,12.93396,77.514957,5.1,No,2,Under Construction,Independent Builder,2024-11-21
+PROP00804,Marathahalli Court,Bangalore,Marathahalli,31496000,3,2,1947,Apartment,12.965988,77.527822,5.6,Yes,25,Under Construction,DLF Ltd,2022-11-26
+PROP00736,Worli Estate,Mumbai,Worli,58529000,4,,3151,Independent House,19.129812,72.840948,4.8,Yes,0,Available,Tata Housing,2024-02-26
+PROP00471,Miyapur Enclave,Hyderabad,Miyapur,3631000,1,1,642,Studio,17.308675,78.496065,5,Yes,0,Under Construction,,2023-06-21
+PROP00558,HSR Layout Heights,Bangalore,HSR Layout,23495000,2,2,1462,Apartment,12.988376,77.554094,2.8,No,10,Available,DLF Ltd,2026-02-18
+PROP00822,Nungambakkam Residency,Chennai,Nungambakkam,71247000,3,2,4389,Penthouse,13.13676,80.330234,7.3,Yes,10,Sold,Godrej Properties,2022-01-15
+PROP01023,Janakpuri Gardens,Delhi,Janakpuri,59238000,3,3,2287,Independent House,28.783081,77.120494,5,No,0,Available,Local Developer,2025-04-25
+PROP00250,Juhu Enclave,Mumbai,Juhu,42976000,1,1,2146,Apartment,19.111772,72.942465,5.2,No,3,Available,DLF Ltd,2022-07-24
+PROP01007,Bandra Residency,Mumbai,Bandra,31636000,2,2,948,Apartment,19.062814,72.929848,1.4,Yes,2,Available,Godrej Properties,2022-12-01
+PROP01050,Vastrapur Homes,Ahmedabad,Vastrapur,22109000,3,3,2610,Villa,23.03112,72.582272,0.2,Yes,1,Available,Lodha Group,2026-01-16
+PROP00866,Kothrud Enclave,Pune,Kothrud,26610000,3,3,2304,Independent House,18.599948,73.803381,1.4,,25,Sold,Tata Housing,2023-04-09
+PROP01113,Satellite Gardens,Ahmedabad,Satellite,35145000,3,3,2654,Penthouse,23.053187,72.528168,6.8,No,20,Sold,Lodha Group,2024-11-05
+PROP00844,Rohini Gardens,Delhi,Rohini,13360000,1,1,510,Studio,28.695434,77.164034,1.6,No,2,Available,Brigade Group,2023-02-12
+PROP01096,Prahlad Nagar Towers,Ahmedabad,Prahlad Nagar,10944000,3,3,1422,Apartment,23.052207,72.514715,1.7,Yes,20,Available,Godrej Properties,2023-05-31
+PROP00978,Porur Towers,Chennai,Porur,12916000,3,2,1010,Apartment,13.079399,80.342602,4.2,No,25,Under Construction,Independent Builder,2022-11-19
+PROP00276,Satellite Court,Ahmedabad,Satellite,8107000,3,3,1000,Apartment,23.069983,72.627315,2.5,Yes,3,Sold,Local Developer,2025-08-19
+PROP00621,Marathahalli Residency,Bangalore,Marathahalli,67053000,5,5,2538,Villa,12.91178,77.569659,0.3,Yes,0,Sold,Brigade Group,2024-05-29
+PROP00549,Karol Bagh Towers,Delhi,Karol Bagh,80701000,4,4,2337,Villa,28.727085,77.14824,7.4,Yes,0,Available,DLF Ltd,2025-01-23
+PROP01054,Rohini Enclave,Delhi,Rohini,19420000,2,2,1802,Apartment,28.664151,77.118232,,Yes,0,Available,Lodha Group,2025-01-13
+PROP00171,Worli Towers,Mumbai,Worli,53195000,3,2,1540,Independent House,19.086115,72.900905,5.2,Yes,7,Available,Godrej Properties,2023-06-14
+PROP00042,Marathahalli Enclave,Bangalore,Marathahalli,24045000,2,1,2236,Independent House,13.027532,77.646173,1,Yes,25,Under Construction,Puravankara,2025-12-19
+PROP00647,Powai Towers,Mumbai,Powai,55370000,1,1,1975,Apartment,19.108224,72.90374,0.8,Yes,0,Available,Prestige Group,2022-06-11
+PROP00372,HSR Layout Heights,Bangalore,HSR Layout,25421000,2,2,1640,Apartment,12.99898,77.558225,1.4,Yes,0,Under Construction,Shapoorji Pallonji,2024-11-18
+PROP00890,Tambaram Gardens,Chennai,Tambaram,4369000,1,1,605,Studio,13.066928,80.226962,,Yes,5,Available,Godrej Properties,2024-12-08
+PROP00573,Dwarka Towers,Delhi,Dwarka,43164000,4,4,2836,Villa,28.757095,77.17159,2,Yes,7,Sold,Lodha Group,2022-12-03
+PROP00245,Electronic City Homes,Bangalore,Electronic City,18978000,3,2,1771,Apartment,13.033676,77.673876,2.9,No,5,Sold,Prestige Group,2026-07-21
+PROP00947,Vasant Kunj Court,delhi,Vasant Kunj,16915000,4,4,1692,Apartment,28.758963,77.058583,0.5,Yes,2,Under Construction,Prestige Group,2024-10-22
+PROP00200,Aundh Homes,Pune,Aundh,12000000,2,,1402,Apartment,18.57256,73.868146,1.1,Yes,1,Available,,2022-04-05
+PROP01053,Juhu Estate,Mumbai,Juhu,64789000,3,3,2711,Independent House,19.011497,72.838733,7.4,No,0,Under Construction,Independent Builder,2025-04-20
+PROP00564,OMR Homes,Chennai,OMR,19861000,1,1,1850,Apartment,13.117326,80.334222,3.2,Yes,10,Available,DLF Ltd,2022-04-10
+PROP01004,HSR Layout Residency,Bangalore,HSR Layout,15925000,3,3,889,Apartment,12.91495,77.628377,2.3,Yes,15,Available,Shapoorji Pallonji,2024-01-31
+PROP00589,Satellite Towers,Ahmedabad,Satellite,11063000,1,1,1167,Apartment,23.100455,72.566088,7.2,Yes,10,Sold,Sobha Ltd,2023-05-14
+PROP00294,Dwarka Gardens,Delhi,Dwarka,26782000,2,1,2383,Independent House,28.625251,77.127227,5.6,Yes,7,Available,Prestige Group,2024-05-22
+PROP01025,HSR Layout Towers,Bangalore,HSR Layout,30130000,2,2,1885,Apartment,12.998549,77.60733,3.3,Yes,15,Available,Sobha Ltd,2024-07-09
+PROP00021,Kothrud Court,Pune,Kothrud,21224000,3,2,3108,Independent House,18.5809,73.819015,7.1,Yes,3,Available,Sobha Ltd,2026-01-09
+PROP01120,Prahlad Nagar Enclave,Ahmedabad,Prahlad Nagar,4168000,1,1,449,Studio,23.090303,72.640926,2.9,Yes,3,Available,Independent Builder,2023-11-03
+PROP00504,Porur Estate,Chennai,Porur,4507000,1,1,354,Studio,13.100364,80.214198,3.4,Yes,15,Sold,Tata Housing,2025-08-28
+PROP01146,T Nagar Enclave,Chennai,T Nagar,8987000,3,3,1424,Independent House,13.136329,80.216781,1.8,Yes,0,Sold,Independent Builder,2025-03-28
+PROP00910,Kukatpally Gardens,Hyderabad,Kukatpally,7713000,2,2,1008,Apartment,17.421957,78.560786,3.2,Yes,1,Available,DLF Ltd,2024-06-03
+PROP00354,Gachibowli Gardens,Hyderabad,Gachibowli,58963000,5,5,3871,Villa,17.391059,78.564113,,No,15,Sold,DLF Ltd,2023-01-24
+PROP00123,Saket Residency,Delhi,Saket,38708000,3,3,1506,Apartment,28.703679,77.036908,3.3,No,2,Available,Brigade Group,2022-04-10
+PROP00679,Thane Enclave,Mumbai,Thane,200575000,4,3,5014,Penthouse,19.114671,72.945953,1.7,Yes,15,Available,Shapoorji Pallonji,2026-04-08
+PROP00215,Bandra Residency,Mumbai,Bandra,18234000,2,1,590,Apartment,19.049077,72.895962,6.5,Yes,1,Under Construction,Brigade Group,2022-05-02
+PROP00222,Hadapsar Gardens,Pune,Hadapsar,22912000,4,3,3130,Independent House,18.582761,73.801837,1,Yes,2,Available,,2026-01-18
+PROP00153,SG Highway Homes,Ahmedabad,SG Highway,18551000,3,3,3072,Independent House,23.008729,72.581404,1.9,Yes,0,Available,Tata Housing,2025-04-01
+PROP00689,Worli Residency,Mumbai,Worli,37385000,1,1,834,Apartment,19.133822,72.913581,2,Yes,2,Sold,Brigade Group,2025-01-05
+PROP00672,Electronic City Court,Bangalore,Electronic City,13584000,3,3,1928,Apartment,13.037049,77.519828,0.4,Yes,15,Sold,Tata Housing,2023-10-13
+PROP00965,Anna Nagar Heights,Chennai,Anna Nagar,11669000,3,3,1170,Apartment,13.018154,80.321019,0.4,Yes,3,Available,Prestige Group,2026-05-09
+PROP00838,Indiranagar Gardens,Bangalore,Indiranagar,35356000,3,3,2159,Apartment,12.98922,77.539741,7.7,No,25,Sold,Oberoi Realty,2026-05-16
+PROP00313,Miyapur Estate,Hyderabad,Miyapur,11001000,2,2,1362,Independent House,17.355157,78.511182,5.7,No,3,Under Construction,Brigade Group,2026-03-12
+PROP00930,Kondapur Court,Hyderabad,Kondapur,4244000,1,,380,Studio,17.373815,78.514546,7.2,No,0,Under Construction,Independent Builder,2022-06-30
+PROP00997,SG Highway Residency,Ahmedabad,SG Highway,37692000,4,4,4962,Villa,22.981803,72.492799,6.9,Yes,15,Sold,Shapoorji Pallonji,2024-10-30
+PROP00817,Vasant Kunj Court,Delhi,Vasant Kunj,140121000,5,5,3685,Penthouse,28.781601,77.179123,4.5,Yes,2,Available,,2023-07-26
+PROP00340,Juhu Towers,Mumbai,Juhu,141579000,3,3,4245,Villa,19.065519,72.909359,6.1,No,15,Available,Oberoi Realty,2025-08-28
+PROP00428,SG Highway Heights,Ahmedabad,SG Highway,18332000,1,1,2048,Apartment,22.964808,72.579554,2.6,No,20,Sold,Puravankara,2024-01-02
+PROP00241,Gachibowli Enclave,Hyderabad,Gachibowli,8153000,1,1,648,Studio,17.316395,78.549008,4.1,No,15,Available,DLF Ltd,2022-11-05
+PROP00790,Tambaram Heights,Chennai,Tambaram,4397000,4,4,556,Apartment,13.05881,80.245332,4.6,Yes,20,Under Construction,Godrej Properties,2022-08-27
+PROP00452,Bopal Court,Ahmedabad,Bopal,51430000,5,4,4703,Villa,23.018646,72.628096,4.2,No,3,Available,Oberoi Realty,2025-06-17
+PROP00248,Hitech City Towers,Hyderabad,Hitech City,26620000,3,2,2475,Independent House,17.372012,78.55048,4.2,Yes,3,Available,Godrej Properties,2024-10-16
+PROP00748,Koramangala Enclave,Bangalore,Koramangala,29648000,4,4,2700,Independent House,12.947918,77.595503,7.3,No,20,Available,Oberoi Realty,2023-04-16
+PROP00179,Juhu Towers,Mumbai,Juhu,60576000,3,2,1700,Apartment,19.061461,72.876376,5.7,No,10,Available,Tata Housing,2022-03-05
+PROP00998,Kukatpally Towers,Hyderabad,Kukatpally,6356000,3,3,869,Apartment,17.402435,78.465451,6.3,No,2,Available,Local Developer,2022-08-14
+PROP00314,Kukatpally Estate,Hyderabad,Kukatpally,5851000,1,1,806,Apartment,17.345264,78.52572,6,Yes,1,Available,Godrej Properties,2022-05-11
+PROP00458,Kondapur Estate,Hyderabad,Kondapur,9965000,3,2,1064,Apartment,17.41245,78.49431,7.1,Yes,20,Available,Independent Builder,2026-03-01
+PROP00154,Indiranagar Estate,Bangalore,Indiranagar,21454000,2,,1327,Apartment,12.971488,77.619337,5.5,Yes,10,Under Construction,Independent Builder,2026-02-23
+PROP00888,Baner Heights,Pune,Baner,25155000,2,2,2457,Independent House,18.557261,73.893909,2.1,Yes,1,Available,Puravankara,2026-02-01
+PROP00770,Navrangpura Homes,Ahmedabad,Navrangpura,3288000,4,4,597,Apartment,22.974927,72.533683,5.3,No,7,Available,Godrej Properties,2023-04-01
+PROP00133,Karol Bagh Court,Delhi,Karol Bagh,5416000,1,1,489,Studio,28.742643,77.060785,,Yes,25,Available,Godrej Properties,2024-04-26
+PROP00150,Banjara Hills Residency,Hyderabad,Banjara Hills,23269000,2,2,1874,Apartment,17.440541,78.421494,5.9,Yes,0,Available,Independent Builder,2025-05-23
+PROP00981,Baner Court,Pune,Baner,11885000,2,2,1105,Apartment,18.476855,73.924991,2.7,Yes,20,Available,Lodha Group,2023-01-28
+PROP00618,Rohini Gardens,Delhi,Rohini,111872000,4,4,3682,Villa,28.747212,77.062522,3.9,Yes,3,Available,Prestige Group,2025-01-03
+PROP01014,Bandra Gardens,Mumbai,Bandra,36673000,1,1,823,Apartment,19.054683,72.907406,6.6,,25,Sold,DLF Ltd,2022-12-05
+PROP00102,Kharadi Enclave,Pune,Kharadi,8199000,1,1,1317,Apartment,18.589332,73.910968,5.3,Yes,1,Available,Puravankara,2025-11-26
+PROP00862,Dwarka Gardens,Delhi,Dwarka,23161000,3,3,1531,Independent House,28.715634,77.099915,2.9,No,10,Under Construction,Puravankara,2025-06-26
+PROP00362,Bopal Heights,Ahmedabad,Bopal,6973000,2,1,799,Apartment,22.995173,72.557601,1.8,Yes,20,Available,Tata Housing,2026-02-03
+PROP01021,Porur Estate,Chennai,Porur,47222000,5,5,5366,Penthouse,13.155386,80.257228,4,Yes,1,Available,Prestige Group,2023-05-07
+PROP00711,Kharadi Towers,Pune,Kharadi,20606000,3,3,1505,Apartment,18.514205,73.922709,0.4,No,0,Sold,Tata Housing,2023-09-12
+PROP00211,Malad Estate,Mumbai,Malad,40126000,3,2,958,Apartment,19.08013,72.898621,6.5,Yes,7,Sold,Brigade Group,2024-09-09
+PROP01086,Worli Court,Mumbai,Worli,15836000,1,1,378,Studio,19.053812,72.861353,4.9,Yes,7,Available,Puravankara,2022-05-29
+PROP00317,Hadapsar Gardens,Pune,Hadapsar,59395000,5,4,4144,Villa,18.495947,73.863047,6.5,No,3,Available,Lodha Group,2022-11-15
+PROP00513,Satellite Estate,Ahmedabad,Satellite,7682000,3,2,1184,Apartment,22.996552,72.551769,6.7,Yes,1,Available,Puravankara,2026-04-09
+PROP00576,Hinjewadi Residency,Pune,Hinjewadi,9721000,3,3,1176,Apartment,18.530343,73.853635,2.8,No,2,Available,Sobha Ltd,2022-01-09
+PROP00254,Navrangpura Heights,Ahmedabad,Navrangpura,24543000,4,4,3978,Villa,22.949856,72.533258,2.7,Yes,25,Under Construction,Shapoorji Pallonji,2024-12-07
+PROP00465,Yelahanka Gardens,Bangalore,Yelahanka,21920000,3,2,1243,Independent House,12.98853,77.649236,5.4,Yes,25,Available,Shapoorji Pallonji,2024-02-27
+PROP01140,Jayanagar Estate,Bangalore,Jayanagar,46218000,3,2,2816,Independent House,12.978026,77.565833,7.5,Yes,7,Available,Local Developer,2025-08-13
+PROP01012,Miyapur Towers,Hyderabad,Miyapur,7670000,3,3,612,Apartment,17.323916,78.444409,7.1,No,7,Sold,Oberoi Realty,2024-05-30
+PROP00606,Adyar Heights,Chennai,Adyar,10409000,2,2,840,Apartment,13.037134,80.212173,4.5,Yes,3,Available,Tata Housing,2024-05-14
+PROP00655,Pitampura Court,Delhi,Pitampura,9929000,4,3,741,Apartment,28.658604,77.131534,1.3,,15,Available,Local Developer,2025-05-31
+PROP00693,Juhu Heights,Mumbai,Juhu,58921000,1,1,1923,Apartment,19.05761,72.875723,2.9,Yes,3,Sold,Independent Builder,2022-11-12
+PROP00018,Baner Homes,Pune,Baner,2519000,1,1,385,Studio,18.578291,73.841304,7.5,Yes,20,Sold,Tata Housing,2022-06-17
+PROP00298,Wakad Towers,Pune,Wakad,34880000,2,2,3136,Independent House,18.510636,73.808973,5.3,Yes,2,Available,Tata Housing,2024-11-11
+PROP00148,Madhapur Homes,Hyderabad,Madhapur,21725000,3,2,1761,Apartment,17.405159,78.475052,4.1,Yes,25,Sold,Shapoorji Pallonji,2023-10-15
+PROP00175,Gachibowli Court,Hyderabad,Gachibowli,18490000,3,2,2120,Independent House,17.305712,78.441067,2.4,,20,Available,Shapoorji Pallonji,2023-01-18
+PROP00768,Aundh Homes,Pune,Aundh,12794000,2,2,1521,Independent House,18.477201,73.900286,2.1,Yes,0,Sold,Oberoi Realty,2025-09-04
+PROP00875,Baner Residency,Pune,Baner,14659000,2,1,1288,Apartment,18.585006,73.844193,3.3,Yes,5,Sold,Puravankara,2024-08-01
+PROP01141,Nungambakkam Estate,Chennai,Nungambakkam,14919000,3,3,1143,Apartment,13.094067,80.232466,2.2,No,20,Sold,Godrej Properties,2023-01-05
+PROP00308,Karol Bagh Enclave,Delhi,Karol Bagh,15643000,3,3,1252,Apartment,28.691931,77.089555,6.1,Yes,7,Available,Prestige Group,2025-03-16
+PROP00705,Miyapur Court,Hyderabad,Miyapur,3402000,1,1,491,Studio,17.397723,78.518994,6.7,Yes,7,Sold,Tata Housing,2026-06-12
+PROP00899,Adyar Residency,Chennai,Adyar,5246000,1,1,400,Studio,13.145477,80.304686,0.8,Yes,10,Available,Independent Builder,2025-06-09
+PROP01055,Adyar Court,Chennai,Adyar,7156000,1,1,600,Studio,13.144695,80.206715,4.1,Yes,20,Available,Oberoi Realty,2025-11-27
+PROP00984,Secunderabad Estate,Hyderabad,Secunderabad,15174000,4,4,2300,Independent House,17.401957,78.447106,7.7,No,0,Available,Lodha Group,2024-10-10
+PROP00767,Thaltej Heights,Ahmedabad,Thaltej,3926000,1,1,467,Studio,23.088205,72.54444,1.9,Yes,0,Available,DLF Ltd,2026-03-27
+PROP00229,Navi Mumbai Gardens,Mumbai,Navi Mumbai,67487000,3,2,1754,Apartment,19.146344,72.945689,4.6,Yes,3,Under Construction,Brigade Group,2024-04-21
+PROP00694,Vasant Kunj Heights,Delhi,Vasant Kunj,13943000,1,1,547,Studio,28.706254,77.147303,1.7,Yes,7,Available,Lodha Group,2025-03-28
+PROP00855,Powai Gardens,Mumbai,Powai,50547000,3,3,2356,Independent House,19.020921,72.908911,6.1,Yes,20,Sold,Local Developer,2025-09-15
+PROP00430,Pitampura Court,Delhi,Pitampura,41938000,3,3,1597,Apartment,28.68187,77.046171,6.9,Yes,7,Available,Lodha Group,2023-12-08
+PROP00437,Electronic City Court,Bangalore,Electronic City,78050000,3,3,4104,Villa,12.906721,77.635021,4.4,Yes,25,Sold,Lodha Group,2025-11-04
+PROP00928,Karol Bagh Gardens,delhi,Karol Bagh,38533000,3,3,1728,Apartment,28.736559,77.034625,1.7,Yes,2,Available,Independent Builder,2025-04-28
+PROP00401,OMR Towers,Chennai,OMR,8528000,3,2,768,Apartment,13.080541,80.332334,3.6,Yes,1,Available,,2026-01-14
+PROP00208,Worli Estate,Mumbai,Worli,45944000,3,2,1312,Apartment,19.09915,72.890872,2.2,Yes,0,Under Construction,Sobha Ltd,2025-08-15
+PROP00119,Hinjewadi Towers,Pune,Hinjewadi,17619000,3,2,2025,Apartment,18.588229,73.783291,6.9,Yes,0,Under Construction,Tata Housing,2023-06-27
+PROP00834,Juhu Towers,Mumbai,Juhu,25571000,2,1,754,Apartment,19.091727,72.845694,0.3,No,0,Sold,Puravankara,2026-05-12
+PROP00843,Thaltej Residency,Ahmedabad,Thaltej,17228000,3,3,2407,Independent House,23.032394,72.561522,2.8,Yes,15,Available,Lodha Group,2025-11-13
+PROP01022,HSR Layout Towers,Bangalore,HSR Layout,17824000,4,4,1278,Independent House,13.005418,77.642633,3.1,Yes,0,Available,Shapoorji Pallonji,2023-02-18
+PROP00292,Velachery Estate,Chennai,Velachery,7954000,1,1,626,Studio,13.126679,80.294577,4.3,Yes,0,Sold,Oberoi Realty,2023-04-15
+PROP00752,Adyar Heights,Chennai,Adyar,15656000,2,,1469,Apartment,13.121212,80.26041,6.1,Yes,1,Sold,Tata Housing,2024-11-09
+PROP01111,Vasant Kunj Enclave,Delhi,Vasant Kunj,67193000,4,4,4760,Villa,28.763852,77.081066,6.3,No,0,Sold,Oberoi Realty,2025-03-12
+PROP00468,Bopal Enclave,Ahmedabad,Bopal,13271000,3,3,2236,Independent House,23.038839,72.621548,6,,0,Sold,Independent Builder,2025-08-06
+PROP00126,Vastrapur Court,Ahmedabad,Vastrapur,5792000,3,2,1372,Apartment,22.948726,72.605575,6.5,,1,Sold,Shapoorji Pallonji,2022-10-14
+PROP00176,HSR Layout Enclave,Bangalore,HSR Layout,24624000,2,2,1923,Apartment,12.993857,77.610115,5,Yes,5,Available,Puravankara,2025-06-18
+PROP00723,Kothrud Gardens,Pune,Kothrud,5957000,1,1,514,Studio,18.500821,73.934919,4.7,Yes,2,Available,Puravankara,2025-10-22
+PROP00212,Jayanagar Enclave,Bangalore,Jayanagar,8182000,2,2,603,Apartment,12.896289,77.64431,2.4,No,15,Available,Tata Housing,2023-04-22
+PROP00635,SG Highway Estate,Ahmedabad,SG Highway,7218000,2,1,967,Apartment,23.079815,72.554674,3.7,No,5,Available,Puravankara,2022-07-11
+PROP00702,Malad Court,Mumbai,Malad,80448000,3,3,2126,Independent House,19.154367,72.838874,4,,10,Available,,2023-09-09
+PROP01134,Vastrapur Homes,Ahmedabad,Vastrapur,13673000,2,2,2709,Independent House,22.952566,72.523429,1.3,Yes,25,Available,Godrej Properties,2022-05-01
+PROP00920,Porur Gardens,Chennai,Porur,17065000,1,1,1276,Apartment,13.08186,80.290198,4.8,Yes,5,Under Construction,Sobha Ltd,2024-11-17
+PROP00160,Vasant Kunj Towers,Delhi,Vasant Kunj,9057000,1,1,640,Studio,28.771965,77.132009,2.4,Yes,1,Under Construction,Brigade Group,2022-02-02
+PROP00645,Secunderabad Residency,Hyderabad,Secunderabad,64504000,5,4,4181,Villa,17.397954,78.474195,4.7,Yes,0,Available,DLF Ltd,2023-02-21
+PROP00992,Marathahalli Residency,Bangalore,Marathahalli,12794000,4,4,1145,Apartment,13.032037,77.668305,5.6,Yes,25,Sold,Puravankara,2025-12-31
+PROP00801,Tambaram Homes,Chennai,Tambaram,24262000,3,3,2762,Independent House,13.053637,80.340342,3.3,Yes,3,Sold,Local Developer,2024-05-19
+PROP01039,Rohini Towers,Delhi,Rohini,14473000,3,3,558,Apartment,28.630904,77.15202,3.4,Yes,3,Available,Shapoorji Pallonji,2026-06-15
+PROP00619,Juhu Homes,Mumbai,Juhu,42180000,4,4,1531,Independent House,19.065434,72.855178,7,Yes,0,Available,DLF Ltd,2022-10-01
+PROP01068,Malad Homes,Mumbai,Malad,19108000,1,1,543,Studio,19.01019,72.913524,2.3,Yes,7,Available,Godrej Properties,2023-04-28
+PROP00163,Marathahalli Enclave,Bangalore,Marathahalli,19555000,4,3,1749,Apartment,13.015147,77.561861,2.1,Yes,0,Available,Oberoi Realty,2025-12-28
+PROP00690,Adyar Estate,Chennai,Adyar,10160000,1,1,776,Apartment,13.014707,80.243393,5,No,3,Sold,Prestige Group,2025-04-09
+PROP00523,Powai Court,Mumbai,Powai,52042000,2,2,1815,Independent House,19.015676,72.820044,4.5,Yes,7,Available,Shapoorji Pallonji,2026-07-01
+PROP00299,Hinjewadi Residency,Pune,Hinjewadi,10138000,3,2,1689,Independent House,18.465591,73.936191,6.3,Yes,25,Available,Tata Housing,2023-02-15
+PROP00136,SG Highway Estate,Ahmedabad,SG Highway,4626000,4,,1142,Apartment,23.033374,72.508568,7.9,Yes,10,Under Construction,Shapoorji Pallonji,2024-12-09
+PROP00161,Hinjewadi Heights,Pune,Hinjewadi,26039000,4,4,3102,Independent House,18.530633,73.867371,6.8,Yes,7,Sold,Prestige Group,2026-06-07
+PROP00535,Aundh Residency,Pune,Aundh,23765000,3,2,2162,Apartment,18.512946,73.850973,3.5,,5,Sold,Independent Builder,2026-05-23
+PROP00503,Gachibowli Gardens,Hyderabad,Gachibowli,18086000,3,2,3048,Independent House,17.406057,78.520839,5.4,Yes,7,Available,Independent Builder,2025-12-06
+PROP01121,Kharadi Court,Pune,Kharadi,14252000,4,4,1564,Independent House,18.59538,73.804197,7.6,Yes,2,Available,Tata Housing,2026-05-20
+PROP00207,Gachibowli Residency,Hyderabad,Gachibowli,16506000,3,3,2879,Independent House,17.369703,78.479052,6,Yes,0,Available,Prestige Group,2022-09-06
+PROP01044,Tambaram Enclave,Chennai,Tambaram,11410000,2,2,1116,Apartment,13.106996,80.305458,6.7,Yes,7,Available,Sobha Ltd,2024-07-04
+PROP00876,Miyapur Court,Hyderabad,Miyapur,11257000,2,1,1642,Independent House,17.405883,78.459334,2.5,No,0,Sold,Lodha Group,2024-01-05
+PROP00435,Andheri Court,Mumbai,Andheri,108900000,4,,3187,Independent House,19.053882,72.874578,3.6,Yes,25,Sold,Local Developer,2022-09-02
+PROP00897,Aundh Enclave,Pune,Aundh,24666000,2,1,2128,Apartment,18.524808,73.783361,7.6,Yes,20,Sold,Tata Housing,2025-01-16
+PROP00037,Banjara Hills Homes,Hyderabad,Banjara Hills,4885000,3,3,609,Apartment,17.413663,78.471391,1.5,No,1,Under Construction,Shapoorji Pallonji,2022-02-25
+PROP00613,Navrangpura Enclave,Ahmedabad,Navrangpura,7220000,2,1,1357,Independent House,22.957481,72.583451,0.9,Yes,15,Under Construction,DLF Ltd,2024-05-18
+PROP00643,Satellite Gardens,Ahmedabad,Satellite,2047000,1,1,426,Studio,22.966145,72.562871,6.4,No,0,Available,Oberoi Realty,2026-01-28
+PROP00946,Kondapur Gardens,Hyderabad,Kondapur,12052000,4,3,2020,Independent House,17.371616,78.533057,,Yes,2,Available,Godrej Properties,2026-04-12
+PROP00858,Gachibowli Enclave,Hyderabad,Gachibowli,23081000,4,4,2647,Villa,17.31974,78.564811,1.1,No,10,Under Construction,Shapoorji Pallonji,2024-06-20
+PROP01005,Miyapur Residency,Hyderabad,Miyapur,15164000,3,3,1492,Apartment,17.350588,78.414847,4.2,Yes,10,Sold,Oberoi Realty,2026-04-13
+PROP00739,SG Highway Gardens,Ahmedabad,SG Highway,9303000,4,3,1713,Apartment,23.096149,72.566173,7.9,Yes,1,Under Construction,Lodha Group,2026-06-26
+PROP00469,Nungambakkam Enclave,Chennai,Nungambakkam,8853000,3,,1206,Independent House,13.051588,80.282829,1.1,Yes,15,Sold,Independent Builder,2026-04-12
+PROP00144,Thaltej Enclave,Ahmedabad,Thaltej,8905000,3,3,1468,Apartment,23.051737,72.597287,4.4,Yes,0,Available,Shapoorji Pallonji,2024-03-15
+PROP00181,SG Highway Towers,Ahmedabad,SG Highway,30833000,5,4,2419,Villa,22.990133,72.65129,3.7,Yes,0,Available,Godrej Properties,2026-05-08
+PROP00650,OMR Heights,Chennai,OMR,10856000,2,2,1106,Apartment,13.159168,80.210721,1.9,Yes,2,Available,Local Developer,2025-02-19
+PROP00425,Whitefield Heights,Bangalore,Whitefield,20473000,2,2,1483,Apartment,12.917326,77.600251,1.6,Yes,25,Sold,,2023-05-03
+PROP00854,Koramangala Court,Bangalore,Koramangala,20966000,4,4,1165,Apartment,12.905112,77.617573,3.2,No,0,Under Construction,Lodha Group,2026-02-03
+PROP00011,Nungambakkam Towers,Chennai,Nungambakkam,13830000,3,2,1462,Independent House,13.090669,80.233109,7,No,2,Under Construction,Local Developer,2025-11-13
+PROP01087,OMR Estate,Chennai,OMR,16458000,2,2,2122,Apartment,13.057185,80.199028,3.6,Yes,7,Sold,Puravankara,2025-07-06
+PROP00159,Navi Mumbai Residency,Mumbai,Navi Mumbai,53633000,3,3,1524,Apartment,19.108455,72.81093,6.8,Yes,20,Under Construction,Godrej Properties,2024-12-17
+PROP00909,Baner Estate,Pune,Baner,15632000,3,2,1720,Apartment,18.550098,73.838583,7.3,Yes,25,Available,Lodha Group,2023-12-08
+PROP00852,Baner Towers,Pune,Baner,18720000,2,1,1587,Apartment,18.459873,73.897757,1.1,No,20,Available,Brigade Group,2024-04-30
+PROP00158,Navrangpura Residency,Ahmedabad,Navrangpura,6595000,3,3,711,Apartment,23.01594,72.530313,5.6,Yes,25,Sold,Godrej Properties,2025-08-31
+PROP00972,Pitampura Residency,Delhi,Pitampura,16384000,2,2,1407,Independent House,28.742557,77.173968,4.6,No,10,Available,Local Developer,2024-05-30
+PROP00216,Saket Homes,Delhi,Saket,50983000,3,3,3167,Independent House,28.774808,77.085795,1,Yes,5,Available,Prestige Group,2026-02-08
+PROP00083,Thaltej Homes,Ahmedabad,Thaltej,20951000,2,1,2447,Independent House,22.985292,72.520267,5.7,Yes,5,Available,Prestige Group,2022-10-21
+PROP01138,OMR Towers,Chennai,OMR,26387000,4,4,2041,Apartment,13.107563,80.345359,7.7,Yes,5,Available,Prestige Group,2025-03-26
+PROP00115,Indiranagar Estate,Bangalore,Indiranagar,35585000,3,3,2825,Independent House,12.911018,77.546757,1.3,No,0,Available,Tata Housing,2024-01-26
+PROP00205,Madhapur Gardens,Hyderabad,Madhapur,5231000,2,1,828,Apartment,17.321905,78.478631,2.6,Yes,15,Available,Sobha Ltd,2024-07-14
+PROP00688,Anna Nagar Heights,Chennai,Anna Nagar,13806000,2,2,1369,Apartment,13.052808,80.288671,3.3,No,10,Sold,Godrej Properties,2024-02-05
+PROP00908,Hinjewadi Residency,Pune,Hinjewadi,13996000,3,3,1958,Independent House,18.457007,73.814086,3.2,,7,Sold,Godrej Properties,2023-04-05
+PROP00476,Kondapur Homes,Hyderabad,Kondapur,4340000,3,2,634,Apartment,17.332179,78.485554,2.8,No,1,Available,Local Developer,2024-12-22
+PROP00874,Anna Nagar Heights,Chennai,Anna Nagar,16220000,4,3,1549,Apartment,13.093199,80.28776,7,No,0,Sold,Tata Housing,2026-06-14
+PROP01122,Worli Court,Mumbai,Worli,20136000,1,1,608,Studio,19.058595,72.856229,7.6,No,15,Available,Oberoi Realty,2025-02-18
+PROP00466,Porur Towers,Chennai,Porur,5140000,1,1,412,Studio,13.139924,80.252855,7.3,No,3,Available,Sobha Ltd,2023-09-02
+PROP00495,OMR Homes,Chennai,OMR,7679000,3,2,1025,Apartment,13.148151,80.244964,4.9,No,1,Under Construction,Local Developer,2025-12-27
+PROP00720,Velachery Gardens,Chennai,Velachery,7401000,4,4,1170,Apartment,13.136992,80.268099,7.7,Yes,20,Sold,Shapoorji Pallonji,2026-05-08
+PROP00004,Viman Nagar Court,Pune,Viman Nagar,31119000,2,2,2554,Independent House,18.598035,73.913551,7,No,3,Available,Brigade Group,2022-11-30
+PROP00213,Worli Towers,Mumbai,Worli,44716000,3,2,2292,Independent House,19.155423,72.832806,6.8,No,5,Under Construction,Prestige Group,2022-12-27
+PROP00477,Karol Bagh Court,Delhi,Karol Bagh,20731000,1,1,811,Apartment,28.757669,77.142152,7.4,Yes,3,Sold,Lodha Group,2024-11-24
+PROP00599,Velachery Homes,Chennai,Velachery,5307000,1,1,399,Studio,13.031441,80.199096,7.8,Yes,20,Available,Prestige Group,2025-07-08
+PROP00287,Kothrud Heights,Pune,Kothrud,41169000,4,4,3801,Villa,18.48533,73.800738,1.4,Yes,25,Available,Brigade Group,2026-01-15
+PROP00422,Pitampura Residency,Delhi,Pitampura,24921000,3,3,916,Apartment,28.636412,77.048863,1.1,Yes,10,Available,Sobha Ltd,2024-12-02
+PROP01040,Thane Towers,Mumbai,Thane,71002000,4,3,1715,Apartment,19.096934,72.800395,1.9,Yes,1,Sold,Independent Builder,2024-11-09
+PROP00952,Gachibowli Court,Hyderabad,Gachibowli,35740000,4,4,4321,Villa,17.306978,78.539434,6.9,Yes,10,Under Construction,Oberoi Realty,2026-01-14
+PROP00368,Marathahalli Towers,Bangalore,Marathahalli,69411000,4,3,4338,Villa,13.029935,77.634846,5.7,Yes,0,Available,Godrej Properties,2024-10-14
+PROP00882,Dwarka Homes,Delhi,Dwarka,44932000,1,1,1803,Apartment,28.690424,77.110696,4.6,No,1,Sold,Tata Housing,2024-03-29
+PROP00388,Anna Nagar Heights,Chennai,Anna Nagar,17706000,3,3,1734,Apartment,13.107711,80.237381,6,Yes,3,Available,Prestige Group,2024-11-01
+PROP00262,Porur Gardens,Chennai,Porur,71270000,5,4,3714,Villa,13.046475,80.344875,7.8,No,1,Available,Tata Housing,2025-12-04
+PROP00236,Wakad Court,Pune,Wakad,26484000,3,3,2067,Independent House,18.51384,73.811613,2.6,No,20,Available,Shapoorji Pallonji,2025-09-18
+PROP00020,Baner Gardens,Pune,Baner,11197000,2,2,1586,Apartment,18.496241,73.787707,2.1,Yes,1,Available,Shapoorji Pallonji,2025-12-11
+PROP01052,Kharadi Heights,Pune,Kharadi,19592000,3,3,1701,Apartment,18.456911,73.920048,2,Yes,2,Available,Shapoorji Pallonji,2026-02-21
+PROP00098,Porur Towers,Chennai,Porur,3628000,1,1,417,Studio,13.02866,80.323715,6.2,Yes,10,Available,Brigade Group,2025-10-17
+PROP00221,Pitampura Court,Delhi,Pitampura,17359000,1,1,1153,Apartment,28.776366,77.034372,1.5,No,1,Sold,Shapoorji Pallonji,2022-07-10
+PROP00969,Thane Estate,Mumbai,Thane,50957000,4,4,1474,Apartment,19.011193,72.907112,4.8,Yes,15,Available,Shapoorji Pallonji,2023-01-07
+PROP00085,Powai Court,Mumbai,Powai,13152000,3,2,651,Apartment,19.066898,72.865542,4.9,No,3,Available,Shapoorji Pallonji,2022-08-22
+PROP01031,Powai Homes,Mumbai,Powai,52520000,2,1,1619,Apartment,19.07259,72.945654,5.1,Yes,5,Under Construction,Oberoi Realty,2022-08-01
+PROP00414,Hinjewadi Residency,Pune,Hinjewadi,30598000,3,2,2383,Independent House,18.454236,73.913816,4,Yes,20,Available,Puravankara,2023-07-26
+PROP00662,Gachibowli Towers,Hyderabad,Gachibowli,25913000,5,4,2596,Villa,17.46305,78.530573,0.7,Yes,7,Under Construction,Sobha Ltd,2022-04-21
+PROP00906,Janakpuri Towers,Delhi,Janakpuri,7482000,1,1,478,Studio,28.656204,77.125562,3.3,Yes,3,Available,Sobha Ltd,2023-01-12
+PROP01128,Gachibowli Gardens,Hyderabad,Gachibowli,70780000,5,5,4574,Penthouse,17.375752,78.454484,1.5,No,5,Available,Local Developer,2025-10-02
+PROP00831,Prahlad Nagar Towers,Ahmedabad,Prahlad Nagar,15851000,3,3,2560,Independent House,22.958314,72.544122,,Yes,0,Available,Shapoorji Pallonji,2023-05-23
+PROP00746,Navrangpura Homes,Ahmedabad,Navrangpura,28743000,4,4,2880,Villa,23.058702,72.552374,8,Yes,0,Under Construction,Sobha Ltd,2025-03-03
+PROP00005,HSR Layout Residency,Bangalore,HSR Layout,21736000,2,1,2447,Independent House,13.00826,77.540744,3.2,Yes,25,Available,DLF Ltd,2023-04-15
+PROP01067,Yelahanka Residency,Bangalore,Yelahanka,53805000,3,3,2616,Villa,12.991065,77.521394,3.2,Yes,15,Available,DLF Ltd,2022-04-01
+PROP00188,Koramangala Enclave,Bangalore,Koramangala,10087000,4,4,888,Apartment,12.940481,77.626511,2,Yes,0,Available,Puravankara,2022-06-09
+PROP00660,Bopal Heights,Ahmedabad,Bopal,14931000,2,2,1717,Apartment,22.978188,72.631265,5.4,Yes,10,Available,Shapoorji Pallonji,2024-08-10
+PROP00808,Wakad Heights,Pune,Wakad,13442000,2,2,1404,Apartment,18.488029,73.782398,1.1,Yes,15,Sold,Sobha Ltd,2022-12-25
+PROP00346,Hitech City Court,Hyderabad,Hitech City,5673000,1,1,598,Studio,17.334827,78.486804,3.8,Yes,0,Available,Shapoorji Pallonji,2023-09-17
+PROP00289,Powai Estate,Mumbai,Powai,54966000,2,2,1608,Apartment,19.086177,72.800679,5.8,,0,Available,Tata Housing,2024-08-23
+PROP00527,Maninagar Towers,Ahmedabad,Maninagar,13515000,3,3,1592,Independent House,23.042538,72.620746,1.9,No,5,Available,Puravankara,2025-12-12
+PROP00499,Bopal Estate,Ahmedabad,Bopal,49822000,5,5,4997,Penthouse,22.959366,72.592188,7,Yes,1,Sold,Local Developer,2024-06-23
+PROP00214,Kharadi Residency,Pune,Kharadi,19119000,3,2,3071,Independent House,18.55249,73.928309,4.6,Yes,10,Available,Prestige Group,2024-10-01
+PROP00224,Rohini Homes,Delhi,Rohini,51187000,2,2,1857,Apartment,28.699871,77.040981,6.3,No,10,Under Construction,Lodha Group,2022-07-06
+PROP00933,Greater Kailash Enclave,Delhi,Greater Kailash,13567000,1,1,835,Apartment,28.76334,77.046401,3.1,No,25,Under Construction,Prestige Group,2025-04-29
+PROP00653,Kothrud Court,Pune,Kothrud,29328000,5,5,2187,Villa,18.441757,73.833764,2.4,No,15,Available,Oberoi Realty,2026-01-26
+PROP00337,Porur Court,Chennai,Porur,24655000,3,2,2199,Independent House,13.133822,80.205958,5.2,Yes,20,Available,DLF Ltd,2026-04-28
+PROP00295,Marathahalli Homes,Bangalore,Marathahalli,97877000,4,4,4787,Villa,13.017006,77.591795,3.1,No,3,Under Construction,Tata Housing,2023-12-07
+PROP00526,Marathahalli Residency,Bangalore,Marathahalli,32331000,3,3,1992,Independent House,13.021499,77.672007,1.2,Yes,2,Available,Sobha Ltd,2026-03-02
+PROP00749,Viman Nagar Estate,Pune,Viman Nagar,29224000,4,3,2580,Independent House,18.537287,73.904037,2.9,Yes,0,Available,Shapoorji Pallonji,2022-10-31
+PROP00394,Kothrud Heights,Pune,Kothrud,8301000,2,2,1224,Independent House,18.457025,73.848051,1.9,Yes,3,Available,DLF Ltd,2025-06-22
+PROP00905,Andheri Residency,Mumbai,Andheri,49657000,3,3,1309,Apartment,19.066724,72.92076,5.4,Yes,2,Sold,DLF Ltd,2025-03-10
+PROP00754,Jayanagar Court,Bangalore,Jayanagar,13449000,2,2,843,Apartment,13.00914,77.672873,1.8,Yes,20,Under Construction,Brigade Group,2022-07-23
+PROP00959,Prahlad Nagar Enclave,Ahmedabad,Prahlad Nagar,8013000,2,2,1786,Independent House,23.001268,72.622714,4.4,Yes,25,Under Construction,Local Developer,2025-02-02
+PROP00631,Miyapur Gardens,Hyderabad,Miyapur,33828000,5,4,3641,Villa,17.3306,78.441549,5.6,No,15,Sold,Shapoorji Pallonji,2023-06-15
+PROP00296,Velachery Residency,Chennai,Velachery,3103000,1,1,410,Studio,13.127997,80.342579,1,No,5,Sold,Tata Housing,2025-11-28
+PROP00293,Thaltej Gardens,Ahmedabad,Thaltej,15119000,4,3,2109,Apartment,23.010578,72.532123,6.2,Yes,3,Sold,Shapoorji Pallonji,2024-04-16
+PROP00431,Yelahanka Homes,Bangalore,Yelahanka,5913000,1,1,394,Studio,12.962675,77.673416,6.5,Yes,1,Sold,Oberoi Realty,2026-02-01
+PROP01077,Malad Court,Mumbai,Malad,72024000,2,2,2946,Independent House,19.142638,72.83113,6.2,Yes,2,Sold,Lodha Group,2025-04-17
+PROP00202,Prahlad Nagar Gardens,Ahmedabad,Prahlad Nagar,13765000,3,3,1508,Independent House,22.946326,72.578047,5.2,Yes,5,Available,Independent Builder,2024-02-10
+PROP00013,Andheri Estate,Mumbai,Andheri,70800000,2,2,1668,Independent House,19.133542,72.809037,2.1,No,2,Available,Local Developer,2025-03-15
+PROP00999,Dwarka Court,Delhi,Dwarka,11970000,3,3,828,Apartment,28.708723,77.100893,6.1,No,15,Available,Independent Builder,2024-11-30
+PROP01079,OMR Estate,Chennai,OMR,11428000,2,1,1379,Apartment,13.038815,80.331881,6.9,Yes,0,Under Construction,Tata Housing,2026-04-09
+PROP00461,Aundh Residency,Pune,Aundh,7879000,1,1,963,Apartment,18.445063,73.903047,2.4,Yes,25,Under Construction,Local Developer,2024-09-22
+PROP00450,SG Highway Estate,Ahmedabad,SG Highway,10632000,4,4,1569,Apartment,23.02929,72.620917,4.4,Yes,0,Under Construction,Godrej Properties,2024-02-25
+PROP00242,Janakpuri Gardens,Delhi,Janakpuri,22322000,3,3,1487,Apartment,28.738607,77.147131,4,Yes,5,Sold,DLF Ltd,2024-07-14
+PROP00358,Indiranagar Residency,Bangalore,Indiranagar,6929000,2,1,916,Apartment,12.94089,77.631426,7.7,Yes,25,Available,Prestige Group,2023-02-20
+PROP00626,Karol Bagh Enclave,Delhi,Karol Bagh,9459000,3,3,756,Apartment,28.775833,77.080673,2.6,Yes,25,Available,Shapoorji Pallonji,2026-04-27
+PROP00416,Miyapur Heights,Hyderabad,Miyapur,6911000,4,4,750,Apartment,17.318295,78.527193,5.6,No,2,Available,Lodha Group,2023-05-05
+PROP00727,Worli Gardens,Mumbai,Worli,88136000,3,3,3088,Independent House,19.053265,72.937291,1.4,Yes,0,Available,Sobha Ltd,2024-11-26
+PROP00238,Porur Court,Chennai,Porur,34267000,2,2,2542,Independent House,13.044208,80.257671,3.2,Yes,20,Sold,Tata Housing,2023-01-24
+PROP01020,Koramangala Homes,Bangalore,Koramangala,21468000,2,2,1347,Apartment,12.965761,77.669248,6.3,Yes,10,Available,Brigade Group,2026-03-07
+PROP00142,Nungambakkam Homes,Chennai,Nungambakkam,13584000,3,3,1462,Apartment,13.08482,80.263788,0.7,No,25,Sold,Local Developer,2022-02-14
+PROP00961,Wakad Court,Pune,Wakad,5805000,1,1,520,Studio,18.512523,73.862974,5.5,Yes,5,Available,Independent Builder,2022-10-25
+PROP00809,Baner Court,Pune,Baner,17442000,2,2,1846,Apartment,18.484351,73.932196,5.6,Yes,15,Sold,DLF Ltd,2022-06-06
+PROP00374,Navi Mumbai Heights,Mumbai,Navi Mumbai,50060000,3,3,1352,Apartment,19.138604,72.898415,5.6,No,20,Available,Brigade Group,2023-02-10
+PROP01037,Malad Heights,Mumbai,Malad,69228000,3,3,3019,Independent House,19.02997,72.925759,2,Yes,3,Sold,Shapoorji Pallonji,2026-03-26
+PROP00670,Aundh Towers,Pune,Aundh,28030000,4,3,2089,Apartment,18.456352,73.847757,4.7,Yes,25,Available,Oberoi Realty,2023-03-10
+PROP00074,SG Highway Residency,Ahmedabad,SG Highway,17388000,4,3,2134,Villa,23.094589,72.628272,1,Yes,15,Under Construction,Independent Builder,2024-01-05
+PROP01101,Wakad Heights,Pune,Wakad,26324000,1,1,2012,Apartment,18.556563,73.898775,3.4,Yes,20,Available,DLF Ltd,2025-02-11
+PROP00618,Rohini Gardens,Delhi,Rohini,111872000,4,4,3682,Villa,28.747212,77.062522,3.9,Yes,3,Available,Prestige Group,2025-01-03
+PROP00191,Kondapur Homes,Hyderabad,Kondapur,31202000,3,3,3083,Independent House,17.375781,78.441459,7.2,Yes,0,Sold,Oberoi Realty,2023-12-21
+PROP00799,Satellite Towers,Ahmedabad,Satellite,65545000,4,4,5747,Penthouse,22.968955,72.491535,1.4,Yes,3,Available,Prestige Group,2023-04-29
+PROP00152,Vasant Kunj Heights,Delhi,Vasant Kunj,39874000,2,2,1680,Apartment,28.685006,77.107884,3,Yes,5,Available,Puravankara,2024-08-12
+PROP00756,Hinjewadi Estate,Pune,Hinjewadi,20509000,1,1,1655,Apartment,18.441466,73.909901,0.4,Yes,3,Under Construction,Tata Housing,2024-05-23
+PROP00006,Navrangpura Gardens,Ahmedabad,Navrangpura,8661000,1,1,982,Apartment,22.992848,72.59627,,No,1,Available,Sobha Ltd,2026-03-06
+PROP01030,Baner Heights,Pune,Baner,9903000,3,3,1119,Apartment,18.455125,73.804924,6.5,Yes,0,Under Construction,Tata Housing,2026-07-06
+PROP00377,Baner Enclave,Pune,Baner,18772000,4,4,2181,Apartment,18.544312,73.903489,4.4,No,20,Available,Tata Housing,2023-05-15
+PROP00332,Maninagar Enclave,Ahmedabad,Maninagar,29919000,3,3,5417,Villa,23.025618,72.507596,2,,2,Available,,2023-05-25
+PROP00803,Worli Residency,Mumbai,Worli,16737000,2,2,640,Apartment,19.010856,72.859151,1.6,Yes,3,Available,Independent Builder,2024-09-11
+PROP00460,Thaltej Estate,Ahmedabad,Thaltej,10134000,2,2,1873,Apartment,23.038697,72.556339,1.1,Yes,0,Available,Lodha Group,2024-08-08
+PROP00024,OMR Residency,Chennai,OMR,35264000,3,2,2797,Independent House,13.06772,80.290006,1.4,Yes,1,Under Construction,Prestige Group,2024-04-24
+PROP00059,Hinjewadi Residency,Pune,Hinjewadi,20725000,3,2,1590,Apartment,18.578644,73.8209,6.4,No,5,Under Construction,Shapoorji Pallonji,2023-07-02
+PROP00636,Pitampura Towers,Delhi,Pitampura,17147000,2,1,936,Apartment,28.740817,77.12611,0.4,Yes,1,Sold,Independent Builder,2025-05-29
+PROP00223,Anna Nagar Estate,Chennai,Anna Nagar,6642000,1,1,651,Apartment,13.137077,80.215274,3,No,0,Available,Independent Builder,2025-07-04
+PROP00237,Wakad Homes,Pune,Wakad,13348000,1,1,1536,Apartment,18.484637,73.828722,2.4,Yes,2,Available,Sobha Ltd,2022-04-27
+PROP00980,Kondapur Court,Hyderabad,Kondapur,22175000,3,3,1789,Apartment,17.441861,78.481886,4,Yes,10,Available,Local Developer,2024-09-29
+PROP00707,Worli Enclave,Mumbai,Worli,25011000,3,3,802,Apartment,18.996814,72.854061,6.7,Yes,3,Available,Lodha Group,2026-05-28
+PROP00780,Powai Gardens,Mumbai,Powai,28187000,2,,1123,Apartment,19.012372,72.925202,4.8,No,5,Sold,Tata Housing,2025-05-23
+PROP00009,Malad Towers,Mumbai,Malad,23156000,3,2,556,Apartment,19.038142,72.877794,1.6,Yes,25,Available,Independent Builder,2024-11-05
+PROP00002,Viman Nagar Court,Pune,Viman Nagar,17689000,4,4,1651,Independent House,18.569909,73.77774,6.5,No,5,Available,Sobha Ltd,2026-04-13
+PROP00480,Worli Enclave,Mumbai,Worli,16906000,1,1,442,Studio,19.127611,72.88782,5.4,Yes,20,Under Construction,DLF Ltd,2024-12-13
+PROP00827,Jayanagar Enclave,Bangalore,Jayanagar,27395000,3,2,3134,Independent House,12.993023,77.590646,3.6,Yes,1,Sold,Local Developer,2022-09-21
+PROP00644,Rohini Homes,Delhi,Rohini,14475000,2,2,922,Apartment,28.703173,77.099506,7.8,Yes,1,Sold,Independent Builder,2023-05-19
+PROP00921,Kothrud Heights,Pune,Kothrud,5189000,2,1,656,Apartment,18.489462,73.848529,3.6,Yes,3,Sold,,2024-07-27
+PROP00698,HSR Layout Gardens,Bangalore,HSR Layout,6306000,1,1,557,Studio,12.926782,77.646451,5.6,No,2,Available,Sobha Ltd,2023-12-13
+PROP00795,Madhapur Heights,Hyderabad,Madhapur,16455000,1,1,1608,Apartment,17.381034,78.481459,2.7,No,25,Sold,DLF Ltd,2023-10-23
+PROP01035,Whitefield Court,Bangalore,Whitefield,5410000,1,1,378,Studio,13.051344,77.625945,6.6,Yes,3,Available,Oberoi Realty,2022-06-02
+PROP00772,Banjara Hills Towers,Hyderabad,Banjara Hills,17577000,3,3,1703,Apartment,17.35819,78.536249,7.8,Yes,15,Available,Puravankara,2025-04-30
+PROP00840,Navi Mumbai Homes,Mumbai,Navi Mumbai,27511000,2,2,1485,Apartment,19.108694,72.831077,5.8,Yes,5,Available,Oberoi Realty,2026-06-08
+PROP00109,Kondapur Gardens,Hyderabad,Kondapur,66436000,4,4,5334,Penthouse,17.347675,78.419918,3.5,No,20,Under Construction,Prestige Group,2025-01-22
+PROP01132,Electronic City Estate,Bangalore,Electronic City,6930000,1,1,618,Studio,12.985429,77.673816,4,No,2,Available,Independent Builder,2026-06-04
+PROP00659,Kharadi Enclave,Pune,Kharadi,13403000,4,3,1396,Apartment,18.580785,73.9353,0.5,Yes,2,Sold,Shapoorji Pallonji,2022-01-17
+PROP00338,Marathahalli Enclave,Bangalore,Marathahalli,32382000,1,1,2127,Apartment,13.027517,77.663185,5.1,No,0,Available,DLF Ltd,2023-10-16
+PROP00682,Prahlad Nagar Heights,Ahmedabad,Prahlad Nagar,40221000,4,4,4275,Penthouse,23.073043,72.591066,4.9,No,2,Sold,Brigade Group,2025-07-19
+PROP00938,Kharadi Court,Pune,Kharadi,101761000,4,4,4860,Villa,18.565455,73.868264,7.3,Yes,2,Available,Puravankara,2022-02-09
+PROP00525,Powai Heights,Mumbai,Powai,76787000,4,4,1990,Apartment,19.082101,72.923669,5.3,Yes,15,Available,Independent Builder,2024-06-30
+PROP00303,Navrangpura Court,Ahmedabad,Navrangpura,6514000,2,1,1607,Apartment,23.075648,72.531121,0.9,Yes,0,Sold,Prestige Group,2024-09-02
+PROP00915,Tambaram Residency,Chennai,Tambaram,27173000,4,4,2617,Villa,13.120855,80.312719,4,Yes,25,Available,Godrej Properties,2022-06-25
+PROP01075,Indiranagar Residency,Bangalore,Indiranagar,4735000,4,3,597,Apartment,12.951963,77.580391,2.4,Yes,15,Sold,Shapoorji Pallonji,2024-10-31
+PROP00453,Maninagar Homes,Ahmedabad,Maninagar,8276000,1,1,1759,Apartment,23.001126,72.620929,4.8,Yes,7,Available,Brigade Group,2024-01-02
+PROP00256,SG Highway Estate,Ahmedabad,SG Highway,2236000,1,1,388,Studio,22.995443,72.535905,,No,7,Sold,Godrej Properties,2024-07-29
+PROP00867,Aundh Gardens,Pune,Aundh,6727000,1,1,492,Studio,18.592224,73.824139,,No,10,Available,Prestige Group,2026-01-17
+PROP01049,Porur Towers,Chennai,Porur,39250000,3,2,3113,Villa,13.067294,80.200775,7.7,Yes,2,Under Construction,Lodha Group,2026-07-17
+PROP00841,HSR Layout Estate,Bangalore,HSR Layout,24141000,4,4,2953,Independent House,12.930502,77.566677,3.9,No,0,Sold,Oberoi Realty,2025-11-09
+PROP00053,Powai Court,Mumbai,Powai,64345000,3,3,2099,Independent House,19.044655,72.862101,2.3,,10,Available,DLF Ltd,2024-06-03
+PROP00403,Hitech City Residency,Hyderabad,Hitech City,17125000,4,3,1916,Apartment,17.413492,78.546581,1.4,Yes,0,Available,Prestige Group,2024-09-28
+PROP00592,Karol Bagh Residency,Delhi,Karol Bagh,12031000,1,1,778,Apartment,28.718852,77.052605,7.5,Yes,1,Under Construction,Oberoi Realty,2025-03-27
+PROP00951,Saket Court,Delhi,Saket,50780000,3,3,2197,Apartment,28.763977,77.054523,4.6,Yes,25,Available,Tata Housing,2023-09-14
+PROP00668,Baner Court,Pune,Baner,18042000,4,4,2047,Independent House,18.57291,73.844836,7.8,Yes,0,Under Construction,Puravankara,2024-05-27
+PROP00084,Powai Heights,Mumbai,Powai,44832000,2,1,1387,Independent House,19.056191,72.870283,1.4,Yes,5,Sold,Tata Housing,2025-05-06
+PROP00423,Marathahalli Court,Bangalore,Marathahalli,44371000,5,5,3040,Penthouse,12.99475,77.561243,0.7,Yes,15,Sold,Oberoi Realty,2025-03-31
+PROP00304,HSR Layout Towers,Bangalore,HSR Layout,8483000,1,1,487,Studio,13.000897,77.660188,4.1,Yes,2,Sold,,2023-02-28
+PROP00929,Aundh Heights,Pune,Aundh,30235000,4,4,2893,Villa,18.478923,73.777817,7.1,Yes,3,Sold,Godrej Properties,2022-05-07
+PROP00792,Velachery Gardens,Chennai,Velachery,14305000,3,3,1995,Apartment,13.025168,80.241187,2,Yes,3,Under Construction,Prestige Group,2023-08-28
+PROP00878,Jayanagar Court,Bangalore,Jayanagar,39445000,4,4,3296,Villa,12.993912,77.564668,4.1,Yes,7,Available,Local Developer,2024-09-21
+PROP00068,Bandra Enclave,Mumbai,Bandra,23523000,1,1,604,Studio,19.032819,72.926009,1.9,Yes,20,Available,Local Developer,2026-04-21
+PROP00721,Janakpuri Towers,Delhi,Janakpuri,128464000,4,3,4394,Villa,28.628823,77.13976,2,Yes,10,Under Construction,Puravankara,2023-10-25
+PROP00090,Viman Nagar Heights,Pune,Viman Nagar,6240000,1,1,528,Studio,18.571432,73.907106,2,Yes,3,Available,Tata Housing,2022-11-10
+PROP00580,Hitech City Heights,Hyderabad,Hitech City,55292000,4,4,3732,Villa,17.353355,78.561529,5.3,No,20,Available,Oberoi Realty,2026-03-22
+PROP00196,Marathahalli Heights,Bangalore,Marathahalli,10476000,3,3,1318,Independent House,12.961117,77.587139,4.9,Yes,25,Sold,Local Developer,2022-12-26
+PROP00979,Wakad Gardens,Pune,Wakad,8971000,1,1,1436,Apartment,18.451013,73.790275,7.2,Yes,25,Available,Lodha Group,2024-03-16
+PROP00941,Prahlad Nagar Gardens,Ahmedabad,Prahlad Nagar,32970000,5,5,4978,Penthouse,23.084063,72.57516,4.1,Yes,7,Available,DLF Ltd,2023-09-03
+PROP00931,Kharadi Towers,Pune,Kharadi,27948000,2,2,2365,Independent House,18.49145,73.833998,6.5,Yes,10,Available,Puravankara,2023-10-04
+PROP00735,Thane Enclave,Mumbai,Thane,12031000,1,1,598,Studio,19.141928,72.932328,4.3,Yes,15,Available,Brigade Group,2026-01-24
+PROP00120,Thaltej Enclave,Ahmedabad,Thaltej,40685000,3,2,4039,Villa,22.990835,72.53058,6.5,No,3,Available,Local Developer,2022-05-03
+PROP00193,Tambaram Homes,Chennai,Tambaram,20711000,1,1,2155,Apartment,13.020739,80.270633,4.8,Yes,5,Under Construction,Prestige Group,2024-03-03
+PROP00764,HSR Layout Estate,Bangalore,HSR Layout,7370000,1,1,559,Studio,12.943311,77.622598,3.4,No,7,Available,DLF Ltd,2023-07-04
+PROP00071,Thaltej Heights,Ahmedabad,Thaltej,38594000,5,5,3998,Penthouse,23.028352,72.564166,5.4,Yes,20,Available,Independent Builder,2024-01-31
+PROP00467,Vastrapur Homes,Ahmedabad,Vastrapur,3192000,1,1,512,Studio,22.947921,72.630031,6.6,No,10,Sold,Brigade Group,2026-01-09
+PROP00847,Viman Nagar Estate,Pune,Viman Nagar,27952000,4,4,2874,Independent House,18.582697,73.935796,1.4,Yes,0,Available,Tata Housing,2023-11-27
+PROP00578,Greater Kailash Residency,Delhi,Greater Kailash,126709000,5,4,3927,Penthouse,28.683009,77.031733,3.2,No,2,Available,DLF Ltd,2024-01-11
+PROP00246,Worli Residency,Mumbai,Worli,18257000,2,1,982,Apartment,19.076741,72.817406,5.7,Yes,7,Under Construction,Lodha Group,2026-04-29
+PROP00579,Velachery Homes,Chennai,Velachery,15082000,3,3,1944,Apartment,13.099044,80.342985,6.8,Yes,0,Sold,Independent Builder,2025-12-28
+PROP00924,Navrangpura Heights,Ahmedabad,Navrangpura,3451000,1,1,408,Studio,23.071496,72.508528,0.8,Yes,0,Available,Sobha Ltd,2026-05-15
+PROP01107,Secunderabad Homes,Hyderabad,Secunderabad,18640000,3,3,3074,Independent House,17.438433,78.50895,7,Yes,0,Sold,Lodha Group,2024-11-29
+PROP00986,Satellite Residency,Ahmedabad,Satellite,7845000,1,1,1118,Apartment,22.985446,72.616819,7.4,No,2,Available,Independent Builder,2025-03-06
+PROP00918,OMR Enclave,Chennai,OMR,23701000,5,5,3100,Penthouse,13.143537,80.26635,3.9,Yes,20,Sold,,2024-06-22
+PROP01066,Velachery Estate,Chennai,Velachery,42306000,4,3,4052,Penthouse,13.105997,80.311105,2.2,Yes,15,Sold,Tata Housing,2025-09-30
+PROP01126,Wakad Estate,Pune,Wakad,84963000,3,,5355,Penthouse,18.563562,73.790642,6.3,Yes,10,Available,Shapoorji Pallonji,2022-09-07
+PROP00080,Prahlad Nagar Estate,Ahmedabad,Prahlad Nagar,11945000,2,2,1397,Apartment,23.006297,72.608138,2.6,Yes,25,Available,,2025-11-07
+PROP00936,Prahlad Nagar Court,Ahmedabad,Prahlad Nagar,5749000,1,1,1180,Apartment,23.043373,72.600849,3.5,Yes,20,Available,Lodha Group,2023-11-30
+PROP00271,Porur Residency,Chennai,Porur,13866000,4,3,1806,Apartment,13.00908,80.332406,3.2,Yes,7,Available,Local Developer,2023-08-03
+PROP00648,Bandra Gardens,Mumbai,Bandra,97258000,5,5,2613,Villa,19.080392,72.949503,3.9,Yes,10,Sold,Local Developer,2022-01-28
+PROP00663,Satellite Enclave,Ahmedabad,Satellite,28021000,5,5,4232,Penthouse,22.965178,72.535225,0.8,No,7,Available,Independent Builder,2023-06-16
+PROP00604,Velachery Towers,Chennai,Velachery,13497000,2,2,2092,Apartment,13.022655,80.238472,7.7,Yes,7,Under Construction,Independent Builder,2022-01-01
+PROP00932,Saket Enclave,Delhi,Saket,35724000,2,2,1389,Apartment,28.675999,77.1499,7.6,No,10,Under Construction,Puravankara,2024-07-15
+PROP00583,Powai Heights,Mumbai,Powai,51756000,3,3,1731,Independent House,19.142075,72.815171,5.2,Yes,3,Available,Godrej Properties,2023-07-21
+PROP00444,Janakpuri Residency,Delhi,Janakpuri,54027000,4,3,3377,Penthouse,28.781638,77.042278,1.1,Yes,10,Sold,Local Developer,2023-08-14
+PROP00448,Thaltej Enclave,Ahmedabad,Thaltej,16835000,4,4,1785,Apartment,23.024326,72.51498,3.7,Yes,3,Available,Sobha Ltd,2025-07-10
+PROP00384,Tambaram Estate,Chennai,Tambaram,4074000,1,1,567,Studio,13.084206,80.279028,3.7,Yes,2,Available,Tata Housing,2022-01-16
+PROP01065,Thane Residency,Mumbai,Thane,37430000,4,3,1854,Apartment,19.106073,72.874625,6.5,No,15,Sold,DLF Ltd,2026-06-01
+PROP00263,Navrangpura Heights,Ahmedabad,Navrangpura,11974000,3,,1611,Independent House,22.988993,72.546647,5.4,Yes,15,Available,Independent Builder,2023-10-23
+PROP00993,Kondapur Enclave,Hyderabad,Kondapur,16998000,1,1,1555,Apartment,17.45047,78.421014,2.2,Yes,3,Available,Lodha Group,2024-09-07
+PROP00937,Vastrapur Gardens,Ahmedabad,Vastrapur,4386000,3,3,679,Apartment,23.00922,72.524913,2.7,Yes,5,Sold,Puravankara,2026-05-31
+PROP01081,Marathahalli Homes,Bangalore,Marathahalli,30438000,2,1,1773,Apartment,12.930702,77.574967,3.9,No,3,Sold,Tata Housing,2022-09-03
+PROP00830,T Nagar Residency,Chennai,T Nagar,6761000,2,2,972,Apartment,13.100083,80.307302,1.1,Yes,5,Available,Tata Housing,2025-07-31
+PROP00206,Madhapur Court,Hyderabad,Madhapur,4577000,1,1,396,Studio,17.353674,78.519453,4.9,Yes,5,Available,Local Developer,2023-05-24
+PROP00654,Rohini Enclave,Delhi,Rohini,29314000,4,4,1581,Apartment,28.74811,77.02629,6.4,No,20,Under Construction,DLF Ltd,2023-08-18
+PROP01029,Powai Estate,Mumbai,Powai,6943000,1,1,351,Studio,19.119254,72.919052,2.3,Yes,0,Sold,Brigade Group,2022-09-06
+PROP00124,Yelahanka Towers,Bangalore,Yelahanka,26934000,5,4,3170,Villa,12.91303,77.556916,3.1,,5,Available,DLF Ltd,2025-03-13
+PROP00669,Saket Residency,Delhi,Saket,94194000,5,,3167,Villa,28.66942,77.12176,7.4,Yes,0,Sold,Godrej Properties,2022-07-03
+PROP01092,Maninagar Residency,Ahmedabad,Maninagar,19076000,4,4,2717,Villa,23.071632,72.527084,6.3,No,7,Sold,DLF Ltd,2024-04-15
+PROP00501,Hinjewadi Homes,Pune,Hinjewadi,17895000,2,2,2014,Apartment,18.546799,73.800958,6.1,No,2,Available,Oberoi Realty,2024-04-26
+PROP01058,Rohini Heights,Delhi,Rohini,19844000,3,3,2170,Independent House,28.684026,77.107785,5.5,No,0,Available,,2023-03-10
+PROP01100,Prahlad Nagar Estate,Ahmedabad,Prahlad Nagar,3606000,1,1,576,Studio,22.965484,72.608196,1.9,Yes,3,Available,Puravankara,2024-06-21
+PROP01076,Prahlad Nagar Court,Ahmedabad,Prahlad Nagar,13274000,3,2,1694,Independent House,23.0255,72.624267,2.3,Yes,10,Sold,Local Developer,2022-05-07
+PROP00536,Kondapur Estate,Hyderabad,Kondapur,28462000,3,3,2420,Villa,17.431307,78.437678,4.7,Yes,5,Available,Local Developer,2025-06-25
+PROP00283,Marathahalli Enclave,Bangalore,Marathahalli,17377000,3,3,2051,Apartment,12.97178,77.529089,3,Yes,25,Available,Tata Housing,2025-11-02
+PROP00361,Saket Homes,Delhi,Saket,73848000,3,3,3178,Independent House,28.68173,77.028234,6.2,Yes,5,Under Construction,Godrej Properties,2026-04-03
+PROP00470,Thaltej Enclave,Ahmedabad,Thaltej,18700000,3,3,2124,Independent House,22.963862,72.519157,4.8,Yes,3,Available,Oberoi Realty,2024-01-23
+PROP00602,Secunderabad Estate,Hyderabad,Secunderabad,49993000,5,5,4276,Penthouse,17.31516,78.552121,6.4,Yes,7,Sold,DLF Ltd,2024-03-17
+PROP00474,HSR Layout Homes,Bangalore,HSR Layout,69230000,4,3,3514,Villa,12.893251,77.535913,2.7,No,25,Available,Oberoi Realty,2025-12-21
+PROP00819,Thane Heights,Mumbai,Thane,73683000,3,3,2599,Independent House,19.100497,72.95358,3.4,Yes,20,Available,Tata Housing,2025-06-23
+PROP00641,Kukatpally Court,Hyderabad,Kukatpally,34039000,3,3,2916,Penthouse,17.323936,78.554431,7.4,Yes,20,Available,Oberoi Realty,2024-12-22
+PROP00034,SG Highway Gardens,Ahmedabad,SG Highway,3217000,1,1,593,Studio,22.982058,72.593426,6.2,No,25,Available,Puravankara,2022-06-08
+PROP01110,Adyar Enclave,Chennai,Adyar,10114000,3,3,1033,Apartment,13.131917,80.328316,0.3,Yes,7,Available,Godrej Properties,2025-09-11
+PROP00861,Yelahanka Residency,Bangalore,Yelahanka,29234000,3,3,2756,Independent House,12.951563,77.537835,5.9,Yes,7,Sold,Sobha Ltd,2023-01-09
+PROP00987,Andheri Residency,Mumbai,Andheri,51937000,3,3,2023,Apartment,19.034509,72.83297,4.9,,15,Available,Sobha Ltd,2022-11-07
+PROP00740,Worli Gardens,mumbai,Worli,54185000,3,2,1891,Independent House,19.094488,72.855571,5.3,Yes,0,Available,Independent Builder,2023-10-20
+PROP00857,Juhu Enclave,Mumbai,Juhu,77853000,3,3,1830,Apartment,19.038429,72.849072,6.3,Yes,0,Under Construction,DLF Ltd,2026-02-14
+PROP00028,Viman Nagar Court,Pune,Viman Nagar,14660000,4,4,1443,Apartment,18.569442,73.886597,7.5,Yes,5,Available,Independent Builder,2023-11-08
+PROP00812,Indiranagar Gardens,Bangalore,Indiranagar,7321000,4,3,643,Apartment,12.920602,77.560186,0.2,Yes,0,Sold,Independent Builder,2022-09-23
+PROP01112,T Nagar Gardens,Chennai,T Nagar,22175000,4,3,2297,Villa,13.157727,80.311494,7.6,Yes,2,Available,Tata Housing,2025-01-14
+PROP00608,OMR Homes,Chennai,OMR,16958000,3,3,2059,Independent House,13.128745,80.251331,7.7,Yes,0,Available,Shapoorji Pallonji,2022-08-14
+PROP00697,Wakad Heights,Pune,Wakad,33234000,5,5,4124,Villa,18.480231,73.794473,1.1,Yes,20,Available,Godrej Properties,2024-12-25
+PROP00344,Hadapsar Gardens,Pune,Hadapsar,72564000,4,3,4847,Villa,18.585366,73.860988,2.2,Yes,3,Available,Local Developer,2025-06-19
+PROP01045,Rohini Towers,Delhi,Rohini,8357000,1,1,516,Studio,28.707119,77.06651,5.4,Yes,2,Available,Sobha Ltd,2025-09-25
+PROP00426,Thane Gardens,Mumbai,Thane,98865000,5,5,3066,Villa,19.00155,72.848411,2.9,Yes,10,Available,Prestige Group,2024-12-28
+PROP00143,Whitefield Enclave,Bangalore,Whitefield,13940000,2,2,1292,Independent House,12.901802,77.67366,7.5,Yes,10,Available,Oberoi Realty,2023-01-04
+PROP00089,Navrangpura Heights,Ahmedabad,Navrangpura,7586000,1,1,1048,Apartment,23.026334,72.554723,2.6,Yes,2,Available,Prestige Group,2022-06-06
+PROP01016,Maninagar Enclave,Ahmedabad,Maninagar,8714000,3,3,1791,Apartment,23.066672,72.573783,4.1,Yes,3,Available,Brigade Group,2025-09-23
+PROP00218,Dwarka Estate,Delhi,Dwarka,16181000,1,1,643,Studio,28.747433,77.113297,,Yes,20,Available,Tata Housing,2022-08-02
+PROP00494,Dwarka Gardens,Delhi,Dwarka,108086000,5,5,4360,Villa,28.727828,77.164762,1.1,Yes,10,Sold,DLF Ltd,2022-11-27
+PROP00399,Gachibowli Court,Hyderabad,Gachibowli,49879000,5,5,3958,Villa,17.434964,78.417916,2,No,10,Available,Shapoorji Pallonji,2024-01-06
+PROP00483,Dwarka Residency,Delhi,Dwarka,43049000,3,3,1861,Independent House,28.711645,77.118867,0.9,Yes,1,Available,Oberoi Realty,2022-07-02
+PROP00259,Prahlad Nagar Homes,Ahmedabad,Prahlad Nagar,12952000,2,2,1847,Apartment,23.002322,72.508412,7.2,No,1,Sold,Local Developer,2026-01-17
+PROP00243,Saket Residency,Delhi,Saket,61733000,4,,4005,Villa,28.692806,77.091144,,Yes,0,Available,Local Developer,2024-02-04
+PROP00226,Thane Heights,Mumbai,Thane,76967000,4,3,3188,Independent House,19.005757,72.859637,4.3,No,20,Under Construction,Puravankara,2023-09-05
+PROP00203,Worli Heights,Mumbai,Worli,259514000,4,4,3719,Villa,19.01878,72.842472,0.5,Yes,15,Available,Brigade Group,2024-07-27
+PROP00562,Bandra Enclave,Mumbai,Bandra,29925000,4,4,829,Apartment,19.070279,72.871517,0.8,Yes,10,Available,Lodha Group,2022-11-27
+PROP00036,Greater Kailash Towers,Delhi,Greater Kailash,49899000,3,,1974,Apartment,28.746595,77.083361,0.2,Yes,3,Sold,Oberoi Realty,2025-01-07
+PROP00264,Navrangpura Residency,Ahmedabad,Navrangpura,59017000,5,,4761,Villa,23.082896,72.558982,0.3,Yes,0,Available,DLF Ltd,2025-10-04
+PROP01062,Powai Gardens,Mumbai,Powai,151446000,4,4,5272,Villa,19.133329,72.884687,0.8,Yes,5,Available,Godrej Properties,2023-06-16
+PROP00380,Saket Gardens,Delhi,Saket,7545000,1,1,350,Studio,28.696576,77.069141,5,No,2,Available,Brigade Group,2023-09-06
+PROP01051,Electronic City Towers,Bangalore,Electronic City,82161000,5,4,4743,Villa,12.952387,77.614539,7.1,Yes,0,Under Construction,Brigade Group,2024-08-23
+PROP00800,Hitech City Estate,Hyderabad,Hitech City,30814000,3,2,2602,Independent House,17.364881,78.483075,2.9,No,15,Sold,Local Developer,2023-03-12
+PROP00019,Porur Estate,Chennai,Porur,5137000,1,1,454,Studio,13.04089,80.254026,5.4,Yes,10,Available,Godrej Properties,2022-01-20
+PROP00586,Navrangpura Towers,Ahmedabad,Navrangpura,13258000,2,1,2135,Independent House,23.076167,72.639406,0.4,Yes,15,Available,Local Developer,2026-03-19
+PROP00505,Porur Heights,Chennai,Porur,7009000,1,1,557,Studio,13.016185,80.276689,,Yes,15,Under Construction,Lodha Group,2023-03-14
+PROP00409,Worli Enclave,mumbai,Worli,20690000,3,2,745,Apartment,19.117781,72.884056,1.9,Yes,3,Available,Godrej Properties,2026-06-20
+PROP00794,Viman Nagar Towers,Pune,Viman Nagar,73832000,4,,3920,Penthouse,18.473592,73.888645,4.1,Yes,0,Available,Sobha Ltd,2023-06-13
+PROP00868,Andheri Towers,Mumbai,Andheri,45335000,3,3,1918,Apartment,19.113354,72.892738,0.7,No,1,Available,,2026-04-15
+PROP00713,Koramangala Estate,Bangalore,Koramangala,14079000,1,1,1145,Apartment,12.944609,77.524338,,Yes,2,Available,Shapoorji Pallonji,2026-02-25
+PROP00137,Pitampura Homes,Delhi,Pitampura,28088000,1,1,1227,Apartment,28.727826,77.137476,0.3,Yes,3,Sold,Sobha Ltd,2022-12-26
+PROP00497,Madhapur Towers,Hyderabad,Madhapur,5291000,3,3,646,Apartment,17.346729,78.515008,1.6,Yes,0,Available,Godrej Properties,2025-06-18
+PROP00534,Bopal Heights,Ahmedabad,Bopal,13257000,2,2,3082,Independent House,23.040218,72.560494,1,Yes,15,Available,Oberoi Realty,2024-04-02
+PROP01097,Maninagar Towers,Ahmedabad,Maninagar,8732000,2,1,1042,Apartment,22.992219,72.572845,5.1,Yes,0,Sold,Prestige Group,2024-09-06
+PROP00793,Nungambakkam Enclave,Chennai,Nungambakkam,10982000,3,2,1277,Apartment,13.126279,80.274387,6.7,Yes,0,Under Construction,Tata Housing,2024-02-29
+PROP00167,Viman Nagar Enclave,Pune,Viman Nagar,15942000,2,2,1173,Apartment,18.493555,73.875931,6.5,Yes,10,Available,Independent Builder,2025-05-02
+PROP01139,Tambaram Enclave,Chennai,Tambaram,3645000,1,1,401,Studio,13.055013,80.327319,0.8,Yes,2,Sold,Prestige Group,2023-04-30
+PROP00557,Hitech City Estate,Hyderabad,Hitech City,6384000,2,2,816,Apartment,17.435863,78.513067,1.4,Yes,20,Available,Local Developer,2025-11-03
+PROP00312,Maninagar Court,Ahmedabad,Maninagar,13176000,4,4,1595,Apartment,23.014009,72.503945,5,No,25,Under Construction,Prestige Group,2025-08-04
+PROP01135,Adyar Heights,Chennai,Adyar,5543000,1,1,616,Studio,13.081026,80.223333,4.5,Yes,0,Available,,2024-04-07
+PROP00640,Wakad Heights,Pune,Wakad,11170000,3,3,840,Apartment,18.44424,73.845042,1.3,Yes,2,Under Construction,Independent Builder,2024-02-27
+PROP00488,Electronic City Estate,Bangalore,Electronic City,43334000,3,2,2466,Villa,12.920753,77.577473,0.8,Yes,5,Sold,Puravankara,2026-04-01
+PROP00782,Pitampura Heights,Delhi,Pitampura,22560000,3,3,1219,Apartment,28.642867,77.112123,3.1,No,10,Available,Shapoorji Pallonji,2023-10-12
+PROP00991,Juhu Court,Mumbai,Juhu,246132000,5,5,5433,Villa,19.108553,72.893853,5.7,No,1,Sold,Sobha Ltd,2023-03-23
+PROP00537,Vasant Kunj Estate,Delhi,Vasant Kunj,10042000,1,1,673,Apartment,28.693836,77.176059,6.1,Yes,20,Under Construction,Prestige Group,2022-10-29
+PROP00506,Wakad Gardens,Pune,Wakad,38295000,4,4,2095,Villa,18.48179,73.909857,2.6,No,15,Available,DLF Ltd,2024-02-03
+PROP00022,Karol Bagh Homes,Delhi,Karol Bagh,78786000,4,4,5465,Villa,28.668369,77.023067,6.2,Yes,1,Sold,Shapoorji Pallonji,2025-12-16
+PROP00742,Juhu Estate,Mumbai,Juhu,23171000,2,2,1081,Apartment,19.096854,72.821204,5,,2,Available,DLF Ltd,2023-01-13
+PROP00971,Velachery Estate,Chennai,Velachery,36466000,3,3,3315,Penthouse,13.126818,80.319788,7.3,No,0,Available,Sobha Ltd,2023-11-28
+PROP00199,Koramangala Residency,Bangalore,Koramangala,6196000,1,1,409,Studio,12.892011,77.65199,0.3,Yes,10,Available,Prestige Group,2023-01-02
+PROP00966,Malad Estate,Mumbai,Malad,50710000,1,1,1414,Apartment,18.997691,72.89331,2.9,Yes,2,Available,Tata Housing,2025-04-22
+PROP00311,Porur Enclave,Chennai,Porur,22019000,2,1,1697,Apartment,13.043934,80.193874,1.1,Yes,20,Sold,Independent Builder,2025-01-07
+PROP00035,Karol Bagh Residency,Delhi,Karol Bagh,8484000,3,,715,Apartment,28.685386,77.046949,,No,7,Available,Puravankara,2024-05-01
+PROP00630,Karol Bagh Enclave,Delhi,Karol Bagh,48698000,3,3,1793,Independent House,28.633827,77.178096,1.7,No,10,Sold,Shapoorji Pallonji,2022-06-03
+PROP00582,Anna Nagar Towers,Chennai,Anna Nagar,11294000,3,3,1561,Independent House,13.024193,80.268535,4.1,Yes,10,Sold,Sobha Ltd,2023-01-16
+PROP00032,Baner Estate,Pune,Baner,20298000,4,4,1728,Apartment,18.501837,73.840644,1.4,Yes,0,Sold,Sobha Ltd,2022-12-27
+PROP01069,Karol Bagh Towers,Delhi,Karol Bagh,44989000,4,3,3513,Villa,28.651338,77.114792,5.9,Yes,25,Available,Oberoi Realty,2023-03-02
+PROP00667,Vasant Kunj Gardens,Delhi,Vasant Kunj,43592000,3,3,2135,Apartment,28.658682,77.056062,1.7,Yes,5,Sold,DLF Ltd,2023-09-11
+PROP00903,Powai Gardens,Mumbai,Powai,13770000,1,1,600,Studio,19.048381,72.94866,2.2,No,3,Available,Lodha Group,2025-03-13
+PROP01006,T Nagar Towers,Chennai,T Nagar,72152000,3,3,5878,Penthouse,13.119732,80.292333,1.3,Yes,0,Sold,Lodha Group,2024-03-18
+PROP01142,Hadapsar Towers,Pune,Hadapsar,5949000,3,3,907,Apartment,18.44927,73.816138,7.2,,15,Under Construction,Local Developer,2022-08-19
+PROP00244,HSR Layout Residency,Bangalore,HSR Layout,17848000,1,1,1833,Apartment,13.002564,77.569696,1.2,No,15,Sold,Prestige Group,2022-05-14
+PROP00038,Kothrud Heights,Pune,Kothrud,6164000,3,3,827,Apartment,18.482025,73.829076,3.7,Yes,7,Available,Oberoi Realty,2023-06-01
+PROP00420,Viman Nagar Homes,Pune,Viman Nagar,7171000,2,1,1038,Apartment,18.516959,73.926964,4.7,Yes,2,Available,Lodha Group,2024-10-28
+PROP00892,Bopal Enclave,Ahmedabad,Bopal,47875000,3,2,5107,Penthouse,23.098624,72.506915,5.5,Yes,20,Available,Prestige Group,2024-06-21
+PROP00531,Malad Towers,Mumbai,Malad,16507000,1,1,622,Studio,19.058697,72.851253,7.1,Yes,2,Under Construction,Oberoi Realty,2022-06-02
+PROP01048,SG Highway Gardens,Ahmedabad,SG Highway,25627000,4,4,3157,Penthouse,22.945243,72.528907,4,Yes,15,Available,Prestige Group,2022-08-13
+PROP00481,Hitech City Enclave,Hyderabad,Hitech City,23533000,3,3,1936,Apartment,17.309154,78.51571,5.5,No,5,Sold,Godrej Properties,2023-10-25
+PROP00285,Jayanagar Gardens,Bangalore,Jayanagar,16526000,4,3,973,Apartment,12.9494,77.589748,3.7,Yes,0,Under Construction,Brigade Group,2022-07-31
+PROP00773,Powai Court,Mumbai,Powai,65927000,3,2,1621,Apartment,19.117693,72.807129,4,No,3,Sold,Prestige Group,2022-03-16
+PROP00445,Thane Heights,Mumbai,Thane,38658000,3,3,1130,Apartment,19.045921,72.953889,3.7,No,3,Under Construction,Oberoi Realty,2023-01-22
+PROP00099,Madhapur Estate,Hyderabad,Madhapur,12246000,4,3,1679,Independent House,17.459495,78.532199,7.3,Yes,5,Sold,Tata Housing,2024-06-21
+PROP00561,Andheri Homes,Mumbai,Andheri,102693000,4,4,3679,Villa,19.003142,72.801975,5.2,No,7,Available,Oberoi Realty,2023-02-03
+PROP00988,Kharadi Towers,Pune,Kharadi,21732000,3,3,2850,Independent House,18.539007,73.929416,0.9,Yes,10,Available,Sobha Ltd,2024-04-12
+PROP00251,Satellite Enclave,Ahmedabad,Satellite,3054000,1,1,534,Studio,23.060666,72.5066,6.1,Yes,0,Under Construction,Independent Builder,2025-08-18
+PROP00086,Hitech City Enclave,Hyderabad,Hitech City,16673000,4,4,1764,Apartment,17.354347,78.441983,7.9,Yes,0,Available,Sobha Ltd,2026-04-21
+PROP00381,Kondapur Gardens,Hyderabad,Kondapur,43514000,5,4,2533,Penthouse,17.325409,78.45377,3.1,Yes,0,Sold,Brigade Group,2022-08-13
+PROP00348,Saket Gardens,Delhi,Saket,20216000,3,3,1895,Apartment,28.685253,77.176197,5,Yes,7,Available,Prestige Group,2024-05-23
+PROP00802,Baner Homes,Pune,Baner,12841000,4,3,2066,Apartment,18.582094,73.805206,2,Yes,5,Available,DLF Ltd,2025-06-04
+PROP00331,HSR Layout Residency,Bangalore,HSR Layout,45748000,3,3,2053,Villa,13.024732,77.589489,5.2,Yes,15,Sold,Oberoi Realty,2024-01-26
+PROP00539,Bopal Heights,Ahmedabad,Bopal,11895000,4,3,1524,Apartment,23.017284,72.602186,6.8,Yes,20,Available,Brigade Group,2022-11-29
+PROP00797,Secunderabad Heights,Hyderabad,Secunderabad,56929000,5,5,4993,Villa,17.42074,78.502851,4,No,3,Available,Sobha Ltd,2026-04-12
+PROP00125,Electronic City Court,Bangalore,Electronic City,14833000,3,2,1472,Apartment,13.049855,77.623464,1.1,Yes,7,Available,,2025-02-16
+PROP00106,Electronic City Enclave,Bangalore,Electronic City,30371000,3,3,2814,Independent House,13.008871,77.615121,6.2,Yes,1,Available,Shapoorji Pallonji,2023-11-25
+PROP00559,Yelahanka Enclave,Bangalore,Yelahanka,24548000,4,4,2172,Apartment,13.023349,77.650575,3.4,Yes,20,Sold,Puravankara,2024-02-27
+PROP01088,Kukatpally Enclave,Hyderabad,Kukatpally,48776000,4,3,3189,Villa,17.353641,78.495425,6.4,,2,Available,Sobha Ltd,2024-09-03
+PROP00397,Maninagar Gardens,Ahmedabad,Maninagar,11454000,1,,1557,Apartment,22.971051,72.570129,1.3,No,2,Sold,Godrej Properties,2024-06-23
+PROP00622,Secunderabad Homes,Hyderabad,Secunderabad,5290000,3,3,719,Apartment,17.329399,78.488498,2.1,Yes,3,Under Construction,Sobha Ltd,2025-09-26
+PROP00225,Janakpuri Heights,Delhi,Janakpuri,9416000,1,1,539,Studio,28.666227,77.096909,2,Yes,20,Available,Local Developer,2025-09-28
+PROP00231,Thane Court,Mumbai,Thane,74830000,3,3,1836,Independent House,19.133318,72.907276,7.8,Yes,1,Available,Local Developer,2024-06-26
+PROP00044,Pitampura Residency,Delhi,Pitampura,80509000,5,5,3377,Villa,28.702108,77.079272,2.2,Yes,20,Sold,Lodha Group,2025-02-12
+PROP00860,Saket Gardens,Delhi,Saket,17543000,3,2,1661,Independent House,28.639266,77.087114,7.1,Yes,2,Available,Prestige Group,2026-02-04
+PROP00376,Kukatpally Enclave,Hyderabad,Kukatpally,25052000,3,3,2815,Independent House,17.309842,78.482753,2.9,No,1,Available,Brigade Group,2025-05-22
+PROP00839,Karol Bagh Homes,Delhi,Karol Bagh,19397000,2,2,1309,Apartment,28.740374,77.155177,2.7,Yes,7,Sold,Oberoi Realty,2022-01-12
+PROP00367,Adyar Residency,Chennai,Adyar,25979000,3,2,2357,Independent House,13.091528,80.193695,4.7,Yes,5,Available,Prestige Group,2023-07-29
+PROP00252,Jayanagar Homes,Bangalore,Jayanagar,3907000,1,1,487,Studio,13.021994,77.543859,3.3,No,3,Sold,,2024-09-06
+PROP01074,Satellite Court,Ahmedabad,Satellite,19269000,3,2,3136,Independent House,22.999248,72.611447,6.1,Yes,1,Available,Sobha Ltd,2026-01-16
+PROP00522,Bandra Gardens,Mumbai,Bandra,45703000,3,3,2537,Independent House,19.145361,72.87485,4.9,No,5,Sold,Sobha Ltd,2025-04-13
+PROP00392,Greater Kailash Court,Delhi,Greater Kailash,19977000,3,2,1332,Apartment,28.708941,77.175439,1,Yes,7,Sold,Independent Builder,2023-07-13
+PROP00315,Kothrud Estate,Pune,Kothrud,11087000,3,3,1623,Apartment,18.539296,73.79019,7.5,No,3,Available,Local Developer,2023-08-05
+PROP00276,Satellite Court,Ahmedabad,Satellite,8107000,3,3,1000,Apartment,23.069983,72.627315,2.5,Yes,3,Sold,Local Developer,2025-08-19
+PROP00395,Worli Estate,Mumbai,Worli,156329000,5,4,2998,Penthouse,19.09275,72.857853,6.2,Yes,0,Sold,Lodha Group,2023-08-27
+PROP00628,Worli Towers,Mumbai,Worli,32659000,3,3,752,Apartment,19.095042,72.845936,3.9,Yes,15,Sold,DLF Ltd,2022-09-19
+PROP01027,Wakad Residency,Pune,Wakad,32454000,3,3,3095,Independent House,18.492974,73.86391,1.8,No,0,Available,Sobha Ltd,2024-09-09
+PROP00366,Vastrapur Homes,Ahmedabad,Vastrapur,17418000,2,2,1927,Apartment,23.070061,72.594704,4,No,15,Under Construction,Puravankara,2026-05-25
+PROP00479,Indiranagar Court,Bangalore,Indiranagar,10704000,4,4,1437,Independent House,12.948643,77.628045,4,No,0,Sold,Prestige Group,2022-09-11
+PROP00079,Indiranagar Heights,Bangalore,Indiranagar,24567000,2,1,1828,Apartment,13.005544,77.575545,4.9,Yes,10,Available,Oberoi Realty,2022-07-23
+PROP00753,Dwarka Homes,Delhi,Dwarka,108527000,4,3,4760,Villa,28.652376,77.138105,2.4,Yes,2,Available,Brigade Group,2022-04-09
+PROP00789,Tambaram Towers,Chennai,Tambaram,12103000,4,4,1921,Apartment,13.134708,80.270944,5.9,Yes,1,Available,Lodha Group,2025-05-31
+PROP00072,OMR Residency,Chennai,OMR,21828000,3,3,1699,Apartment,13.038119,80.200815,6.6,Yes,25,Available,Prestige Group,2022-04-03
+PROP00673,Greater Kailash Homes,Delhi,Greater Kailash,20055000,3,2,944,Apartment,28.756668,77.150713,4.7,Yes,25,Available,Local Developer,2022-12-22
+PROP00040,Saket Residency,Delhi,Saket,30410000,1,1,1705,Apartment,28.665099,77.081523,4.9,Yes,1,Under Construction,Godrej Properties,2025-03-31
+PROP00796,Porur Residency,Chennai,Porur,3202000,1,1,354,Studio,13.056254,80.294361,1,Yes,3,Available,Shapoorji Pallonji,2023-01-17
+PROP00989,Pitampura Homes,Delhi,Pitampura,40287000,4,4,2902,Villa,28.673459,77.115242,4.9,No,10,Available,Godrej Properties,2022-06-17
+PROP01083,Wakad Enclave,Pune,Wakad,14296000,3,3,1635,Apartment,18.44462,73.798987,8,Yes,1,Sold,Prestige Group,2023-03-18
+PROP00734,HSR Layout Heights,Bangalore,HSR Layout,15217000,4,4,1281,Apartment,12.940035,77.573309,4.5,Yes,15,Under Construction,Brigade Group,2025-11-30
+PROP00075,Madhapur Heights,Hyderabad,Madhapur,15507000,1,1,1481,Apartment,17.407673,78.502243,0.4,Yes,2,Under Construction,Tata Housing,2023-02-25
+PROP00612,Tambaram Homes,Chennai,Tambaram,25067000,3,3,2098,Independent House,13.083057,80.234832,3.5,Yes,3,Sold,Godrej Properties,2023-09-18
+PROP00174,Navrangpura Homes,Ahmedabad,Navrangpura,48125000,4,4,5033,Villa,22.995458,72.559619,3.8,No,25,Available,Independent Builder,2025-09-08
+PROP00240,Velachery Heights,Chennai,Velachery,3380000,1,1,521,Studio,13.059545,80.309774,2.6,Yes,5,Available,Lodha Group,2024-08-07
+PROP00334,Jayanagar Court,Bangalore,Jayanagar,90381000,4,4,5460,Villa,13.023785,77.566352,2.1,Yes,7,Sold,Local Developer,2023-06-05
+PROP00147,Satellite Towers,Ahmedabad,Satellite,7376000,2,1,1029,Apartment,23.034896,72.615006,6.6,Yes,3,Under Construction,Independent Builder,2024-12-03
+PROP00607,Wakad Gardens,Pune,Wakad,8529000,4,4,884,Apartment,18.591558,73.884944,7.5,Yes,15,Available,Independent Builder,2026-02-09
+PROP01133,Anna Nagar Towers,Chennai,Anna Nagar,52649000,4,4,5059,Villa,13.160266,80.303289,7.4,Yes,2,Under Construction,Godrej Properties,2024-12-12
+PROP00881,Baner Towers,Pune,Baner,11600000,2,2,1456,Apartment,18.465202,73.935528,0.4,Yes,2,Available,Sobha Ltd,2024-06-20
+PROP00518,Saket Heights,Delhi,Saket,23434000,1,1,865,Apartment,28.732677,77.031926,7.7,Yes,0,Sold,Lodha Group,2024-03-09
+PROP00829,Kukatpally Residency,Hyderabad,Kukatpally,48203000,5,4,3138,Penthouse,17.364898,78.545165,4,Yes,15,Available,Puravankara,2024-02-17
+PROP01119,Aundh Homes,Pune,Aundh,8392000,3,3,951,Apartment,18.570836,73.823766,5.2,Yes,25,Available,Tata Housing,2023-07-06
+PROP00879,Yelahanka Heights,Bangalore,Yelahanka,4547000,1,1,431,Studio,12.909437,77.607695,7.3,Yes,15,Available,Oberoi Realty,2025-06-20
+PROP00017,Nungambakkam Residency,Chennai,Nungambakkam,10208000,2,2,995,Apartment,13.089451,80.310376,0.6,No,15,Under Construction,Shapoorji Pallonji,2022-11-19
+PROP00025,Janakpuri Towers,Delhi,Janakpuri,72236000,4,3,2842,Independent House,28.75382,77.065189,6.3,Yes,7,Under Construction,Puravankara,2023-04-01
+PROP00275,Hitech City Homes,Hyderabad,Hitech City,73871000,3,2,5096,Villa,17.316614,78.555188,1,Yes,20,Available,Puravankara,2024-02-21
+PROP00371,Malad Towers,Mumbai,Malad,12059000,1,1,394,Studio,19.003382,72.880992,5.3,Yes,0,Sold,Lodha Group,2025-08-01
+PROP00260,Malad Estate,Mumbai,Malad,90365000,4,4,2494,Villa,19.026493,72.851769,6.1,,25,Sold,Tata Housing,2022-09-10
+PROP00333,Aundh Estate,Pune,Aundh,29992000,3,3,2581,Independent House,18.508732,73.793356,6.4,No,15,Available,Prestige Group,2024-12-29
+PROP00813,Yelahanka Homes,Bangalore,Yelahanka,33358000,4,4,2397,Villa,12.926969,77.612422,5.9,No,20,Available,Tata Housing,2023-11-05
+PROP00127,Kharadi Heights,Pune,Kharadi,22188000,3,3,2064,Apartment,18.52157,73.858254,4,Yes,10,Sold,Brigade Group,2023-11-10
+PROP01011,Rohini Homes,Delhi,Rohini,33941000,3,2,2045,Independent House,28.714752,77.070354,2.1,No,25,Available,Brigade Group,2022-04-27
+PROP00318,Bandra Residency,Mumbai,Bandra,120587000,4,4,3408,Villa,19.143534,72.949213,3.9,Yes,7,Sold,Tata Housing,2023-04-19
+PROP00591,Hadapsar Towers,Pune,Hadapsar,16562000,4,4,1231,Apartment,18.563014,73.872809,5.2,No,7,Sold,Shapoorji Pallonji,2024-06-13
+PROP00816,Aundh Homes,Pune,Aundh,21823000,1,1,2088,Apartment,18.518921,73.814255,7.4,Yes,7,Sold,Godrej Properties,2022-07-18
+PROP00378,Miyapur Estate,Hyderabad,Miyapur,17214000,2,1,1971,Apartment,17.461833,78.497454,2.9,Yes,1,Sold,Godrej Properties,2026-02-23
+PROP00173,Electronic City Residency,Bangalore,Electronic City,17514000,2,2,1617,Apartment,12.90722,77.630119,3.7,Yes,3,Available,,2022-08-24
+PROP00359,Wakad Residency,Pune,Wakad,19574000,3,2,1571,Apartment,18.537677,73.855655,1.9,No,10,Available,Godrej Properties,2025-05-16
+PROP00750,OMR Residency,Chennai,OMR,4123000,1,1,582,Studio,13.06968,80.313182,5.7,No,0,Available,DLF Ltd,2024-06-02
+PROP00050,Aundh Towers,Pune,Aundh,72978000,4,3,5177,Villa,18.487977,73.870864,3.5,Yes,20,Under Construction,Godrej Properties,2026-04-12
+PROP00877,HSR Layout Heights,Bangalore,HSR Layout,17834000,1,1,1214,Apartment,12.993169,77.637578,1.5,Yes,7,Sold,Prestige Group,2024-10-20
+PROP00355,Miyapur Heights,Hyderabad,Miyapur,3347000,1,1,496,Studio,17.352107,78.553745,5.6,Yes,10,Sold,Puravankara,2022-07-05
+PROP00441,Worli Towers,Mumbai,Worli,31380000,4,3,1601,Apartment,19.015028,72.838182,0.7,Yes,0,Sold,Tata Housing,2023-02-25
+PROP00851,Navrangpura Homes,Ahmedabad,Navrangpura,3320000,3,3,802,Apartment,23.081305,72.62807,1.8,Yes,10,Available,Sobha Ltd,2023-02-26
+PROP00351,Vasant Kunj Estate,Delhi,Vasant Kunj,12495000,2,1,603,Apartment,28.720997,77.120478,4.9,Yes,25,Available,Godrej Properties,2025-11-10
+PROP00491,Powai Towers,Mumbai,Powai,28662000,2,2,779,Apartment,19.026115,72.80199,4,Yes,25,Available,Independent Builder,2026-06-06
+PROP00598,Secunderabad Homes,Hyderabad,Secunderabad,11291000,2,2,979,Apartment,17.336305,78.510898,3,Yes,25,Sold,Prestige Group,2024-02-11
+PROP00568,SG Highway Enclave,Ahmedabad,SG Highway,70817000,3,2,5418,Penthouse,23.033573,72.53171,0.9,Yes,25,Sold,Independent Builder,2026-04-29
+PROP00209,Vastrapur Enclave,Ahmedabad,Vastrapur,7346000,2,2,800,Apartment,22.950602,72.639261,3.6,No,10,Available,Independent Builder,2024-05-23
+PROP00597,Hitech City Enclave,Hyderabad,Hitech City,57458000,4,3,3156,Villa,17.392682,78.422271,2.7,Yes,3,Available,Prestige Group,2025-03-28
+PROP00542,Indiranagar Towers,Bangalore,Indiranagar,9641000,3,3,1053,Apartment,12.919772,77.556486,1,Yes,7,Sold,Godrej Properties,2023-11-25
+PROP00703,Hadapsar Homes,Pune,Hadapsar,17934000,4,3,1613,Apartment,18.464064,73.842351,1.9,Yes,5,Available,Sobha Ltd,2025-03-28
+PROP00151,Bopal Estate,Ahmedabad,Bopal,14381000,3,2,2033,Apartment,23.019203,72.630516,2.8,Yes,2,Under Construction,Local Developer,2022-08-29
+PROP01106,Thaltej Enclave,Ahmedabad,Thaltej,4097000,1,,743,Apartment,23.101689,72.529241,1.8,Yes,0,Available,Shapoorji Pallonji,2022-08-10
+PROP00652,Worli Heights,Mumbai,Worli,18218000,3,3,768,Apartment,18.997756,72.94325,1.7,Yes,25,Under Construction,Sobha Ltd,2023-07-06
+PROP00169,Viman Nagar Gardens,Pune,Viman Nagar,43998000,4,3,4792,Villa,18.591276,73.810244,6.4,Yes,7,Sold,Prestige Group,2025-07-21
+PROP00270,Thane Heights,Mumbai,Thane,51399000,2,2,1908,Apartment,19.042972,72.949749,5,No,15,Sold,Independent Builder,2022-01-19
+PROP01144,Dwarka Court,Delhi,Dwarka,8871000,1,1,485,Studio,28.753833,77.132262,3.8,No,5,Sold,Local Developer,2026-02-24
+PROP00700,Yelahanka Court,Bangalore,Yelahanka,22407000,1,1,1914,Apartment,12.894932,77.670499,7.1,Yes,25,Sold,DLF Ltd,2025-05-01
+PROP00457,Prahlad Nagar Gardens,Ahmedabad,Prahlad Nagar,29063000,3,2,4939,Villa,22.953263,72.61959,3.9,Yes,5,Sold,Independent Builder,2023-09-11
+PROP00280,Velachery Court,Chennai,Velachery,85773000,4,4,5308,Villa,13.052814,80.316406,5.8,No,3,Sold,Prestige Group,2025-10-23
+PROP00014,Pitampura Residency,Delhi,Pitampura,29978000,3,3,1393,Independent House,28.680788,77.088276,6.9,Yes,25,Sold,Independent Builder,2022-07-21
+PROP01064,T Nagar Residency,Chennai,T Nagar,23672000,3,3,2143,Independent House,13.16154,80.244729,0.5,Yes,0,Sold,Local Developer,2022-02-19
+PROP00823,Tambaram Residency,Chennai,Tambaram,3742000,1,1,590,Studio,13.069434,80.232305,5.8,Yes,20,Sold,Shapoorji Pallonji,2026-01-03
+PROP00178,Kukatpally Court,Hyderabad,Kukatpally,24586000,3,2,1970,Apartment,17.332718,78.433398,2.5,Yes,5,Sold,Tata Housing,2022-04-20
+PROP00745,Marathahalli Towers,Bangalore,Marathahalli,9396000,1,1,541,Studio,12.93865,77.519585,3.1,Yes,1,Under Construction,DLF Ltd,2022-08-06
+PROP00201,Juhu Estate,Mumbai,Juhu,10349000,1,1,509,Studio,19.069079,72.856727,2.5,Yes,20,Available,Brigade Group,2025-04-26
+PROP00131,Hadapsar Gardens,Pune,Hadapsar,9403000,2,1,1121,Apartment,18.591038,73.933862,6.2,Yes,10,Available,Brigade Group,2025-02-21
+PROP00939,Baner Gardens,Pune,Baner,12150000,2,2,1827,Apartment,18.51895,73.873116,7.1,Yes,0,Available,Sobha Ltd,2026-06-09
+PROP01144,Dwarka Court,Delhi,Dwarka,8871000,1,1,485,Studio,28.753833,77.132262,3.8,No,5,Sold,Local Developer,2026-02-24
+PROP00722,Prahlad Nagar Court,Ahmedabad,Prahlad Nagar,16648000,2,2,2041,Apartment,23.009709,72.501699,5,Yes,0,Sold,Godrej Properties,2024-06-23
+PROP00765,OMR Residency,Chennai,OMR,10577000,1,1,1181,Apartment,13.094301,80.217346,1.8,Yes,20,Sold,Prestige Group,2025-05-23
+PROP00584,Whitefield Gardens,Bangalore,Whitefield,70715000,5,4,3987,Villa,12.934173,77.667434,,Yes,0,Available,DLF Ltd,2024-02-09
+PROP00814,Gachibowli Heights,Hyderabad,Gachibowli,8358000,2,2,1259,Apartment,17.441697,78.486536,4.4,Yes,25,Available,Oberoi Realty,2022-03-08
+PROP00016,Adyar Homes,Chennai,Adyar,37815000,3,3,3181,Penthouse,13.066866,80.200082,3.2,,3,Under Construction,Puravankara,2023-08-08
+PROP00550,HSR Layout Gardens,Bangalore,HSR Layout,29052000,3,2,1819,Independent House,13.000966,77.558514,5.7,Yes,15,Under Construction,DLF Ltd,2026-04-27
+PROP01115,Nungambakkam Homes,Chennai,Nungambakkam,9168000,2,1,1031,Apartment,13.065179,80.222058,6.2,Yes,0,Under Construction,,2023-07-17
+PROP00062,Bopal Homes,Ahmedabad,Bopal,3963000,1,1,575,Studio,23.015608,72.606991,3.4,Yes,0,Available,Lodha Group,2023-11-25
+PROP00398,Bandra Court,Mumbai,Bandra,79530000,3,3,2040,Apartment,18.999002,72.877332,5.3,Yes,0,Sold,Lodha Group,2022-11-07
+PROP00923,Jayanagar Heights,Bangalore,Jayanagar,21882000,4,3,2033,Independent House,13.042465,77.629659,4.5,No,3,Available,Puravankara,2025-10-07
+PROP00547,Vasant Kunj Heights,Delhi,Vasant Kunj,9599000,1,1,581,Studio,28.67306,77.164693,4.7,Yes,3,Sold,Prestige Group,2026-03-20
+PROP00258,Viman Nagar Heights,Pune,Viman Nagar,28021000,4,4,3146,Independent House,18.449084,73.812367,3.7,No,25,Available,Puravankara,2022-08-22
+PROP00516,Viman Nagar Court,Pune,Viman Nagar,19506000,2,1,1446,Independent House,18.469159,73.779736,6.3,Yes,20,Available,Shapoorji Pallonji,2025-05-27
+PROP00781,SG Highway Residency,Ahmedabad,SG Highway,20334000,1,1,2154,Apartment,22.957114,72.619937,1.3,Yes,10,Under Construction,Brigade Group,2022-06-09
+PROP00095,Thane Court,Mumbai,Thane,33262000,4,4,1341,Apartment,19.132251,72.952006,4.9,Yes,5,Available,Independent Builder,2022-10-17
+PROP00671,SG Highway Gardens,Ahmedabad,SG Highway,33803000,3,3,2801,Villa,23.0695,72.565632,7.3,No,0,Under Construction,Sobha Ltd,2024-11-05
+PROP00288,Secunderabad Enclave,Hyderabad,Secunderabad,10340000,3,2,880,Apartment,17.308591,78.413603,4.7,Yes,1,Sold,DLF Ltd,2025-03-18
+PROP00934,Rohini Estate,Delhi,Rohini,13190000,3,3,856,Apartment,28.627569,77.085257,2.6,Yes,2,Available,Tata Housing,2026-01-22
+PROP00686,Jayanagar Residency,Bangalore,Jayanagar,27380000,1,1,2193,Apartment,13.050042,77.581998,1.2,Yes,20,Available,Oberoi Realty,2023-04-30
+PROP00107,SG Highway Homes,Ahmedabad,SG Highway,50733000,4,4,5087,Penthouse,23.06669,72.564629,2.5,Yes,2,Under Construction,Brigade Group,2023-09-28
+PROP01137,Indiranagar Estate,Bangalore,Indiranagar,69015000,5,4,3566,Villa,12.954399,77.6025,,No,0,Sold,Prestige Group,2022-05-10
+PROP00400,Anna Nagar Homes,Chennai,Anna Nagar,16150000,4,4,1875,Apartment,13.139235,80.24511,6.8,Yes,25,Available,Shapoorji Pallonji,2022-03-22
+PROP00069,T Nagar Enclave,Chennai,T Nagar,4393000,1,1,370,Studio,13.008038,80.249078,1.2,Yes,5,Sold,Prestige Group,2023-02-16
+PROP00324,T Nagar Gardens,Chennai,T Nagar,9956000,4,4,1161,Apartment,13.011034,80.297371,7.8,Yes,25,Available,DLF Ltd,2022-12-09
+PROP01067,Yelahanka Residency,Bangalore,Yelahanka,53805000,3,3,2616,Villa,12.991065,77.521394,3.2,Yes,15,Available,DLF Ltd,2022-04-01
+PROP00751,Velachery Heights,Chennai,Velachery,92377000,3,,4609,Penthouse,13.059399,80.255071,4.5,Yes,0,Available,,2025-04-26
+PROP00729,Kharadi Heights,Pune,Kharadi,3790000,1,1,381,Studio,18.569306,73.866917,5,Yes,5,Under Construction,Oberoi Realty,2025-05-10
+PROP00912,Miyapur Court,Hyderabad,Miyapur,10334000,2,1,1217,Apartment,17.420729,78.439646,1.9,Yes,20,Available,Local Developer,2025-09-12
+PROP00695,Pitampura Court,Delhi,Pitampura,3782000,1,1,406,Studio,28.697835,77.065181,3.9,No,5,Available,Shapoorji Pallonji,2022-06-22
+PROP01061,Andheri Enclave,Mumbai,Andheri,73674000,3,3,3044,Independent House,19.108043,72.94963,1.1,No,7,Under Construction,Tata Housing,2025-12-30
+PROP00463,Wakad Heights,Pune,Wakad,7236000,1,1,1037,Apartment,18.56947,73.829386,4.8,No,2,Under Construction,Sobha Ltd,2022-10-23
+PROP00186,Greater Kailash Heights,Delhi,Greater Kailash,43268000,4,4,1749,Independent House,28.678141,77.114969,4.6,No,5,Under Construction,DLF Ltd,2022-04-05
+PROP00302,Secunderabad Towers,Hyderabad,Secunderabad,33619000,3,3,3168,Independent House,17.448444,78.544624,4,Yes,0,Available,Sobha Ltd,2025-10-18
+PROP00885,Kothrud Heights,Pune,Kothrud,14879000,3,2,1568,Apartment,18.592906,73.804115,4.6,Yes,5,Available,Local Developer,2022-10-30
+PROP00180,Whitefield Residency,Bangalore,Whitefield,17786000,3,3,1141,Apartment,12.982104,77.638208,4.1,Yes,20,Available,Shapoorji Pallonji,2024-01-22
+PROP00122,HSR Layout Court,Bangalore,HSR Layout,12568000,2,2,1470,Apartment,12.899697,77.665862,,No,2,Under Construction,Prestige Group,2023-11-02
+PROP00806,SG Highway Gardens,Ahmedabad,SG Highway,13415000,3,3,1428,Independent House,23.027574,72.552755,5.5,Yes,0,Available,Local Developer,2025-04-23
+PROP00165,Bandra Enclave,Mumbai,Bandra,25269000,3,2,740,Apartment,19.047909,72.859338,2.5,No,0,Sold,Shapoorji Pallonji,2023-05-13
+PROP00820,Aundh Towers,Pune,Aundh,4128000,1,1,516,Studio,18.531489,73.852206,0.9,Yes,0,Sold,Independent Builder,2024-03-08
+PROP00010,Janakpuri Heights,Delhi,Janakpuri,44356000,2,2,2426,Independent House,28.641999,77.080577,7.9,Yes,2,Available,Tata Housing,2022-06-11
+PROP00055,Greater Kailash Residency,Delhi,Greater Kailash,48159000,5,5,2373,Villa,28.731321,77.159737,2.8,No,3,Sold,,2026-04-07
+PROP00963,Kothrud Homes,Pune,Kothrud,22775000,3,3,1911,Apartment,18.549842,73.902736,4,Yes,5,Available,Oberoi Realty,2024-12-07
+PROP00356,Saket Enclave,Delhi,Saket,18263000,2,2,1473,Apartment,28.71855,77.136522,1.8,No,0,Available,Local Developer,2025-08-21
+PROP00343,Saket Gardens,Delhi,Saket,7715000,1,1,497,Studio,28.752785,77.071319,3.9,Yes,2,Sold,Sobha Ltd,2023-02-22
+PROP01098,Bandra Towers,Mumbai,Bandra,103228000,4,4,2429,Independent House,19.058286,72.957451,1.1,No,15,Available,Godrej Properties,2025-09-30
+PROP00112,Marathahalli Court,Bangalore,Marathahalli,3180000,1,1,366,Studio,12.963588,77.573954,3.7,Yes,20,Available,Brigade Group,2024-03-26
+PROP00056,Hitech City Estate,Hyderabad,Hitech City,9434000,2,,787,Apartment,17.436988,78.406884,7,No,7,Available,Shapoorji Pallonji,2024-01-11
+PROP00777,Karol Bagh Residency,Delhi,Karol Bagh,188657000,4,3,5288,Villa,28.720823,77.098038,1.8,Yes,1,Available,Local Developer,2024-08-28
+PROP00345,Juhu Towers,Mumbai,Juhu,47869000,2,2,1336,Independent House,19.102077,72.943759,3,Yes,0,Available,Independent Builder,2024-03-02
+PROP01009,Kharadi Gardens,Pune,Kharadi,71945000,4,4,4157,Villa,18.534765,73.885916,6.5,Yes,2,Sold,Oberoi Realty,2024-09-16
+PROP00189,Viman Nagar Heights,Pune,Viman Nagar,35771000,5,5,2038,Villa,18.598505,73.84427,1.2,Yes,2,Available,Local Developer,2026-07-09
+PROP00665,Satellite Estate,Ahmedabad,Satellite,25391000,4,3,2318,Villa,22.994297,72.649219,7.5,Yes,0,Available,Puravankara,2022-10-30
+PROP00692,Jayanagar Heights,Bangalore,Jayanagar,16457000,4,4,1662,Independent House,12.938997,77.527847,4.6,Yes,25,Sold,Sobha Ltd,2025-11-24
+PROP00415,Tambaram Residency,Chennai,Tambaram,15608000,3,3,1707,Independent House,13.038285,80.339097,7.6,Yes,7,Under Construction,DLF Ltd,2024-08-21
+PROP00762,Miyapur Enclave,Hyderabad,Miyapur,36299000,5,5,3210,Villa,17.448491,78.52893,,No,5,Available,Oberoi Realty,2022-08-26
+PROP00379,Juhu Heights,Mumbai,Juhu,38449000,1,1,1461,Apartment,19.060927,72.893421,5.5,No,5,Available,Independent Builder,2022-05-06
+PROP00871,Rohini Estate,Delhi,Rohini,14169000,1,1,524,Studio,28.630655,77.156576,,No,7,Sold,Local Developer,2025-11-17
+PROP01099,Navrangpura Enclave,Ahmedabad,Navrangpura,7870000,2,2,1298,Independent House,22.951458,72.595126,0.8,Yes,5,Available,Oberoi Realty,2026-05-04
+PROP00836,Anna Nagar Court,Chennai,Anna Nagar,63023000,3,3,5099,Villa,13.158597,80.265981,1.5,Yes,7,Sold,Godrej Properties,2024-06-26
+PROP00624,Saket Homes,Delhi,Saket,24355000,3,3,958,Apartment,28.684956,77.106495,5.7,Yes,2,Available,Puravankara,2022-05-06
+PROP01147,Navrangpura Towers,Ahmedabad,Navrangpura,12064000,2,2,1820,Independent House,23.047101,72.608988,1.7,Yes,0,Sold,Puravankara,2022-06-19
+PROP00197,Powai Residency,Mumbai,Powai,71180000,3,3,2216,Independent House,19.121278,72.913022,1.5,Yes,3,Sold,Godrej Properties,2026-04-29
+PROP00227,Gachibowli Enclave,Hyderabad,Gachibowli,26980000,4,4,2492,Villa,17.460546,78.536054,,No,0,Under Construction,Oberoi Realty,2023-02-18
+PROP00327,Indiranagar Gardens,Bangalore,Indiranagar,18227000,1,1,1543,Apartment,12.938754,77.626126,1.7,Yes,15,Available,Local Developer,2024-08-17
+PROP00316,Velachery Enclave,Chennai,Velachery,6633000,2,2,608,Apartment,13.140359,80.242732,3.9,Yes,15,Available,Local Developer,2025-01-09
+PROP00462,Andheri Heights,Mumbai,Andheri,28705000,2,2,680,Apartment,19.103468,72.939415,3.3,Yes,2,Available,Local Developer,2024-10-21
+PROP00585,Secunderabad Court,Hyderabad,Secunderabad,20050000,4,4,1889,Independent House,17.359892,78.457136,2.1,,25,Available,Tata Housing,2022-04-28
+PROP00030,Wakad Enclave,Pune,Wakad,9003000,1,1,1172,Apartment,18.566121,73.873766,2.7,No,10,Sold,Shapoorji Pallonji,2024-08-27
+PROP00960,Jayanagar Heights,Bangalore,Jayanagar,16659000,3,3,1372,Apartment,12.94719,77.561392,6.6,No,25,Available,Brigade Group,2024-06-03
+PROP00709,Hitech City Homes,Hyderabad,Hitech City,3947000,1,1,504,Studio,17.395225,78.515328,2.7,Yes,25,Sold,Lodha Group,2022-10-05
+PROP00968,Navi Mumbai Estate,Mumbai,Navi Mumbai,64849000,3,3,2104,Apartment,19.082998,72.810974,5.8,Yes,10,Available,Brigade Group,2023-05-10
+PROP00502,Kondapur Residency,Hyderabad,Kondapur,6495000,1,1,576,Studio,17.41982,78.489476,0.7,Yes,5,Available,Prestige Group,2024-06-07
+PROP00373,Janakpuri Residency,Delhi,Janakpuri,88173000,4,3,2579,Villa,28.651504,77.07232,7.2,No,0,Available,Puravankara,2025-10-15
+PROP01057,Prahlad Nagar Homes,Ahmedabad,Prahlad Nagar,11405000,2,2,1493,Apartment,22.9786,72.512922,1.1,Yes,5,Sold,Lodha Group,2025-11-07
+PROP00323,Secunderabad Residency,Hyderabad,Secunderabad,10541000,1,1,957,Apartment,17.320034,78.513261,1.8,No,25,Under Construction,Brigade Group,2022-11-21
+PROP00319,Kharadi Gardens,Pune,Kharadi,11559000,3,3,1445,Apartment,18.55479,73.880059,6.7,Yes,3,Available,Independent Builder,2023-05-06
+PROP00015,Kondapur Residency,Hyderabad,Kondapur,11838000,2,2,1709,Independent House,17.376778,78.474201,2.4,Yes,0,Available,Shapoorji Pallonji,2022-07-20
+PROP00166,Tambaram Estate,Chennai,Tambaram,11190000,2,2,1166,Apartment,13.012823,80.260248,3.5,No,0,Available,Sobha Ltd,2026-01-16
+PROP00787,Thane Court,Mumbai,Thane,32688000,4,3,863,Apartment,19.135346,72.818764,3.5,Yes,0,Available,Local Developer,2022-05-08
+PROP00848,Aundh Court,Pune,Aundh,4635000,1,1,555,Studio,18.54019,73.839092,0.3,Yes,7,Available,Sobha Ltd,2025-04-11
+PROP00894,Juhu Towers,Mumbai,Juhu,78195000,2,2,1805,Apartment,19.144577,72.885377,3.2,No,0,Sold,Godrej Properties,2023-11-24
+PROP01125,Worli Residency,Mumbai,Worli,98902000,3,3,2468,Independent House,19.072137,72.93304,4.3,Yes,7,Available,Brigade Group,2022-04-04
+PROP00674,Indiranagar Heights,Bangalore,Indiranagar,25144000,1,1,2004,Apartment,12.992631,77.640085,6.8,Yes,15,Available,Brigade Group,2023-02-22
+PROP00510,Tambaram Enclave,Chennai,Tambaram,21306000,3,3,2235,Independent House,13.075934,80.345585,4.2,Yes,2,Available,DLF Ltd,2026-03-09
+PROP00442,Janakpuri Residency,Delhi,Janakpuri,56162000,2,2,2078,Apartment,28.679754,77.048189,4.1,Yes,15,Sold,Godrej Properties,2025-03-30
+PROP00446,SG Highway Heights,Ahmedabad,SG Highway,2190000,1,1,538,Studio,23.050365,72.598935,3.3,Yes,0,Available,Oberoi Realty,2025-11-24
+PROP00701,Gachibowli Heights,Hyderabad,Gachibowli,8857000,2,2,1517,Apartment,17.307783,78.515507,2.5,Yes,15,Available,Prestige Group,2026-05-07
+PROP00571,Porur Towers,Chennai,Porur,18326000,2,2,1868,Apartment,13.159111,80.294387,2.4,Yes,2,Sold,Brigade Group,2023-12-03
+PROP00776,Greater Kailash Enclave,Delhi,Greater Kailash,22056000,2,2,790,Apartment,28.739291,77.163336,2.3,Yes,20,Under Construction,Tata Housing,2025-08-24
+PROP00385,Prahlad Nagar Enclave,Ahmedabad,Prahlad Nagar,14634000,3,2,2041,Independent House,22.947854,72.497458,4,Yes,0,Sold,Local Developer,2022-06-13
+PROP00733,Powai Heights,Mumbai,Powai,17535000,2,2,639,Apartment,19.100833,72.836779,2.5,No,10,Sold,Independent Builder,2022-06-07
+PROP01042,Indiranagar Heights,Bangalore,Indiranagar,14149000,3,2,1392,Apartment,12.931445,77.651582,1.2,No,3,Sold,,2022-01-03
+PROP00049,Dwarka Heights,Delhi,Dwarka,13008000,3,3,783,Apartment,28.635953,77.123211,0.6,Yes,20,Under Construction,Godrej Properties,2023-05-24
+PROP00184,Saket Gardens,Delhi,Saket,45417000,3,2,2759,Independent House,28.646847,77.123684,5.1,No,10,Available,Godrej Properties,2024-04-05
+PROP00257,SG Highway Gardens,Ahmedabad,SG Highway,6816000,3,3,1465,Apartment,23.02208,72.59594,1,No,0,Sold,DLF Ltd,2022-07-06
+PROP00917,Indiranagar Gardens,Bangalore,Indiranagar,19206000,1,1,2193,Apartment,13.03249,77.540721,1.1,No,1,Sold,Independent Builder,2024-08-19
+PROP00544,Greater Kailash Towers,Delhi,Greater Kailash,66895000,3,3,2427,Independent House,28.663228,77.029891,5,Yes,15,Available,Prestige Group,2023-11-03
+PROP00306,Madhapur Enclave,Hyderabad,Madhapur,8047000,3,3,1123,Apartment,17.397266,78.415364,6.4,No,15,Available,Brigade Group,2024-03-17
+PROP01117,Viman Nagar Court,Pune,Viman Nagar,6441000,4,3,628,Apartment,18.54945,73.776805,5.2,Yes,5,Available,Lodha Group,2022-03-03
+PROP00309,Viman Nagar Estate,Pune,Viman Nagar,29720000,3,3,2846,Independent House,18.577409,73.80807,6.4,Yes,10,Sold,Prestige Group,2024-05-13
+PROP00791,Rohini Towers,Delhi,Rohini,43200000,3,3,1833,Apartment,28.750298,77.057304,3.1,Yes,2,Available,Independent Builder,2025-08-08
+PROP00761,Velachery Estate,Chennai,Velachery,9496000,4,3,1088,Apartment,13.096124,80.292734,4,Yes,3,Sold,Lodha Group,2025-09-30
+PROP00026,SG Highway Court,Ahmedabad,SG Highway,7676000,2,2,1006,Apartment,23.006255,72.535976,0.7,Yes,5,Sold,Oberoi Realty,2025-10-23
+PROP00704,HSR Layout Court,Bangalore,HSR Layout,43270000,3,3,3085,Independent House,13.046072,77.654943,5.5,No,15,Available,Independent Builder,2023-12-16
+PROP00008,Baner Court,Pune,Baner,12081000,3,2,1508,Apartment,18.528916,73.927489,5.5,Yes,25,Under Construction,Lodha Group,2026-04-24
+PROP00498,Worli Estate,Mumbai,Worli,83634000,2,2,2157,Apartment,19.119215,72.886824,7.2,Yes,0,Under Construction,Puravankara,2026-06-25
+PROP00389,Maninagar Towers,Ahmedabad,Maninagar,9808000,3,3,1125,Apartment,22.944772,72.509248,1.6,Yes,25,Available,Prestige Group,2023-06-20
+PROP00058,Whitefield Estate,Bangalore,Whitefield,42415000,3,3,2920,Villa,13.024743,77.59434,5.8,Yes,7,Sold,Puravankara,2023-05-15
+PROP00699,Anna Nagar Enclave,Chennai,Anna Nagar,20195000,2,1,1579,Independent House,13.102239,80.308955,6.8,Yes,1,Available,Godrej Properties,2022-12-08
+PROP00382,Satellite Homes,Ahmedabad,Satellite,13077000,4,4,1758,Apartment,23.056384,72.556365,3.6,Yes,25,Available,Prestige Group,2023-01-21
+PROP00710,Viman Nagar Court,Pune,Viman Nagar,15537000,1,1,1158,Apartment,18.514185,73.80604,6.3,No,0,Available,Puravankara,2025-11-22
+PROP00267,Hadapsar Enclave,Pune,Hadapsar,28484000,3,,2746,Independent House,18.536942,73.900883,7.7,,10,Available,Independent Builder,2022-06-02
+PROP00018,Baner Homes,Pune,Baner,2519000,1,1,385,Studio,18.578291,73.841304,7.5,Yes,20,Sold,Tata Housing,2022-06-17
+PROP00528,Worli Enclave,Mumbai,Worli,240460000,5,5,4122,Penthouse,19.075042,72.885986,5.3,Yes,0,Sold,Local Developer,2022-05-14
+PROP00103,SG Highway Heights,Ahmedabad,SG Highway,3850000,1,1,712,Apartment,23.076094,72.579209,5.9,No,0,Sold,Sobha Ltd,2023-09-09
+PROP00864,Maninagar Court,Ahmedabad,Maninagar,5891000,2,1,1423,Apartment,23.029431,72.506533,7.8,Yes,0,Sold,Lodha Group,2022-09-16
+PROP00990,Nungambakkam Court,Chennai,Nungambakkam,15483000,4,3,1337,Apartment,13.006384,80.313109,1.8,No,7,Sold,Shapoorji Pallonji,2023-12-03
+PROP00421,Whitefield Heights,Bangalore,Whitefield,18474000,2,2,1476,Apartment,13.02433,77.589826,4.3,Yes,10,Sold,Independent Builder,2025-11-20
+PROP00725,Thaltej Court,Ahmedabad,Thaltej,41614000,3,3,3395,Villa,23.059025,72.575905,1.7,Yes,20,Sold,Shapoorji Pallonji,2023-12-23
+PROP00712,Kharadi Residency,Pune,Kharadi,10980000,3,3,1708,Apartment,18.575617,73.79685,5.4,No,15,Available,DLF Ltd,2022-06-23
+PROP00904,Andheri Enclave,Mumbai,Andheri,29701000,2,1,727,Apartment,19.028126,72.880616,0.5,No,0,Available,DLF Ltd,2024-03-05
+PROP00213,Worli Towers,Mumbai,Worli,44716000,3,2,2292,Independent House,19.155423,72.832806,6.8,No,5,Under Construction,Prestige Group,2022-12-27
+PROP00845,Whitefield Court,Bangalore,Whitefield,15801000,4,4,1391,Apartment,12.969417,77.522285,4.3,,0,Sold,,2024-10-29
+PROP00569,Indiranagar Residency,Bangalore,Indiranagar,87815000,4,3,5487,Villa,12.988965,77.608206,3.2,Yes,15,Sold,DLF Ltd,2023-04-22
+PROP00551,Jayanagar Towers,Bangalore,Jayanagar,50319000,4,4,3137,Independent House,13.012849,77.516503,5.3,Yes,7,Available,Local Developer,2026-03-15
+PROP00611,Thaltej Towers,Ahmedabad,Thaltej,8399000,2,2,1080,Apartment,23.056616,72.59661,1.3,Yes,0,Under Construction,Independent Builder,2024-01-29
+PROP00233,Dwarka Residency,Delhi,Dwarka,6432000,2,2,668,Apartment,28.632189,77.08016,1.8,Yes,10,Available,Independent Builder,2022-09-11
+PROP01015,Koramangala Heights,Bangalore,Koramangala,9878000,3,3,718,Apartment,13.023029,77.54536,1.5,No,10,Available,Tata Housing,2023-08-20
+PROP01026,Gachibowli Towers,Hyderabad,Gachibowli,20865000,1,1,2193,Apartment,17.448919,78.557087,0.3,Yes,20,Sold,Puravankara,2025-04-03
+PROP00081,Andheri Homes,Mumbai,Andheri,79409000,2,2,2084,Independent House,19.055623,72.818518,0.7,Yes,25,Available,Brigade Group,2025-09-24
+PROP01008,Yelahanka Gardens,Bengaluru,Yelahanka,37077000,3,3,2159,Independent House,12.970557,77.527395,3.8,Yes,20,Sold,Brigade Group,2024-08-18
+PROP00073,Yelahanka Heights,Bangalore,Yelahanka,18604000,2,2,1650,Apartment,12.950962,77.666501,5.6,No,20,Sold,Prestige Group,2024-04-29
+PROP00117,Kondapur Enclave,Hyderabad,Kondapur,12768000,3,2,1860,Apartment,17.459602,78.475919,7.3,Yes,0,Available,Lodha Group,2022-12-04
+PROP00360,Karol Bagh Homes,Delhi,Karol Bagh,37539000,4,4,2200,Villa,28.629975,77.159113,5.4,Yes,5,Under Construction,DLF Ltd,2022-08-12
+PROP00940,Velachery Towers,Chennai,Velachery,11430000,1,1,1520,Apartment,13.003189,80.247687,5,Yes,3,Under Construction,Puravankara,2023-10-06
+PROP00770,Navrangpura Homes,Ahmedabad,Navrangpura,3288000,4,4,597,Apartment,22.974927,72.533683,5.3,No,7,Available,Godrej Properties,2023-04-01
+PROP00253,Velachery Homes,Chennai,Velachery,27210000,4,4,2037,Apartment,13.137796,80.207294,7.3,,20,Sold,Prestige Group,2025-06-05
+PROP00370,Janakpuri Heights,Delhi,Janakpuri,14668000,1,1,618,Studio,28.647027,77.161988,6.6,Yes,2,Sold,Puravankara,2024-03-04
+PROP00490,Pitampura Gardens,Delhi,Pitampura,38767000,3,2,1897,Apartment,28.701976,77.12146,7.8,Yes,25,Under Construction,Independent Builder,2024-03-19
+PROP00060,Electronic City Towers,Bangalore,Electronic City,35403000,4,4,2972,Independent House,12.969095,77.56779,6.2,No,10,Under Construction,Sobha Ltd,2025-11-29
+PROP01001,Jayanagar Enclave,Bangalore,Jayanagar,8959000,3,3,956,Apartment,13.015612,77.634656,3.7,Yes,25,Sold,Oberoi Realty,2023-05-16
+PROP00696,Banjara Hills Enclave,Hyderabad,Banjara Hills,11460000,3,2,1432,Apartment,17.375614,78.465865,0.6,No,7,Available,Sobha Ltd,2024-04-04
+PROP00614,Secunderabad Residency,Hyderabad,Secunderabad,57790000,3,3,3660,Villa,17.424347,78.520966,5.7,Yes,2,Under Construction,Independent Builder,2024-12-17
+PROP01130,Thaltej Heights,Ahmedabad,Thaltej,31648000,3,3,3057,Penthouse,23.070759,72.551001,2,Yes,0,Under Construction,Prestige Group,2025-08-09
+PROP01094,Jayanagar Homes,Bangalore,Jayanagar,39023000,3,2,2546,Independent House,13.025355,77.67155,6.7,Yes,7,Under Construction,Godrej Properties,2022-10-19
+PROP00786,Malad Heights,Mumbai,Malad,71088000,1,1,1721,Apartment,19.144412,72.957257,5.1,No,1,Available,Independent Builder,2026-03-18
+PROP00114,Rohini Gardens,Delhi,Rohini,38460000,1,1,1475,Apartment,28.695318,77.036547,5.5,Yes,25,Available,Godrej Properties,2025-01-31
+PROP00051,OMR Gardens,Chennai,OMR,6218000,1,1,871,Apartment,13.01471,80.191128,3.7,No,3,Available,Lodha Group,2025-12-18
+PROP00676,Vasant Kunj Residency,Delhi,Vasant Kunj,34665000,3,3,1808,Independent House,28.663341,77.147305,6.3,Yes,25,Available,Godrej Properties,2022-10-22
+PROP00322,Adyar Towers,Chennai,Adyar,7817000,2,2,664,Apartment,13.014122,80.265923,1.7,Yes,7,Sold,Godrej Properties,2026-04-23
+PROP00268,Rohini Residency,Delhi,Rohini,15717000,3,2,1121,Apartment,28.649849,77.157862,0.2,No,1,Available,Brigade Group,2025-05-07
+PROP01019,Miyapur Towers,Hyderabad,Miyapur,18491000,4,3,1918,Apartment,17.399027,78.55669,1.8,No,25,Available,Prestige Group,2024-03-11
+PROP00349,Kharadi Enclave,Pune,Kharadi,6917000,2,1,973,Apartment,18.527017,73.904717,6.9,Yes,15,Under Construction,Oberoi Realty,2026-04-27
+PROP00336,Hinjewadi Heights,Pune,Hinjewadi,9083000,3,3,1278,Apartment,18.499133,73.869845,2,Yes,0,Sold,Tata Housing,2023-03-22
+PROP00093,Gachibowli Enclave,Hyderabad,Gachibowli,14905000,3,3,1884,Apartment,17.381101,78.430838,0.7,Yes,5,Under Construction,Godrej Properties,2024-10-30
+PROP00706,Koramangala Estate,Bangalore,Koramangala,78379000,4,4,5307,Penthouse,13.046267,77.614407,5.4,Yes,10,Available,Lodha Group,2022-02-01
+PROP00763,Kondapur Gardens,Hyderabad,Kondapur,28335000,3,3,2627,Independent House,17.428789,78.484098,6.5,No,20,Available,Sobha Ltd,2022-03-01
+PROP00821,Vastrapur Towers,Ahmedabad,Vastrapur,6861000,4,4,1040,Apartment,23.056547,72.523366,1.2,Yes,0,Available,Puravankara,2024-07-29
+PROP00391,Janakpuri Gardens,Delhi,Janakpuri,20966000,2,,2097,Apartment,28.698342,77.098697,3.9,Yes,7,Sold,Oberoi Realty,2024-08-29
+PROP00519,Indiranagar Heights,Bangalore,Indiranagar,18711000,2,2,1078,Apartment,13.03552,77.5229,2.1,Yes,10,Available,Shapoorji Pallonji,2024-02-28
+PROP00886,Porur Estate,Chennai,Porur,8631000,4,3,1115,Apartment,13.146145,80.195112,4.9,No,1,Under Construction,Sobha Ltd,2025-09-17
+PROP00451,Marathahalli Estate,Bangalore,Marathahalli,8097000,1,1,617,Apartment,13.029258,77.563087,5.7,No,7,Available,Local Developer,2024-03-07
+PROP00563,Satellite Residency,Ahmedabad,Satellite,29485000,4,4,3204,Villa,22.954914,72.613574,5.5,Yes,10,Available,Sobha Ltd,2026-01-03
+PROP00634,Bandra Towers,Mumbai,Bandra,61393000,3,3,2696,Independent House,19.151457,72.883682,7.8,Yes,7,Under Construction,Lodha Group,2025-07-06
+PROP00778,Marathahalli Enclave,Bangalore,Marathahalli,7166000,3,3,687,Apartment,12.921628,77.625647,4.4,Yes,0,Available,Puravankara,2025-05-02
+PROP00406,Hinjewadi Homes,Pune,Hinjewadi,13387000,1,1,1110,Apartment,18.467288,73.835888,1.5,Yes,20,Available,Godrej Properties,2026-06-09
+PROP00596,SG Highway Homes,Ahmedabad,SG Highway,25873000,3,2,2869,Independent House,22.967971,72.494851,3.3,No,25,Available,Brigade Group,2026-04-01
+PROP00716,SG Highway Towers,Ahmedabad,SG Highway,1984000,1,1,413,Studio,22.945965,72.51407,6,Yes,1,Available,Local Developer,2025-01-24
+PROP00805,Greater Kailash Court,Delhi,Greater Kailash,59789000,2,1,2195,Independent House,28.688373,77.145918,2.6,Yes,25,Available,Puravankara,2024-10-25
+PROP00633,OMR Court,Chennai,OMR,35594000,3,3,4689,Penthouse,13.099526,80.249758,0.8,Yes,1,Available,Tata Housing,2023-08-27
+PROP00760,Kukatpally Towers,Hyderabad,Kukatpally,15073000,3,3,1469,Independent House,17.319194,78.489309,,Yes,0,Available,Puravankara,2025-02-16
+PROP00680,Janakpuri Gardens,Delhi,Janakpuri,7096000,2,2,610,Apartment,28.637451,77.133156,1.2,Yes,10,Available,Godrej Properties,2023-12-15
+PROP00785,Kondapur Homes,Hyderabad,Kondapur,54672000,3,3,4401,Villa,17.451529,78.487147,0.3,Yes,0,Sold,Independent Builder,2024-09-07
+PROP00433,Hadapsar Estate,Pune,Hadapsar,20354000,3,3,1608,Independent House,18.486714,73.855194,6.6,Yes,20,Available,Shapoorji Pallonji,2026-02-24
+PROP00755,Indiranagar Towers,Bangalore,Indiranagar,14625000,2,2,1546,Apartment,12.918691,77.664873,,Yes,2,Sold,Prestige Group,2022-07-16
+PROP00893,Hinjewadi Enclave,Pune,Hinjewadi,7963000,4,3,1262,Independent House,18.526414,73.929985,7.5,Yes,3,Available,Independent Builder,2023-01-05
+PROP00898,Porur Court,Chennai,Porur,11358000,2,2,1296,Independent House,13.058982,80.276742,6.6,No,15,Available,Prestige Group,2024-11-07
+PROP00642,Hinjewadi Heights,Pune,Hinjewadi,34825000,3,2,3029,Independent House,18.540361,73.822621,7,Yes,10,Sold,Lodha Group,2026-07-19
+PROP00404,Gachibowli Heights,Hyderabad,Gachibowli,5549000,4,4,817,Apartment,17.312993,78.455874,6.4,No,20,Available,Tata Housing,2022-05-11
+PROP00190,Thane Enclave,Mumbai,Thane,32273000,2,2,830,Apartment,19.116505,72.819003,7.9,Yes,0,Available,DLF Ltd,2025-06-03
+PROP00638,Satellite Heights,Ahmedabad,Satellite,12106000,2,2,1470,Independent House,22.985325,72.641576,4.9,Yes,0,Available,Brigade Group,2025-12-19
+PROP00335,Secunderabad Gardens,Hyderabad,Secunderabad,99922000,3,3,5474,Penthouse,17.387817,78.565646,2.6,Yes,2,Available,Brigade Group,2022-02-14
+PROP00232,Marathahalli Homes,Bangalore,Marathahalli,39269000,3,3,2769,Villa,13.010151,77.636119,7,Yes,15,Sold,Godrej Properties,2023-09-30
+PROP00108,SG Highway Estate,Ahmedabad,SG Highway,5612000,4,4,941,Apartment,23.067435,72.629928,2.8,Yes,5,Available,Oberoi Realty,2026-03-03
+PROP00530,Adyar Towers,Chennai,Adyar,6335000,1,1,515,Studio,13.0678,80.210175,4.2,No,5,Available,DLF Ltd,2026-01-17
+PROP00424,Porur Court,Chennai,Porur,24283000,4,3,1977,Apartment,13.073941,80.239353,1.2,Yes,1,Sold,Sobha Ltd,2024-09-18
+PROP00278,Saket Heights,Delhi,Saket,11786000,2,2,947,Apartment,28.752046,77.15886,6.8,No,25,Available,Lodha Group,2025-10-07
+PROP00454,Whitefield Residency,Bangalore,Whitefield,17528000,3,2,1680,Independent House,12.905191,77.624679,7,Yes,5,Available,Shapoorji Pallonji,2023-10-30
+PROP00082,Satellite Towers,Ahmedabad,Satellite,23803000,5,5,3779,Penthouse,22.967257,72.56855,6.8,Yes,15,Available,Lodha Group,2025-03-21
+PROP00279,Koramangala Gardens,Bangalore,Koramangala,16906000,3,3,1547,Apartment,12.999007,77.552125,2.4,Yes,2,Available,Puravankara,2023-11-04
+PROP00784,Thane Towers,Mumbai,Thane,15520000,1,1,527,Studio,19.094716,72.937907,7.4,Yes,7,Available,Local Developer,2022-01-22
+PROP00788,Malad Residency,Mumbai,Malad,255383000,3,2,5183,Penthouse,19.103519,72.941647,7.2,Yes,20,Sold,Brigade Group,2024-11-23
+PROP00565,Prahlad Nagar Enclave,Ahmedabad,Prahlad Nagar,2759000,1,,541,Studio,22.945066,72.495871,0.3,Yes,25,Sold,Sobha Ltd,2022-07-17
+PROP00473,Karol Bagh Gardens,Delhi,Karol Bagh,22904000,3,3,1332,Apartment,28.657157,77.056991,6.6,,7,Available,Prestige Group,2022-02-28
+PROP00859,Satellite Enclave,Ahmedabad,Satellite,6215000,3,3,1076,Apartment,23.028898,72.644505,5.4,Yes,10,Available,Tata Housing,2023-02-06
+PROP00003,Andheri Court,Mumbai,Andheri,31528000,2,,1254,Apartment,19.002952,72.871208,1.2,No,0,Sold,Independent Builder,2025-06-20
+PROP00747,Baner Estate,Pune,Baner,27541000,2,2,2443,Independent House,18.523654,73.82741,1.7,Yes,2,Available,Brigade Group,2023-04-18
+PROP00555,Yelahanka Towers,Bangalore,Yelahanka,27136000,4,4,2381,Villa,12.896729,77.624844,4,Yes,2,Available,Oberoi Realty,2023-08-05
+PROP00758,Koramangala Heights,Bangalore,Koramangala,28499000,3,3,2689,Independent House,12.97273,77.558777,5.1,Yes,5,Under Construction,DLF Ltd,2024-06-06
+PROP01003,Jayanagar Court,Bangalore,Jayanagar,22252000,3,2,1341,Apartment,12.9041,77.561632,6.6,No,0,Under Construction,Puravankara,2022-05-19
+PROP00962,Hinjewadi Heights,Pune,Hinjewadi,8885000,1,1,643,Studio,18.567164,73.90865,3.3,No,0,Under Construction,Shapoorji Pallonji,2022-03-27
+PROP00865,Yelahanka Enclave,Bangalore,Yelahanka,18004000,1,1,1583,Apartment,13.0422,77.674367,1.7,Yes,0,Available,Local Developer,2023-12-26
+PROP00587,Yelahanka Estate,Bangalore,Yelahanka,67478000,5,5,4109,Villa,12.993692,77.66531,2.7,Yes,0,Under Construction,Local Developer,2023-10-29
+PROP00552,Banjara Hills Court,Hyderabad,Banjara Hills,47480000,5,5,4959,Villa,17.440328,78.475307,7.5,No,2,Available,Shapoorji Pallonji,2022-03-03
+PROP00609,Thane Gardens,Mumbai,Thane,111506000,4,4,3366,Villa,19.039783,72.813371,7.8,Yes,7,Under Construction,Godrej Properties,2022-12-26
+PROP00870,Pitampura Estate,Delhi,Pitampura,19394000,2,2,2107,Apartment,28.642867,77.072286,1,No,2,Sold,Lodha Group,2022-09-13
+PROP00717,Secunderabad Residency,Hyderabad,Secunderabad,6935000,4,,754,Apartment,17.411832,78.46929,5.6,Yes,10,Available,Oberoi Realty,2022-10-31
+PROP00130,Velachery Gardens,Chennai,Velachery,59905000,4,4,4712,Villa,13.030409,80.33664,2.9,Yes,25,Sold,Local Developer,2025-10-26
+PROP00529,HSR Layout Homes,Bangalore,HSR Layout,7999000,1,1,490,Studio,12.895299,77.66977,5.5,Yes,25,Sold,Puravankara,2022-01-05
+PROP00884,Vastrapur Gardens,Ahmedabad,Vastrapur,13889000,3,3,2000,Apartment,22.959269,72.623607,2,,25,Under Construction,Sobha Ltd,2024-08-10
+PROP00766,Adyar Enclave,Chennai,Adyar,23409000,2,1,2798,Independent House,13.059132,80.313262,0.7,Yes,15,Available,Shapoorji Pallonji,2023-02-11
+PROP00496,Kondapur Homes,Hyderabad,Kondapur,18840000,3,3,2473,Independent House,17.424881,78.513429,1.2,Yes,1,Sold,Godrej Properties,2026-06-14
+PROP00759,Porur Enclave,Chennai,Porur,11560000,3,2,1903,Apartment,13.10422,80.191975,1.3,No,2,Sold,Lodha Group,2024-08-20
+PROP01046,Secunderabad Heights,Hyderabad,Secunderabad,4235000,1,1,573,Studio,17.374327,78.432077,6.3,Yes,10,Available,Sobha Ltd,2024-04-26
+PROP00833,Wakad Estate,Pune,Wakad,12686000,2,1,1049,Apartment,18.516765,73.792423,7.1,Yes,5,Sold,Godrej Properties,2023-02-07
+PROP00412,Greater Kailash Enclave,Delhi,Greater Kailash,5635000,1,1,542,Studio,28.717715,77.031194,3.6,Yes,20,Available,Oberoi Realty,2024-02-04
+PROP00427,Bandra Enclave,Mumbai,Bandra,92542000,3,3,2123,Apartment,19.14445,72.822669,7.8,Yes,25,Sold,Puravankara,2023-08-17
+PROP00581,Thane Homes,Mumbai,Thane,117821000,3,3,2733,Independent House,19.059675,72.846996,7.9,No,0,Available,Local Developer,2024-05-05
+PROP00029,T Nagar Enclave,Chennai,T Nagar,24473000,3,3,2238,Independent House,13.054889,80.302253,4.5,Yes,7,Sold,Oberoi Realty,2025-10-19
+PROP00281,Secunderabad Heights,Hyderabad,Secunderabad,9771000,2,1,1547,Apartment,17.408288,78.419816,,Yes,15,Available,Local Developer,2025-07-07
+PROP00297,Greater Kailash Homes,Delhi,Greater Kailash,194495000,3,3,5794,Penthouse,28.720139,77.036603,2.3,Yes,0,Sold,Local Developer,2024-02-27
+PROP00853,Rohini Court,Delhi,Rohini,40654000,3,3,2178,Independent House,28.775283,77.025083,3.2,No,7,Under Construction,Godrej Properties,2023-12-28
+PROP00198,Marathahalli Enclave,Bangalore,Marathahalli,19285000,1,1,1088,Apartment,12.992005,77.593984,4.2,Yes,10,Under Construction,Prestige Group,2024-01-24
+PROP00033,Worli Homes,Mumbai,Worli,8899000,1,1,412,Studio,19.070343,72.882681,4.6,Yes,10,Sold,Local Developer,2024-10-30
+PROP00666,Navrangpura Residency,Ahmedabad,Navrangpura,9486000,4,4,1382,Apartment,22.943088,72.563489,6.7,Yes,25,Available,Tata Housing,2022-07-19
+PROP00326,Satellite Homes,Ahmedabad,Satellite,6012000,4,3,865,Apartment,22.959683,72.569455,2.7,Yes,10,Sold,DLF Ltd,2025-11-12
+PROP00891,Bandra Court,Mumbai,Bandra,125414000,3,3,5296,Penthouse,19.153621,72.799713,2.7,Yes,0,Sold,Tata Housing,2025-02-27
+PROP00100,Maninagar Heights,Ahmedabad,Maninagar,26990000,4,4,3178,Independent House,23.070701,72.513544,2.2,No,5,Sold,Godrej Properties,2025-12-27
+PROP00632,Prahlad Nagar Residency,Ahmedabad,Prahlad Nagar,8301000,2,2,1680,Apartment,22.949798,72.529515,,Yes,3,Under Construction,Lodha Group,2026-06-08
+PROP00128,Madhapur Homes,Hyderabad,Madhapur,18144000,2,2,2422,Independent House,17.409895,78.562229,4.7,Yes,0,Sold,Prestige Group,2024-12-09
+PROP00269,Maninagar Homes,Ahmedabad,Maninagar,7376000,3,3,1676,Apartment,23.055729,72.575463,7.7,Yes,15,Available,Shapoorji Pallonji,2025-01-04
+PROP00149,Kukatpally Enclave,Hyderabad,Kukatpally,18963000,2,1,2095,Apartment,17.440895,78.454818,5.7,No,0,Sold,Oberoi Realty,2025-02-15
+PROP00508,Tambaram Enclave,Chennai,Tambaram,29392000,4,4,2431,Villa,13.127268,80.26339,1.3,No,7,Available,DLF Ltd,2024-05-20
+PROP00310,Janakpuri Estate,Delhi,Janakpuri,43359000,3,2,1713,Independent House,28.631733,77.038336,1.5,Yes,3,Available,Independent Builder,2022-07-17
+PROP00769,Karol Bagh Gardens,Delhi,Karol Bagh,7230000,1,1,389,Studio,28.736658,77.139722,0.4,Yes,0,Sold,Oberoi Realty,2023-02-02
+PROP01063,Indiranagar Homes,Bangalore,Indiranagar,33932000,2,2,2075,Independent House,12.924448,77.643059,1.9,Yes,15,Available,Puravankara,2022-05-27
+PROP00369,Yelahanka Enclave,Bangalore,Yelahanka,16954000,3,2,1642,Independent House,12.909557,77.640191,6.3,Yes,10,Available,Puravankara,2024-10-21
+PROP00977,Hitech City Towers,Hyderabad,Hitech City,70736000,4,4,4567,Villa,17.341055,78.448695,0.7,No,0,Under Construction,Oberoi Realty,2022-02-26
+PROP00835,Hadapsar Gardens,Pune,Hadapsar,82894000,4,4,5590,Penthouse,18.468645,73.857867,4.2,Yes,3,Under Construction,Sobha Ltd,2023-11-30
+PROP00718,Yelahanka Estate,Bangalore,Yelahanka,5909000,3,2,572,Apartment,12.994817,77.657515,5,Yes,5,Under Construction,Puravankara,2026-01-20
+PROP00341,Viman Nagar Residency,Pune,Viman Nagar,18377000,2,2,2140,Apartment,18.588262,73.791035,5.4,,5,Available,Brigade Group,2023-12-07
+PROP00578,Greater Kailash Residency,Delhi,Greater Kailash,126709000,5,4,3927,Penthouse,28.683009,77.031733,3.2,No,2,Available,DLF Ltd,2024-01-11
+PROP00097,Electronic City Residency,Bangalore,Electronic City,11381000,2,2,1249,Apartment,13.051596,77.539391,2.5,Yes,15,Sold,Local Developer,2024-12-14
+PROP00887,Electronic City Court,Bangalore,Electronic City,38039000,3,2,2185,Apartment,12.914677,77.600938,5.5,Yes,0,Under Construction,DLF Ltd,2025-12-29
+PROP00570,Baner Estate,Pune,Baner,15637000,4,4,1427,Apartment,18.449988,73.836624,2.5,,7,Available,DLF Ltd,2023-05-03
+PROP00329,Koramangala Heights,Bangalore,Koramangala,23051000,4,3,1588,Independent House,13.014117,77.539261,2.4,No,25,Available,Godrej Properties,2024-12-07
+PROP00261,Kukatpally Homes,Hyderabad,Kukatpally,43039000,3,2,4672,Penthouse,17.439211,78.483969,4.2,Yes,20,Available,Prestige Group,2022-08-01
+PROP00956,Kukatpally Enclave,Hyderabad,Kukatpally,18132000,1,1,2034,Apartment,17.44683,78.517887,2.3,Yes,20,Available,Local Developer,2025-11-17
+PROP00824,Secunderabad Gardens,Hyderabad,Secunderabad,21070000,2,2,1799,Independent House,17.421024,78.413085,3.3,No,7,Sold,Godrej Properties,2022-10-26
+PROP00192,Indiranagar Towers,Bangalore,Indiranagar,9449000,4,4,722,Apartment,12.987601,77.611815,6.3,Yes,25,Under Construction,Sobha Ltd,2024-11-26
+PROP00350,Velachery Gardens,Chennai,Velachery,11014000,3,2,1641,Apartment,13.053516,80.331442,5.9,Yes,7,Under Construction,Lodha Group,2024-06-26
+PROP01000,Thaltej Homes,Ahmedabad,Thaltej,13435000,4,3,1541,Independent House,22.962698,72.497227,0.8,Yes,3,Available,Oberoi Realty,2024-02-23
+PROP00815,Nungambakkam Court,Chennai,Nungambakkam,37553000,4,4,2340,Villa,13.051345,80.310837,3.7,No,0,Available,Tata Housing,2022-12-08
+PROP00737,Navi Mumbai Court,Mumbai,Navi Mumbai,28496000,1,1,1009,Apartment,19.101588,72.882899,5.4,Yes,15,Sold,DLF Ltd,2025-05-31
+PROP00487,Indiranagar Gardens,Bangalore,Indiranagar,61034000,5,5,3730,Penthouse,12.899237,77.526845,0.6,Yes,15,Available,Godrej Properties,2024-08-09
+PROP00219,Janakpuri Heights,Delhi,Janakpuri,23283000,3,3,1910,Independent House,28.765751,77.036696,5.7,Yes,10,Available,Sobha Ltd,2023-05-27
+PROP01129,Kharadi Heights,Pune,Kharadi,39284000,4,4,3175,Independent House,18.491172,73.890728,5,Yes,15,Available,Tata Housing,2022-09-01
+PROP00111,Whitefield Court,bangalore,Whitefield,17461000,4,4,1381,Apartment,13.011584,77.540198,0.4,,0,Available,Sobha Ltd,2026-05-14
+PROP00418,Adyar Heights,Chennai,Adyar,4894000,1,1,386,Studio,13.055965,80.195934,3.5,Yes,20,Available,Sobha Ltd,2026-06-02
+PROP00732,Kharadi Heights,Pune,Kharadi,11415000,2,2,1444,Apartment,18.455119,73.778308,3.4,Yes,0,Under Construction,Sobha Ltd,2022-04-27
+PROP01091,SG Highway Residency,Ahmedabad,SG Highway,8020000,3,3,1155,Apartment,23.001089,72.552856,7.6,Yes,1,Available,Godrej Properties,2023-08-26
+PROP00168,Jayanagar Heights,Bangalore,Jayanagar,47155000,4,4,3962,Villa,12.942662,77.63218,5.1,Yes,5,Available,Oberoi Realty,2024-01-18
+PROP01024,Hadapsar Towers,Pune,Hadapsar,6279000,2,2,586,Apartment,18.594814,73.786748,6.7,No,10,Under Construction,Tata Housing,2025-03-17
+PROP00976,HSR Layout Heights,Bangalore,HSR Layout,6566000,1,1,459,Studio,12.968124,77.54886,1.5,Yes,1,Sold,Shapoorji Pallonji,2022-10-25
+PROP00774,Tambaram Heights,Chennai,Tambaram,3609000,1,1,487,Studio,13.092686,80.268896,4.1,Yes,5,Available,Puravankara,2024-11-19
+PROP00678,Hitech City Residency,Hyderabad,Hitech City,7522000,4,4,706,Apartment,17.365041,78.456874,7.3,Yes,1,Available,Prestige Group,2025-09-12
+PROP00367,Adyar Residency,Chennai,Adyar,25979000,3,2,2357,Independent House,13.091528,80.193695,4.7,Yes,5,Available,Prestige Group,2023-07-29
+PROP01145,Porur Homes,Chennai,Porur,21249000,4,4,1645,Apartment,13.130491,80.338308,6.4,Yes,2,Available,Lodha Group,2023-04-29
+PROP00743,Kharadi Court,Pune,Kharadi,13831000,4,4,1016,Apartment,18.599115,73.932745,0.3,Yes,15,Sold,Tata Housing,2023-04-26
+PROP00775,Navi Mumbai Estate,Mumbai,Navi Mumbai,32670000,4,4,1460,Independent House,19.115704,72.824292,3.6,Yes,0,Under Construction,Puravankara,2022-12-16
+PROP00601,Nungambakkam Enclave,Chennai,Nungambakkam,5311000,1,1,788,Apartment,13.105325,80.336057,2,No,3,Sold,Godrej Properties,2026-06-15
+PROP00943,Navrangpura Estate,Ahmedabad,Navrangpura,7545000,2,2,1483,Apartment,23.039547,72.536962,4.8,Yes,0,Available,Brigade Group,2025-02-05
+PROP00220,Electronic City Towers,Bangalore,Electronic City,15343000,2,2,1298,Independent House,12.958745,77.541214,3.4,,5,Available,,2024-09-08
+PROP00076,Prahlad Nagar Residency,Ahmedabad,Prahlad Nagar,39552000,4,4,3345,Villa,22.986864,72.648845,7.9,Yes,1,Available,DLF Ltd,2022-09-27
+PROP00308,Karol Bagh Enclave,Delhi,Karol Bagh,15643000,3,3,1252,Apartment,28.691931,77.089555,6.1,Yes,7,Available,Prestige Group,2025-03-16
+PROP00092,Madhapur Homes,Hyderabad,Madhapur,11628000,2,1,1920,Independent House,17.378879,78.412717,3.1,Yes,0,Sold,Godrej Properties,2025-06-13
+PROP00065,Marathahalli Enclave,Bangalore,Marathahalli,20198000,3,2,1393,Apartment,12.920409,77.542611,5,No,20,Sold,Puravankara,2025-04-09
+PROP00639,Saket Heights,Delhi,Saket,21652000,3,3,1459,Apartment,28.700725,77.061509,4.4,Yes,25,Available,DLF Ltd,2022-04-02
+PROP00023,Kothrud Towers,Pune,Kothrud,5376000,4,3,855,Apartment,18.499475,73.865104,3.6,Yes,3,Available,DLF Ltd,2024-01-03
+PROP00436,Kothrud Residency,Pune,Kothrud,17141000,3,3,2391,Independent House,18.514167,73.887625,3,Yes,3,Available,Independent Builder,2023-12-31
+PROP00070,Navrangpura Towers,Ahmedabad,Navrangpura,44473000,4,4,5401,Villa,23.019596,72.620438,6,Yes,0,Available,Godrej Properties,2022-10-16
+PROP00590,Rohini Enclave,delhi,Rohini,16230000,4,4,609,Apartment,28.67634,77.083858,2.4,Yes,25,Available,Independent Builder,2022-09-10
+PROP00617,Secunderabad Estate,Hyderabad,Secunderabad,14415000,1,1,1810,Apartment,17.361623,78.407525,7.1,Yes,7,Available,Godrej Properties,2024-06-01
+PROP00456,Kondapur Homes,Hyderabad,Kondapur,9075000,2,2,1294,Apartment,17.406671,78.562557,0.8,Yes,3,Available,Lodha Group,2025-03-20
+PROP00540,Gachibowli Court,Hyderabad,Gachibowli,19879000,1,1,1858,Apartment,17.379646,78.440802,3.9,Yes,7,Available,Prestige Group,2022-01-14
+PROP00967,Adyar Estate,Chennai,Adyar,18910000,2,2,2223,Independent House,13.043625,80.266476,6.4,Yes,7,Sold,Tata Housing,2023-12-20
+PROP00970,Marathahalli Heights,Bangalore,Marathahalli,14250000,2,1,1718,Independent House,12.974278,77.542427,3.7,Yes,0,Available,Brigade Group,2024-05-23
+PROP00492,Malad Towers,Mumbai,Malad,40338000,3,3,2170,Independent House,19.022577,72.822088,5.7,No,10,Available,Puravankara,2025-04-13
+PROP00405,Juhu Residency,Mumbai,Juhu,100954000,4,4,2258,Villa,19.153151,72.906244,2.7,Yes,5,Sold,Sobha Ltd,2026-04-15
+PROP00950,Jayanagar Homes,Bangalore,Jayanagar,104881000,4,4,5419,Villa,12.922924,77.658269,3.3,Yes,10,Available,,2025-08-27
+PROP00141,Hadapsar Towers,Pune,Hadapsar,24361000,4,3,2319,Villa,18.584862,73.809045,4.4,Yes,5,Under Construction,Puravankara,2022-08-27
+PROP00447,Velachery Gardens,Chennai,Velachery,12904000,2,2,1243,Apartment,13.161206,80.210342,6.7,No,3,Sold,Tata Housing,2025-04-30
+PROP00043,Kukatpally Estate,Hyderabad,Kukatpally,27833000,3,2,2461,Independent House,17.37938,78.538818,4.8,Yes,2,Sold,Godrej Properties,2023-07-26
+PROP00629,Madhapur Residency,Hyderabad,Madhapur,7767000,1,,636,Studio,17.376757,78.521472,7.3,Yes,10,Available,Shapoorji Pallonji,2026-06-08
+PROP01070,Secunderabad Gardens,Hyderabad,Secunderabad,92439000,3,2,5163,Villa,17.441985,78.490831,1.2,Yes,3,Sold,Godrej Properties,2024-03-13
+PROP00514,Nungambakkam Gardens,Chennai,Nungambakkam,14542000,4,4,1216,Apartment,13.10902,80.256241,2,No,5,Available,Independent Builder,2024-06-26
+PROP00714,Vasant Kunj Heights,Delhi,Vasant Kunj,8982000,1,1,429,Studio,28.739163,77.172345,6.5,Yes,0,Available,Prestige Group,2025-05-21
+PROP01080,Navrangpura Heights,Ahmedabad,Navrangpura,57461000,3,2,4391,Penthouse,23.057746,72.575316,0.3,Yes,2,Sold,DLF Ltd,2025-04-15
+PROP00410,Nungambakkam Enclave,Chennai,Nungambakkam,11947000,2,2,1922,Apartment,13.060971,80.224234,2.2,No,0,Available,DLF Ltd,2025-01-05
+PROP00548,Yelahanka Estate,Bangalore,Yelahanka,76063000,4,4,4391,Villa,12.959776,77.589408,3.4,No,5,Available,DLF Ltd,2023-01-03
+PROP00889,Koramangala Enclave,Bangalore,Koramangala,30083000,3,2,1725,Apartment,12.953592,77.579812,5.6,Yes,5,Available,Lodha Group,2023-12-29
+PROP00228,Maninagar Homes,Ahmedabad,Maninagar,4214000,4,4,687,Apartment,23.006077,72.54358,2.4,No,0,Sold,Tata Housing,2025-04-18
+PROP01043,Banjara Hills Heights,Hyderabad,Banjara Hills,27628000,3,3,2380,Independent House,17.397833,78.561448,2.1,Yes,2,Under Construction,Local Developer,2022-04-06
+PROP01103,Worli Estate,Mumbai,Worli,44388000,3,3,1025,Apartment,19.148671,72.847972,5.8,Yes,2,Available,Oberoi Realty,2022-08-11
+PROP01102,Nungambakkam Gardens,Chennai,Nungambakkam,39872000,4,4,3089,Independent House,13.159817,80.281167,7.5,Yes,3,Available,Shapoorji Pallonji,2025-10-13
+PROP00515,T Nagar Residency,Chennai,T Nagar,3856000,1,1,362,Studio,13.126155,80.240116,,Yes,2,Under Construction,Shapoorji Pallonji,2025-03-27
+PROP00001,T Nagar Residency,Chennai,T Nagar,7225000,2,2,1051,Apartment,13.019099,80.309207,4.5,No,0,Available,Sobha Ltd,2023-04-22
+PROP00129,Vasant Kunj Residency,Delhi,Vasant Kunj,7254000,4,4,775,Apartment,28.674291,77.046729,5.6,No,15,Sold,Puravankara,2026-02-15
+PROP00933,Greater Kailash Enclave,Delhi,Greater Kailash,13567000,1,1,835,Apartment,28.76334,77.046401,3.1,No,25,Under Construction,Prestige Group,2025-04-29
+PROP00556,Karol Bagh Homes,Delhi,Karol Bagh,34105000,2,2,2131,Independent House,28.625868,77.074784,7.3,No,1,Under Construction,Prestige Group,2025-01-03
+PROP00282,T Nagar Enclave,Chennai,T Nagar,3678000,1,1,609,Studio,13.095802,80.255522,4.8,Yes,15,Available,Shapoorji Pallonji,2024-08-24
+PROP00417,Juhu Estate,Mumbai,Juhu,108673000,3,3,2640,Independent House,19.115566,72.801606,3.7,Yes,7,Available,Brigade Group,2025-07-07
+PROP01118,Thaltej Enclave,Ahmedabad,Thaltej,8003000,3,2,1229,Apartment,22.948631,72.599082,1.5,Yes,5,Under Construction,Lodha Group,2023-05-30
+PROP00846,SG Highway Estate,Ahmedabad,SG Highway,14865000,2,2,1849,Apartment,23.032949,72.647276,6.3,Yes,15,Sold,Godrej Properties,2025-03-21
+PROP00249,Viman Nagar Heights,Pune,Viman Nagar,17934000,3,2,1933,Independent House,18.46606,73.864402,7.3,No,5,Available,DLF Ltd,2025-10-07
+PROP00779,Thane Towers,Mumbai,Thane,77562000,4,3,3412,Villa,19.04147,72.943542,3.5,Yes,5,Sold,Oberoi Realty,2023-06-06
+PROP01036,Juhu Heights,Mumbai,Juhu,25870000,2,2,1383,Apartment,19.041625,72.827264,0.9,Yes,15,Sold,Godrej Properties,2024-01-13
+PROP00365,Worli Residency,Mumbai,Worli,74141000,3,3,2818,Independent House,19.07707,72.849528,0.2,Yes,5,Available,Tata Housing,2025-06-15
+PROP00164,Tambaram Homes,Chennai,Tambaram,9626000,1,1,737,Apartment,13.073858,80.312515,1,Yes,1,Available,Shapoorji Pallonji,2025-02-10
+PROP00146,Navi Mumbai Towers,Mumbai,Navi Mumbai,83836000,3,3,2985,Villa,19.067431,72.905224,7,Yes,0,Available,Sobha Ltd,2025-01-10
+PROP00396,T Nagar Gardens,Chennai,T Nagar,83154000,4,4,5151,Villa,13.125919,80.231874,6.3,Yes,0,Available,Brigade Group,2022-05-04
+PROP01059,Greater Kailash Towers,Delhi,Greater Kailash,27860000,2,2,1982,Apartment,28.707342,77.1113,5.5,Yes,10,Available,,2024-12-27
+PROP00347,Miyapur Gardens,Hyderabad,Miyapur,15546000,2,1,1910,Independent House,17.405037,78.444493,7.8,Yes,0,Sold,Oberoi Realty,2022-03-02
+PROP00575,Pitampura Enclave,Delhi,Pitampura,30989000,3,2,1798,Apartment,28.649041,77.175101,4,No,7,Under Construction,Lodha Group,2025-05-03
+PROP00157,Bandra Gardens,Mumbai,Bandra,117383000,4,4,4194,Villa,19.103845,72.926687,7.3,Yes,0,Available,Sobha Ltd,2023-01-29
+PROP01104,Baner Enclave,Pune,Baner,6037000,2,1,886,Apartment,18.536868,73.776774,1.1,No,2,Sold,Independent Builder,2023-10-13
+PROP00455,Miyapur Court,Hyderabad,Miyapur,46887000,5,5,3092,Villa,17.462722,78.467138,3.2,,10,Available,Independent Builder,2023-02-26
+PROP00067,Anna Nagar Gardens,Chennai,Anna Nagar,11839000,2,2,957,Apartment,13.019765,80.251718,,Yes,3,Available,Independent Builder,2024-03-21
+PROP00156,Satellite Homes,Ahmedabad,Satellite,8071000,4,4,1023,Apartment,22.943963,72.572317,3.1,No,25,Available,DLF Ltd,2024-12-25
+PROP00320,Electronic City Residency,Bangalore,Electronic City,9401000,1,,923,Apartment,12.993503,77.613437,2.3,No,2,Available,Prestige Group,2022-04-12
+PROP00985,Wakad Court,Pune,Wakad,24216000,5,5,2815,Villa,18.597471,73.871943,3.9,No,5,Available,Prestige Group,2022-09-09
+PROP00464,Vasant Kunj Enclave,Delhi,Vasant Kunj,124507000,4,4,4172,Penthouse,28.709455,77.134439,1.1,No,10,Sold,Lodha Group,2026-05-26
+PROP00273,Thaltej Court,Ahmedabad,Thaltej,20324000,3,2,2301,Independent House,23.06112,72.561038,6.6,Yes,25,Available,Puravankara,2026-01-08
+PROP01013,HSR Layout Enclave,Bangalore,HSR Layout,64956000,4,4,3376,Villa,13.028112,77.530706,0.8,Yes,1,Available,Puravankara,2022-07-09
+PROP00440,Andheri Homes,Mumbai,Andheri,20283000,4,,841,Apartment,19.016055,72.818535,0.8,Yes,0,Available,Puravankara,2026-04-01
+PROP00627,Jayanagar Heights,Bangalore,Jayanagar,34876000,3,2,2721,Independent House,12.951055,77.61864,1.8,No,0,Under Construction,Prestige Group,2025-07-13
+PROP00272,Kharadi Towers,Pune,Kharadi,48242000,5,5,3993,Villa,18.49165,73.789875,0.9,Yes,25,Available,Independent Builder,2025-07-13
+PROP00738,Maninagar Gardens,Ahmedabad,Maninagar,16157000,3,3,2750,Independent House,23.075178,72.560852,3.5,Yes,0,Sold,Local Developer,2025-10-20
+PROP00935,Miyapur Estate,Hyderabad,Miyapur,5503000,1,1,431,Studio,17.314562,78.56053,0.7,Yes,10,Sold,Prestige Group,2023-04-27
+PROP00560,T Nagar Court,Chennai,T Nagar,8224000,1,1,1040,Apartment,13.103193,80.237402,7.3,Yes,10,Available,Shapoorji Pallonji,2022-09-06
+PROP00393,Electronic City Court,Bangalore,Electronic City,28709000,3,2,2540,Independent House,13.015304,77.634455,5.9,Yes,15,Available,Local Developer,2023-01-04
+PROP00386,Anna Nagar Residency,Chennai,Anna Nagar,10506000,1,1,1621,Apartment,13.078292,80.30937,7.7,Yes,25,Sold,Tata Housing,2023-10-02
+PROP00625,Adyar Court,Chennai,Adyar,16901000,2,2,1294,Apartment,13.116554,80.230215,7.2,Yes,0,Available,Independent Builder,2026-03-06
+PROP00856,Marathahalli Enclave,Bangalore,Marathahalli,26866000,4,4,1553,Independent House,13.046048,77.633315,6.5,Yes,5,Under Construction,Godrej Properties,2026-05-30
+PROP00290,Vasant Kunj Homes,Delhi,Vasant Kunj,69512000,3,2,2827,Independent House,28.653201,77.128044,2.3,Yes,10,Sold,Godrej Properties,2023-04-16
+PROP00907,Yelahanka Residency,Bangalore,Yelahanka,9424000,3,3,692,Apartment,12.937649,77.540376,,Yes,0,Available,Godrej Properties,2024-04-19
+PROP00719,Whitefield Estate,Bangalore,Whitefield,65980000,4,3,4550,Penthouse,12.975609,77.596687,1.6,Yes,5,Sold,Tata Housing,2023-11-26
+PROP01073,Madhapur Estate,Hyderabad,Madhapur,9129000,2,1,1409,Apartment,17.42056,78.541906,3.6,Yes,3,Under Construction,Lodha Group,2022-06-18
+PROP00620,Kondapur Enclave,Hyderabad,Kondapur,3021000,1,1,432,Studio,17.381687,78.513139,2.3,No,10,Sold,Independent Builder,2026-01-02
+PROP00047,Powai Gardens,Mumbai,Powai,57886000,4,4,1541,Apartment,19.152257,72.881642,2.4,Yes,2,Available,Brigade Group,2023-01-03
+PROP00656,Kukatpally Residency,Hyderabad,Kukatpally,10591000,2,2,1826,Apartment,17.419042,78.51596,2.1,Yes,1,Sold,Puravankara,2022-07-19
+PROP00300,T Nagar Homes,Chennai,T Nagar,7188000,1,1,631,Studio,13.092158,80.283969,2.9,Yes,2,Sold,Sobha Ltd,2024-07-20
+PROP00187,Nungambakkam Court,Chennai,Nungambakkam,8435000,2,2,1453,Apartment,13.155985,80.223071,5.6,Yes,25,Available,Lodha Group,2022-07-11
+PROP00361,Saket Homes,Delhi,Saket,73848000,3,3,3178,Independent House,28.68173,77.028234,6.2,Yes,5,Under Construction,Godrej Properties,2026-04-03
+PROP00657,Karol Bagh Estate,Delhi,Karol Bagh,87470000,3,3,4043,Villa,28.671397,77.033406,4.7,Yes,0,Available,Local Developer,2026-04-30
+PROP00964,Janakpuri Heights,Delhi,Janakpuri,35291000,2,1,1662,Independent House,28.649012,77.133531,6.1,Yes,15,Sold,Puravankara,2022-10-23
+PROP00675,Bandra Court,Mumbai,Bandra,47075000,4,3,2127,Apartment,19.094896,72.884688,7.8,No,0,Sold,Prestige Group,2024-07-18
+PROP00307,Hitech City Gardens,Hyderabad,Hitech City,10270000,4,3,1846,Independent House,17.412856,78.467408,,Yes,20,Under Construction,Prestige Group,2025-01-28
+PROP00691,Powai Estate,Mumbai,Powai,87802000,2,1,2092,Apartment,19.150534,72.863827,3.7,Yes,15,Available,Tata Housing,2024-09-05
+PROP01033,Dwarka Enclave,Delhi,Dwarka,8774000,2,1,557,Apartment,28.782126,77.171927,5.3,No,0,Under Construction,Puravankara,2022-06-24
+PROP00945,Kothrud Heights,Pune,Kothrud,29742000,3,3,2217,Independent House,18.462786,73.793061,1.5,Yes,0,Sold,Brigade Group,2023-11-24
+PROP00472,Navi Mumbai Towers,Mumbai,Navi Mumbai,140485000,4,4,2611,Villa,19.086759,72.799958,4.3,No,25,Available,Sobha Ltd,2026-01-01
+PROP00798,Miyapur Court,Hyderabad,Miyapur,16247000,4,4,2414,Independent House,17.331622,78.454793,4.9,Yes,20,Sold,Prestige Group,2025-09-20
+PROP00110,Koramangala Homes,Bangalore,Koramangala,13750000,4,4,1155,Apartment,13.006426,77.541263,3.7,No,0,Sold,Brigade Group,2025-06-13
+PROP00363,Madhapur Enclave,Hyderabad,Madhapur,10608000,2,1,1081,Apartment,17.404719,78.555037,5,No,15,Sold,Puravankara,2024-10-05
+PROP00387,Whitefield Gardens,Bangalore,Whitefield,22759000,3,2,1510,Apartment,12.958963,77.668293,6.4,Yes,1,Available,Tata Housing,2026-03-15
+PROP00741,Vastrapur Court,Ahmedabad,Vastrapur,9520000,1,1,1450,Apartment,23.097042,72.568233,6.8,Yes,7,Available,Godrej Properties,2023-07-21
+PROP00342,Maninagar Residency,Ahmedabad,Maninagar,13459000,2,2,1812,Apartment,23.012974,72.639274,2,Yes,1,Sold,Godrej Properties,2022-08-19
+PROP01041,Gachibowli Gardens,Hyderabad,Gachibowli,26958000,3,2,2381,Independent House,17.335008,78.49431,0.7,Yes,20,Sold,Sobha Ltd,2024-12-16
+PROP00572,Dwarka Heights,Delhi,Dwarka,10603000,1,1,477,Studio,28.659691,77.162133,4.3,Yes,10,Sold,Godrej Properties,2024-10-03
+PROP00567,Indiranagar Gardens,Bangalore,Indiranagar,13503000,4,4,1197,Apartment,12.965004,77.525163,6.6,Yes,0,Available,Sobha Ltd,2024-04-21
+PROP00708,Malad Homes,Mumbai,Malad,32179000,4,,952,Apartment,19.008915,72.832717,3.9,Yes,2,Sold,Independent Builder,2024-03-02
+PROP00828,Wakad Homes,Pune,Wakad,3763000,1,1,481,Studio,18.576547,73.870017,1.4,Yes,3,Available,Shapoorji Pallonji,2026-03-07
+PROP01127,Kothrud Homes,Pune,Kothrud,40545000,4,4,5103,Villa,18.478002,73.858981,4.6,Yes,7,Available,Prestige Group,2023-11-09
+PROP00982,Aundh Court,Pune,Aundh,15985000,3,2,1418,Apartment,18.56333,73.919188,1.3,,2,Sold,Brigade Group,2025-12-30
+PROP00291,Kukatpally Estate,Hyderabad,Kukatpally,17225000,2,,1620,Apartment,17.437242,78.503582,1.6,Yes,15,Available,Godrej Properties,2022-07-10
+PROP00500,T Nagar Gardens,Chennai,T Nagar,8333000,2,2,1235,Apartment,13.035002,80.345842,6.2,Yes,2,Sold,Puravankara,2023-12-01
+PROP00182,Janakpuri Court,Delhi,Janakpuri,11782000,1,1,569,Studio,28.749676,77.152665,6.5,Yes,15,Available,Shapoorji Pallonji,2022-12-11
+PROP01124,Worli Towers,Mumbai,Worli,129233000,4,4,4383,Villa,19.13017,72.83133,2.6,Yes,3,Available,Brigade Group,2023-11-03
+PROP00658,Yelahanka Court,Bangalore,Yelahanka,142086000,4,4,5163,Penthouse,12.969721,77.572756,2.4,No,20,Under Construction,Prestige Group,2024-06-21
+PROP00566,Velachery Court,Chennai,Velachery,6379000,3,3,770,Apartment,13.102986,80.290648,7.5,No,7,Available,,2022-08-05
+PROP00922,Whitefield Homes,Bangalore,Whitefield,7600000,3,2,571,Apartment,12.940034,77.546543,3.9,No,0,Sold,Lodha Group,2025-11-28
+PROP00507,Porur Enclave,Chennai,Porur,6516000,4,4,805,Apartment,13.120597,80.263204,7.9,Yes,5,Available,Independent Builder,2026-05-27
+PROP01038,Maninagar Residency,Ahmedabad,Maninagar,4480000,1,1,502,Studio,23.062868,72.497918,7.4,No,0,Sold,Lodha Group,2026-02-26
+PROP00438,Thane Towers,Mumbai,Thane,37885000,2,1,1480,Independent House,19.120609,72.863619,7.4,Yes,0,Available,Shapoorji Pallonji,2023-03-29
+PROP00954,Whitefield Residency,Bangalore,Whitefield,35885000,3,2,2042,Apartment,12.907157,77.573488,5.2,No,5,Available,Oberoi Realty,2025-08-31
+PROP00116,Vastrapur Estate,Ahmedabad,Vastrapur,20683000,3,3,2269,Villa,23.019086,72.557127,3.4,Yes,1,Under Construction,Independent Builder,2022-06-01
+PROP00974,Powai Residency,Mumbai,Powai,57416000,2,2,1911,Apartment,19.155443,72.857431,2.3,Yes,25,Available,Oberoi Realty,2022-08-26
+PROP00595,Yelahanka Enclave,Bangalore,Yelahanka,78353000,4,4,4027,Villa,13.048583,77.567903,6.7,Yes,2,Sold,DLF Ltd,2026-05-09
+PROP00948,Marathahalli Towers,Bangalore,Marathahalli,19106000,4,3,1239,Independent House,12.970356,77.621743,5.6,Yes,0,Available,DLF Ltd,2023-03-04
+PROP00091,Pitampura Estate,Delhi,Pitampura,36916000,3,2,2106,Apartment,28.771965,77.112819,,Yes,25,Available,Puravankara,2022-05-20
+PROP00810,Whitefield Gardens,Bangalore,Whitefield,20789000,4,4,1856,Apartment,13.048443,77.527202,7.4,Yes,7,Available,Prestige Group,2026-03-10
+PROP00927,OMR Enclave,Chennai,OMR,20924000,2,2,2000,Apartment,13.03247,80.23679,5.5,Yes,10,Available,DLF Ltd,2022-06-12
+PROP00265,Karol Bagh Towers,Delhi,Karol Bagh,24577000,3,2,1786,Independent House,28.758401,77.132995,2.5,Yes,5,Sold,Godrej Properties,2025-06-15
+PROP00121,Miyapur Heights,Hyderabad,Miyapur,8196000,2,1,1246,Apartment,17.442838,78.457791,,Yes,7,Available,Brigade Group,2024-11-20
+PROP00731,Worli Heights,Mumbai,Worli,254227000,5,4,4793,Villa,19.004342,72.920209,5.6,No,7,Available,Godrej Properties,2024-06-15
+PROP00235,Prahlad Nagar Gardens,Ahmedabad,Prahlad Nagar,22479000,4,3,3102,Villa,23.067349,72.614212,0.3,Yes,25,Available,DLF Ltd,2023-04-04
+PROP00364,Viman Nagar Towers,Pune,Viman Nagar,7449000,3,3,1203,Independent House,18.540474,73.795568,6.8,No,7,Available,Brigade Group,2025-02-21
+PROP00603,Andheri Towers,Mumbai,Andheri,134181000,3,2,3177,Independent House,19.024906,72.893556,1.6,No,5,Available,Prestige Group,2025-03-23
+PROP00045,Viman Nagar Towers,Pune,Viman Nagar,14430000,4,4,1382,Apartment,18.478852,73.852875,5.8,No,0,Available,Sobha Ltd,2024-04-08
+PROP00274,Andheri Residency,Mumbai,Andheri,71957000,2,2,2176,Apartment,19.087994,72.834123,2.2,No,10,Sold,Oberoi Realty,2023-10-10
+PROP01131,Navrangpura Gardens,Ahmedabad,Navrangpura,1552000,1,1,385,Studio,22.996889,72.496806,1.8,No,15,Sold,Independent Builder,2022-07-25
+PROP00651,SG Highway Court,Ahmedabad,SG Highway,15937000,4,4,1864,Apartment,22.968872,72.619934,5.2,Yes,3,Available,Godrej Properties,2024-01-13
+PROP00681,Secunderabad Enclave,Hyderabad,Secunderabad,6423000,3,3,945,Apartment,17.414929,78.54867,2.4,No,0,Sold,Tata Housing,2023-10-01
+PROP00489,Wakad Residency,Pune,Wakad,6507000,2,2,982,Apartment,18.59755,73.818191,5.5,No,15,Available,Oberoi Realty,2022-08-27
+PROP00869,Kukatpally Enclave,Hyderabad,Kukatpally,42585000,5,,4422,Villa,17.341209,78.558548,1.3,No,0,Sold,Tata Housing,2025-10-08
+PROP00953,Miyapur Residency,Hyderabad,Miyapur,49795000,4,4,4013,Villa,17.462885,78.543877,2.1,Yes,0,Under Construction,Tata Housing,2022-04-13
+PROP00975,Vasant Kunj Enclave,Delhi,Vasant Kunj,34144000,2,1,2079,Apartment,28.683597,77.104131,0.3,Yes,20,Available,Lodha Group,2026-07-20
+PROP01071,Bopal Towers,Ahmedabad,Bopal,2497000,1,1,620,Studio,23.042593,72.532786,6.9,Yes,15,Under Construction,Puravankara,2023-05-25
+PROP00402,Miyapur Residency,Hyderabad,Miyapur,17265000,3,3,1867,Apartment,17.459393,78.536584,7.7,Yes,0,Available,Brigade Group,2026-06-02
+PROP00771,Wakad Residency,Pune,Wakad,13065000,4,3,1642,Apartment,18.443154,73.856226,3.3,Yes,15,Sold,Puravankara,2023-04-04
+PROP00744,Andheri Court,Mumbai,Andheri,129483000,3,3,4093,Villa,19.055417,72.929331,,No,3,Available,Brigade Group,2025-05-28
+PROP00475,Anna Nagar Gardens,Chennai,Anna Nagar,5603000,3,3,670,Apartment,13.040275,80.336016,8,Yes,0,Available,Tata Housing,2024-02-20
+PROP00155,Kukatpally Residency,Hyderabad,Kukatpally,16855000,3,3,1546,Independent House,17.383131,78.553404,4.4,Yes,15,Available,Godrej Properties,2025-09-30
+PROP01123,Thane Enclave,Mumbai,Thane,69491000,3,3,2889,Independent House,19.027066,72.8982,1.1,Yes,0,Under Construction,Tata Housing,2024-09-18
+PROP00926,Powai Court,Mumbai,Powai,14661000,4,4,716,Apartment,19.148223,72.798315,6.4,Yes,2,Available,Godrej Properties,2024-03-03
+PROP00574,Greater Kailash Homes,Delhi,Greater Kailash,23344000,2,2,1170,Apartment,28.778936,77.054724,6.9,No,0,Under Construction,Brigade Group,2024-03-26
+PROP00434,Dwarka Towers,Delhi,Dwarka,47185000,3,3,1737,Independent House,28.757579,77.098107,5.3,Yes,7,Available,Local Developer,2025-08-13
+PROP00687,Whitefield Homes,Bangalore,Whitefield,52064000,3,3,3891,Villa,12.897521,77.599955,4.3,Yes,25,Available,Puravankara,2022-07-14
+PROP00615,Hadapsar Heights,Pune,Hadapsar,91487000,5,4,5628,Penthouse,18.499128,73.798031,3,Yes,7,Available,Prestige Group,2024-02-04
+PROP00170,Karol Bagh Heights,Delhi,Karol Bagh,29301000,4,4,2816,Independent House,28.782612,77.099178,3.3,No,15,Available,Brigade Group,2025-12-07
+PROP00811,T Nagar Homes,Chennai,T Nagar,37830000,4,4,3176,Independent House,13.094043,80.349887,5,Yes,0,Available,Puravankara,2023-03-17
+PROP00277,Powai Enclave,Mumbai,Powai,49318000,1,1,1722,Apartment,19.083604,72.81132,1.8,Yes,2,Available,Independent Builder,2024-11-15
+PROP00605,Whitefield Heights,Bangalore,Whitefield,8764000,1,1,615,Studio,12.962787,77.606931,5.6,Yes,20,Available,Sobha Ltd,2025-11-09
+PROP00837,Velachery Enclave,Chennai,Velachery,15717000,1,1,2112,Apartment,13.082985,80.241903,4.3,Yes,25,Available,,2023-03-07
+PROP00691,Powai Estate,Mumbai,Powai,87802000,2,1,2092,Apartment,19.150534,72.863827,3.7,Yes,15,Available,Tata Housing,2024-09-05
+PROP00512,Gachibowli Heights,Hyderabad,Gachibowli,24300000,3,2,2805,Independent House,17.454891,78.455526,,Yes,10,Available,Shapoorji Pallonji,2023-12-16
+PROP00913,Miyapur Enclave,Hyderabad,Miyapur,6475000,2,2,987,Apartment,17.322384,78.511058,2.5,No,0,Available,Brigade Group,2025-02-03
+PROP01108,Janakpuri Enclave,Delhi,Janakpuri,61869000,4,3,2806,Independent House,28.694169,77.143761,7,Yes,15,Available,Godrej Properties,2024-11-21
+PROP01148,Nungambakkam Estate,Chennai,Nungambakkam,5228000,1,1,847,Apartment,13.026849,80.214986,1.8,Yes,25,Under Construction,Puravankara,2024-04-19
+PROP01060,Miyapur Estate,Hyderabad,Miyapur,8353000,3,3,1121,Apartment,17.339264,78.524046,6.2,Yes,2,Available,Oberoi Realty,2026-05-02
+PROP01109,Kharadi Estate,Pune,Kharadi,12218000,2,1,1018,Apartment,18.593963,73.780367,6.3,No,7,Sold,Godrej Properties,2024-07-17
+PROP00685,Rohini Homes,Delhi,Rohini,12922000,3,2,984,Apartment,28.713853,77.137102,7.6,Yes,20,Under Construction,Oberoi Realty,2025-10-29
+PROP00664,Satellite Homes,Ahmedabad,Satellite,6131000,3,3,1250,Apartment,22.998384,72.558456,3.9,Yes,7,Available,Local Developer,2025-03-14
+PROP00588,Pitampura Enclave,Delhi,Pitampura,33986000,3,3,2176,Apartment,28.774354,77.173136,3.9,Yes,7,Available,Sobha Ltd,2025-12-29
+PROP00094,Worli Court,Mumbai,Worli,78338000,4,3,2273,Independent House,19.054224,72.94457,3.2,Yes,25,Sold,Independent Builder,2025-08-18
+PROP00413,Banjara Hills Gardens,Hyderabad,Banjara Hills,26675000,4,4,2828,Villa,17.314544,78.42854,6.8,No,7,Available,Brigade Group,2023-03-27
+PROP01105,Secunderabad Enclave,Hyderabad,Secunderabad,33142000,4,4,3540,Villa,17.447624,78.49393,2.6,Yes,1,Under Construction,Brigade Group,2022-04-08
+PROP00307,Hitech City Gardens,Hyderabad,Hitech City,10270000,4,3,1846,Independent House,17.412856,78.467408,1,Yes,20,Under Construction,Prestige Group,2025-01-28
+PROP00088,Juhu Estate,Mumbai,Juhu,15091000,1,1,510,Studio,19.060708,72.900123,2.5,No,0,Under Construction,,2026-06-30
+PROP00577,Navrangpura Enclave,Ahmedabad,Navrangpura,8219000,3,2,1358,Apartment,23.020828,72.593968,4.8,,0,Under Construction,Godrej Properties,2024-02-28
+PROP00390,Kukatpally Enclave,Hyderabad,Kukatpally,24260000,2,2,1902,Independent House,17.400287,78.538176,6.7,No,7,Available,Puravankara,2026-01-26
+PROP00194,Indiranagar Homes,Bangalore,Indiranagar,9555000,2,1,1234,Independent House,12.93355,77.520972,0.7,No,15,Available,Local Developer,2024-10-23
+PROP01002,Worli Heights,Mumbai,Worli,13785000,1,1,479,Studio,19.110062,72.857151,1.8,Yes,7,Under Construction,,2022-10-26
+PROP00185,Porur Homes,Chennai,Porur,7099000,3,2,1220,Apartment,13.126562,80.307936,5.9,No,25,Sold,,2022-05-10
+PROP00863,Hadapsar Court,Pune,Hadapsar,25336000,2,1,1892,Apartment,18.494361,73.919504,2.2,No,15,Available,Godrej Properties,2025-09-30
+PROP00849,Hadapsar Residency,Pune,Hadapsar,37206000,3,2,2776,Independent House,18.583319,73.891085,4.7,Yes,1,Available,Prestige Group,2022-07-26
+PROP00096,Marathahalli Residency,Bangalore,Marathahalli,9506000,4,4,723,Apartment,12.994559,77.567156,1.2,Yes,25,Sold,Shapoorji Pallonji,2024-01-12
+PROP00683,Kukatpally Court,Hyderabad,Kukatpally,6050000,1,1,611,Studio,17.351956,78.53897,5.2,Yes,7,Available,Prestige Group,2026-07-15
+PROP00485,T Nagar Homes,Chennai,T Nagar,27784000,3,3,2202,Independent House,13.07893,80.280789,3.5,No,5,Sold,Oberoi Realty,2025-07-15
+PROP00328,Vastrapur Towers,Ahmedabad,Vastrapur,12505000,2,2,1470,Apartment,23.029157,72.564053,6.3,No,1,Under Construction,Tata Housing,2024-01-16
+PROP00486,Bandra Estate,Mumbai,Bandra,249013000,5,5,4770,Villa,19.144907,72.882065,5.2,Yes,3,Available,Godrej Properties,2026-06-30
+PROP00429,Whitefield Homes,Bangalore,Whitefield,65117000,4,3,4389,Villa,12.936068,77.518208,4.4,No,25,Sold,Godrej Properties,2024-11-14
+PROP00048,Powai Court,Mumbai,Powai,61985000,1,1,1683,Apartment,19.016205,72.936654,4,Yes,20,Available,Puravankara,2024-06-21
+PROP00554,Saket Heights,Delhi,Saket,182245000,4,3,4827,Penthouse,28.715921,77.085042,3.2,No,0,Available,Sobha Ltd,2024-08-30
+PROP00266,Tambaram Towers,Chennai,Tambaram,12434000,4,3,1139,Apartment,13.150938,80.252709,7.7,Yes,15,Available,Local Developer,2023-05-30
+PROP00027,Andheri Homes,Mumbai,Andheri,16265000,1,1,483,Studio,19.153368,72.803821,4.9,Yes,5,Available,,2022-08-25
+PROP00832,Indiranagar Enclave,Bangalore,Indiranagar,24824000,3,2,1667,Independent House,12.919989,77.6713,2.3,Yes,0,Sold,Local Developer,2022-05-11
+PROP00064,Rohini Court,Delhi,Rohini,47142000,1,1,2107,Apartment,28.640181,77.049118,2.5,Yes,0,Available,DLF Ltd,2023-08-24
+PROP00177,Maninagar Homes,Ahmedabad,Maninagar,1862000,1,1,393,Studio,22.961358,72.540261,1.6,Yes,15,Available,Tata Housing,2022-10-10
+PROP01116,Bopal Court,Ahmedabad,Bopal,56564000,3,2,5446,Penthouse,23.040169,72.570195,4.4,No,15,Available,Prestige Group,2022-09-23
+PROP00185,Porur Homes,Chennai,Porur,7099000,3,2,1220,Apartment,13.126562,80.307936,5.9,No,25,Sold,Brigade Group,2022-05-10
+PROP00955,Whitefield Residency,Bangalore,Whitefield,4985000,1,1,504,Studio,13.04042,77.656578,6.4,Yes,0,Under Construction,Local Developer,2025-10-28
+PROP00449,Andheri Estate,Mumbai,Andheri,41563000,2,1,2220,Independent House,19.024655,72.894433,2.8,Yes,20,Sold,Godrej Properties,2025-09-15
+PROP00383,Navrangpura Enclave,Ahmedabad,Navrangpura,8396000,3,2,1790,Independent House,22.944356,72.595142,1.3,No,25,Available,Prestige Group,2022-06-23
+PROP00288,Secunderabad Enclave,Hyderabad,Secunderabad,10340000,3,,880,Apartment,17.308591,78.413603,4.7,Yes,1,Sold,DLF Ltd,2025-03-18
+PROP00996,Hinjewadi Heights,Pune,Hinjewadi,11172000,3,3,1416,Apartment,18.569637,73.807962,5.8,Yes,0,Available,Prestige Group,2024-12-29
+PROP00902,HSR Layout Heights,Bangalore,HSR Layout,12230000,4,3,1719,Independent House,13.002404,77.521288,6.2,Yes,25,Sold,Godrej Properties,2025-07-29
+PROP01078,T Nagar Heights,Chennai,T Nagar,5448000,2,2,839,Apartment,13.116509,80.263459,3.8,Yes,15,Available,Sobha Ltd,2023-05-09
+PROP00730,Hadapsar Residency,Pune,Hadapsar,3091000,1,1,488,Studio,18.446096,73.857917,5.3,No,10,Available,Sobha Ltd,2022-02-13
+PROP00925,Bopal Heights,Ahmedabad,Bopal,18081000,1,1,2058,Apartment,23.041294,72.516399,,No,25,Under Construction,Independent Builder,2022-08-05
+PROP01095,Whitefield Heights,Bangalore,Whitefield,78664000,4,3,3663,Villa,12.915058,77.620347,0.9,No,20,Available,Oberoi Realty,2025-07-14
+PROP00330,Powai Residency,Mumbai,Powai,29954000,1,1,963,Apartment,19.011801,72.889062,6.7,No,15,Sold,Tata Housing,2023-06-09
+PROP01143,Kondapur Towers,Hyderabad,Kondapur,10446000,3,3,1612,Apartment,17.309493,78.514735,7.8,Yes,5,Available,Local Developer,2022-04-22
+PROP00623,Pitampura Gardens,Delhi,Pitampura,48864000,2,1,2635,Independent House,28.65309,77.181308,4.8,Yes,2,Available,Oberoi Realty,2022-03-20
+PROP00533,Satellite Court,Ahmedabad,Satellite,25891000,3,3,3132,Independent House,23.041631,72.613656,5.1,Yes,0,Under Construction,DLF Ltd,2024-02-12
+PROP00818,Navrangpura Gardens,Ahmedabad,Navrangpura,35174000,4,3,4057,Villa,23.007135,72.612493,2.4,No,1,Under Construction,Prestige Group,2024-03-30
+PROP00145,OMR Heights,Chennai,OMR,19896000,2,2,1811,Independent House,13.089811,80.275809,6.6,Yes,10,Available,Lodha Group,2023-01-22
+PROP00063,T Nagar Gardens,Chennai,T Nagar,8191000,1,1,623,Studio,13.102988,80.33269,4,Yes,20,Available,,2025-11-02
+PROP00594,Karol Bagh Heights,Delhi,Karol Bagh,30588000,4,4,2592,Independent House,28.669443,77.14203,6.8,Yes,20,Available,Shapoorji Pallonji,2025-11-11
+PROP01032,Saket Court,Delhi,Saket,35739000,4,3,1540,Apartment,28.634804,77.181384,2,No,15,Sold,Oberoi Realty,2023-10-22
+PROP00046,Jayanagar Court,Bangalore,Jayanagar,22526000,3,3,1254,Apartment,12.979662,77.57089,3.7,,3,Available,Local Developer,2023-01-30
+PROP00911,Dwarka Estate,Delhi,Dwarka,46030000,4,4,1658,Apartment,28.644104,77.12274,1.8,No,7,Under Construction,Puravankara,2026-02-11
+PROP01047,Indiranagar Gardens,Bangalore,Indiranagar,17356000,2,2,1422,Apartment,13.013621,77.525047,3.7,Yes,25,Available,Sobha Ltd,2025-11-10
+PROP00230,Secunderabad Court,Hyderabad,Secunderabad,19786000,5,5,2153,Villa,17.402385,78.517686,0.5,Yes,2,Available,Puravankara,2023-07-05
+PROP00301,Kothrud Estate,Pune,Kothrud,16604000,3,3,1586,Apartment,18.520907,73.831095,1.1,Yes,15,Sold,Tata Housing,2023-05-28
+PROP00919,Gachibowli Towers,Hyderabad,Gachibowli,93338000,5,5,4821,Penthouse,17.446839,78.417722,1.3,Yes,25,Available,Prestige Group,2022-08-16
+PROP01034,Bopal Homes,Ahmedabad,Bopal,40913000,3,3,4428,Villa,23.030757,72.613253,1.1,Yes,25,Available,Lodha Group,2025-01-04
+PROP00757,Hinjewadi Heights,Pune,Hinjewadi,36128000,3,3,3080,Independent House,18.587469,73.79589,7.1,No,3,Available,Prestige Group,2023-07-25
+PROP00482,Andheri Enclave,Mumbai,Andheri,57493000,4,4,1900,Apartment,19.148832,72.892773,0.2,Yes,25,Sold,Puravankara,2023-10-28
+PROP00172,Viman Nagar Enclave,Pune,Viman Nagar,16042000,3,2,1498,Apartment,18.520475,73.831895,0.4,Yes,3,Available,Godrej Properties,2022-08-26
+PROP00195,Miyapur Heights,Hyderabad,Miyapur,10971000,3,2,1651,Apartment,17.318376,78.419343,7.4,Yes,15,Available,Tata Housing,2025-07-23
+PROP00532,Saket Court,Delhi,Saket,19855000,1,,1832,Apartment,28.700895,77.151789,4.8,Yes,3,Available,Puravankara,2023-05-04
+PROP00057,Nungambakkam Enclave,Chennai,Nungambakkam,11888000,3,2,1746,Independent House,13.048785,80.331635,4,Yes,25,Sold,Sobha Ltd,2025-12-24
+PROP00325,Baner Court,Pune,Baner,6048000,2,2,568,Apartment,18.55092,73.886845,1.4,,2,Available,Godrej Properties,2025-11-05
+PROP00113,Anna Nagar Estate,Chennai,Anna Nagar,4361000,1,1,603,Apartment,13.085539,80.336867,1.1,Yes,10,Available,Tata Housing,2023-08-08
+PROP01090,Maninagar Gardens,Ahmedabad,Maninagar,5514000,2,1,582,Apartment,23.101203,72.584664,1.5,No,20,Sold,Oberoi Realty,2026-05-18
+PROP00183,Anna Nagar Enclave,Chennai,Anna Nagar,19359000,2,1,1603,Apartment,13.024394,80.310715,3.4,Yes,3,Under Construction,Prestige Group,2025-12-07
+PROP00217,SG Highway Enclave,Ahmedabad,SG Highway,59991000,4,3,4896,Villa,23.068419,72.527118,4.8,Yes,7,Available,Local Developer,2023-08-27
+PROP00352,Pitampura Towers,Delhi,Pitampura,28900000,3,3,1576,Independent House,28.646102,77.053422,0.5,Yes,3,Under Construction,Sobha Ltd,2026-03-01
+PROP00944,Indiranagar Residency,Bangalore,Indiranagar,9595000,4,3,1318,Apartment,12.961082,77.566421,1.6,Yes,25,Available,Tata Housing,2026-03-30
+PROP01072,Banjara Hills Gardens,Hyderabad,Banjara Hills,38662000,3,3,3637,Villa,17.32764,78.470713,5.5,Yes,15,Sold,Independent Builder,2025-09-27
+PROP00105,Greater Kailash Homes,Delhi,Greater Kailash,19951000,4,3,725,Apartment,28.634929,77.10667,4.2,Yes,7,Under Construction,DLF Ltd,2025-07-25
+PROP00957,Rohini Gardens,Delhi,Rohini,11274000,3,3,611,Apartment,28.756972,77.088488,7.8,Yes,25,Available,Lodha Group,2025-12-24
+PROP00439,Bopal Gardens,Ahmedabad,Bopal,7154000,1,1,788,Apartment,23.019223,72.541252,3,No,20,Available,Brigade Group,2022-12-19
+PROP00054,Wakad Gardens,Pune,Wakad,20645000,2,1,1930,Apartment,18.443719,73.899062,6.6,Yes,1,Available,Independent Builder,2024-06-24
+PROP00286,Maninagar Estate,Ahmedabad,Maninagar,30470000,4,3,3542,Villa,23.086216,72.503854,2.2,Yes,15,Available,Brigade Group,2024-09-24
+PROP00883,Anna Nagar Towers,Chennai,Anna Nagar,25950000,3,3,2845,Independent House,13.061022,80.338781,2,Yes,0,Under Construction,Prestige Group,2023-10-21
+PROP00339,HSR Layout Court,Bangalore,HSR Layout,36212000,4,4,2048,Apartment,13.012054,77.606641,0.9,No,3,Sold,Prestige Group,2022-09-28
+PROP00541,Andheri Towers,Mumbai,Andheri,20289000,3,3,785,Apartment,19.027105,72.89141,6.2,Yes,0,Available,Lodha Group,2022-12-23
+PROP00138,Thaltej Gardens,Ahmedabad,Thaltej,26223000,3,2,3641,Villa,23.018893,72.641132,0.3,No,2,Available,Lodha Group,2023-11-07
+PROP00031,T Nagar Estate,Chennai,T Nagar,15471000,4,3,1846,Apartment,13.133648,80.310882,5.4,Yes,2,Available,DLF Ltd,2023-05-17
+PROP00914,Tambaram Enclave,Chennai,Tambaram,7459000,1,1,571,Studio,13.006514,80.223733,4.6,Yes,3,Under Construction,Independent Builder,2025-02-27
+PROP00234,Janakpuri Towers,Delhi,Janakpuri,18398000,3,3,913,Apartment,28.680062,77.048662,7.2,Yes,3,Available,DLF Ltd,2022-11-30
+PROP00593,Whitefield Court,Bangalore,Whitefield,125800000,4,4,5469,Villa,12.950004,77.623288,6.4,Yes,0,Available,Shapoorji Pallonji,2024-08-01
+PROP01056,Yelahanka Towers,Bangalore,Yelahanka,24396000,4,3,2110,Villa,12.895018,77.558641,1.5,Yes,2,Sold,Local Developer,2023-01-03
+PROP00432,Rohini Enclave,Delhi,Rohini,42230000,2,1,1522,Apartment,28.634679,77.176115,6.1,Yes,0,Available,Lodha Group,2024-04-28
+PROP00375,SG Highway Court,Ahmedabad,SG Highway,47481000,3,2,5329,Villa,23.052016,72.605035,3.8,Yes,2,Available,Tata Housing,2023-06-13
+PROP00583,Powai Heights,Mumbai,Powai,51756000,3,3,1731,Independent House,19.142075,72.815171,5.2,Yes,3,Available,Godrej Properties,2023-07-21
+PROP00661,Powai Gardens,Mumbai,Powai,64849000,4,4,2773,Independent House,19.048595,72.848466,8,No,2,Sold,Puravankara,2022-08-23
+PROP00357,T Nagar Enclave,Chennai,T Nagar,12634000,4,3,1470,Apartment,13.086511,80.252154,6.4,Yes,7,Sold,DLF Ltd,2026-04-23
+PROP00478,Kukatpally Estate,Hyderabad,Kukatpally,20437000,3,3,2114,Apartment,17.452656,78.508564,3.6,Yes,1,Available,Prestige Group,2022-03-15
+PROP00509,Banjara Hills Estate,Hyderabad,Banjara Hills,16496000,2,1,1936,Apartment,17.394435,78.531312,7,No,25,Available,Puravankara,2025-11-12
+PROP00546,Secunderabad Residency,Hyderabad,Secunderabad,14082000,4,3,1315,Apartment,17.419504,78.485867,2.3,No,25,Under Construction,Tata Housing,2025-08-23
+PROP00983,Pitampura Towers,Delhi,Pitampura,72226000,4,3,2480,Villa,28.663624,77.118201,,Yes,1,Under Construction,Puravankara,2024-02-07
+PROP01085,Navrangpura Residency,Ahmedabad,Navrangpura,36514000,4,4,2973,Villa,23.097106,72.610401,4.3,Yes,0,Sold,Oberoi Realty,2026-05-18
+PROP00101,Koramangala Homes,Bangalore,Koramangala,18276000,3,2,2120,Independent House,12.961596,77.666026,1.9,No,5,Under Construction,Oberoi Realty,2022-04-20
+PROP00588,Pitampura Enclave,Delhi,Pitampura,33986000,3,3,2176,Apartment,28.774354,77.173136,3.9,Yes,7,Available,Sobha Ltd,2025-12-29
+PROP00994,Vasant Kunj Residency,Delhi,Vasant Kunj,11720000,1,1,614,Studio,28.655414,77.028307,3.2,Yes,2,Available,Prestige Group,2022-07-09
+PROP00443,Viman Nagar Heights,Pune,Viman Nagar,9360000,3,2,1551,Independent House,18.556456,73.924577,7.4,No,5,Sold,Prestige Group,2024-06-19
+PROP01149,Vastrapur Estate,Ahmedabad,Vastrapur,16402000,3,2,2129,Apartment,22.961049,72.552613,1,Yes,0,Available,Local Developer,2022-03-07
+PROP00204,Baner Court,Pune,Baner,32717000,5,4,2306,Villa,18.594675,73.814583,2.2,Yes,7,Sold,Local Developer,2023-10-31
+PROP01093,Hadapsar Towers,Pune,Hadapsar,9579000,4,4,791,Apartment,18.595975,73.781583,3.6,Yes,3,Sold,Local Developer,2023-04-13
+PROP00842,Karol Bagh Court,Delhi,Karol Bagh,63412000,5,5,4036,Penthouse,28.668267,77.081612,7.4,Yes,10,Available,Local Developer,2022-06-01
+PROP00210,HSR Layout Residency,Bangalore,HSR Layout,5834000,1,1,490,Studio,12.915381,77.612857,5,Yes,10,Available,Shapoorji Pallonji,2024-09-08
+PROP00600,Dwarka Gardens,Delhi,Dwarka,34211000,3,3,1550,Apartment,28.776829,77.126948,3.1,Yes,10,Under Construction,Independent Builder,2024-02-22
+PROP00783,Viman Nagar Enclave,Pune,Viman Nagar,105641000,5,5,5914,Penthouse,18.530078,73.855115,6.4,Yes,15,Under Construction,Independent Builder,2023-12-15
+PROP01136,Nungambakkam Residency,Chennai,Nungambakkam,11869000,2,2,1266,Apartment,13.044355,80.346427,4.6,Yes,10,Available,Prestige Group,2025-03-15
+PROP00047,Powai Gardens,Mumbai,Powai,57886000,4,4,1541,Apartment,19.152257,72.881642,2.4,Yes,2,Available,Brigade Group,2023-01-03
+PROP00900,Navi Mumbai Residency,Mumbai,Navi Mumbai,14285000,4,4,788,Apartment,19.034462,72.927882,6.7,Yes,7,Sold,Brigade Group,2024-04-03
+PROP00949,Hadapsar Gardens,Pune,Hadapsar,9333000,4,3,715,Apartment,18.521864,73.909346,3.3,Yes,15,Available,Independent Builder,2026-03-05
+PROP00407,Vastrapur Enclave,Ahmedabad,Vastrapur,2888000,3,3,715,Apartment,23.090682,72.604479,4.8,Yes,7,Sold,Puravankara,2025-11-18
+PROP00134,Nungambakkam Gardens,Chennai,Nungambakkam,7465000,2,1,560,Apartment,13.027971,80.295163,7.1,No,10,Sold,Lodha Group,2023-10-20
+PROP00459,Marathahalli Towers,Bangalore,Marathahalli,3499000,1,1,380,Studio,12.965598,77.55306,6,Yes,7,Available,Godrej Properties,2025-07-22
+PROP01010,Electronic City Estate,Bangalore,Electronic City,24078000,4,4,1378,Apartment,12.939655,77.6527,1,Yes,15,Available,Sobha Ltd,2023-05-25
+PROP01084,Worli Residency,Mumbai,Worli,24909000,2,2,1241,Apartment,19.036824,72.803537,6,Yes,1,Available,Oberoi Realty,2026-03-11
+PROP00809,Baner Court,Pune,Baner,17442000,2,2,1846,Apartment,18.484351,73.932196,5.6,Yes,15,Sold,DLF Ltd,2022-06-06
+PROP01018,Saket Estate,Delhi,Saket,20696000,1,1,1753,Apartment,28.783816,77.042678,5.8,Yes,5,Sold,Tata Housing,2023-05-05
+PROP00610,Hadapsar Court,Pune,Hadapsar,25640000,2,1,1984,Apartment,18.528647,73.873895,7.2,Yes,5,Under Construction,Oberoi Realty,2023-01-06
+PROP00078,Kothrud Heights,Pune,Kothrud,29317000,3,2,2138,Independent House,18.450132,73.853337,3.3,Yes,10,Sold,Puravankara,2022-05-31
+PROP01028,Powai Heights,Mumbai,Powai,17232000,1,1,482,Studio,19.10349,72.864192,7.3,Yes,1,Available,Lodha Group,2023-09-26
+PROP00524,Porur Residency,Chennai,Porur,44001000,5,5,3118,Villa,13.0364,80.344139,2.8,Yes,25,Under Construction,Tata Housing,2024-09-02
+PROP00087,Maninagar Homes,Ahmedabad,Maninagar,4581000,1,1,565,Apartment,22.970611,72.552233,5.7,Yes,0,Available,,2022-03-28
+PROP00353,Prahlad Nagar Court,Ahmedabad,Prahlad Nagar,14111000,3,3,1813,Apartment,23.081184,72.633414,3.5,Yes,20,Sold,Oberoi Realty,2026-01-14
+PROP00649,Powai Gardens,Mumbai,Powai,23543000,4,3,615,Apartment,19.076527,72.799439,6.7,No,15,Sold,Lodha Group,2025-03-17
+PROP00135,Adyar Homes,Chennai,Adyar,4037000,1,1,395,Studio,13.088324,80.306399,7.5,Yes,7,Under Construction,Prestige Group,2022-03-16
+PROP00511,Kharadi Gardens,Pune,Kharadi,5256000,1,1,410,Studio,18.458054,73.835834,2.5,Yes,0,Available,Brigade Group,2023-09-14
+PROP00646,Yelahanka Enclave,Bangalore,Yelahanka,46119000,3,3,2744,Penthouse,13.016184,77.536896,3.8,No,2,Available,Sobha Ltd,2022-04-25
+PROP00007,Tambaram Homes,Chennai,Tambaram,4149000,1,1,554,Studio,13.162306,80.272224,0.9,Yes,0,Available,Prestige Group,2026-06-11
+PROP00553,Saket Residency,Delhi,Saket,13882000,4,4,569,Apartment,28.757588,77.076872,3.5,No,15,Available,Tata Housing,2022-02-17
+PROP00140,Saket Heights,Delhi,Saket,33502000,3,2,2081,Apartment,28.736411,77.168548,6.1,Yes,2,Sold,Tata Housing,2026-06-01
+PROP01114,Velachery Residency,Chennai,Velachery,13024000,3,2,1241,Apartment,13.091267,80.201263,0.9,Yes,10,Sold,Shapoorji Pallonji,2024-07-26
+PROP00484,Prahlad Nagar Court,Ahmedabad,Prahlad Nagar,9222000,3,2,1133,Apartment,23.04715,72.510696,4,No,3,Under Construction,Tata Housing,2022-09-26
+PROP00538,Jayanagar Towers,Bangalore,Jayanagar,22917000,1,1,1610,Apartment,12.914736,77.552582,6.6,Yes,7,Available,Sobha Ltd,2025-08-04
+PROP00041,Marathahalli Residency,Bangalore,Marathahalli,12919000,4,4,956,Apartment,13.024491,77.553456,5.6,Yes,25,Sold,Godrej Properties,2026-06-19
+PROP00077,HSR Layout Towers,Bangalore,HSR Layout,30499000,3,3,2713,Villa,12.975774,77.633906,3.9,Yes,15,Sold,Puravankara,2024-10-28
+PROP00517,Gachibowli Gardens,Hyderabad,Gachibowli,8540000,1,1,1246,Apartment,17.308849,78.491164,3.2,Yes,0,Under Construction,Shapoorji Pallonji,2022-12-11
+PROP00255,Banjara Hills Estate,Hyderabad,Banjara Hills,16228000,4,3,1935,Apartment,17.439245,78.496035,7.9,Yes,0,Sold,Prestige Group,2024-11-01
+PROP00958,Nungambakkam Estate,Chennai,Nungambakkam,4729000,2,1,599,Apartment,13.142219,80.228271,3.7,Yes,25,Available,Tata Housing,2024-06-10
+PROP00995,Koramangala Residency,Bangalore,Koramangala,60556000,4,4,3855,Villa,12.936162,77.661154,2,Yes,1,Available,Sobha Ltd,2022-07-08
+PROP00669,Saket Residency,Delhi,Saket,94194000,5,4,3167,Villa,28.66942,77.12176,7.4,Yes,0,Sold,Godrej Properties,2022-07-03
+PROP00104,Worli Court,Mumbai,Worli,31196000,3,3,1486,Apartment,19.140824,72.893178,0.3,Yes,1,Available,DLF Ltd,2025-06-13
+PROP00239,OMR Gardens,Chennai,OMR,26161000,4,3,3056,Independent House,13.050731,80.217898,5.3,Yes,3,Available,Prestige Group,2026-02-26
+PROP00139,Kothrud Towers,Pune,Kothrud,12786000,2,2,1968,Apartment,18.459316,73.825789,3.4,Yes,0,Sold,Lodha Group,2024-01-23
+PROP00052,Nungambakkam Heights,Chennai,Nungambakkam,11282000,2,1,1091,Apartment,13.131325,80.222351,1.1,Yes,25,Available,Lodha Group,2022-10-19
+PROP00677,T Nagar Residency,Chennai,T Nagar,5521000,3,3,801,Apartment,13.044619,80.2196,0.8,Yes,2,Available,Puravankara,2026-06-18
+PROP00637,Powai Heights,Mumbai,Powai,65461000,2,1,1481,Apartment,19.012037,72.881985,5.9,Yes,20,Available,Oberoi Realty,2022-02-12
+PROP00206,Madhapur Court,Hyderabad,Madhapur,4577000,1,1,396,Studio,17.353674,78.519453,4.9,Yes,5,Available,,2023-05-24
+PROP00872,Maninagar Gardens,Ahmedabad,Maninagar,5350000,1,1,731,Apartment,23.038348,72.549408,7,No,7,Available,Independent Builder,2022-08-04
+PROP00850,Kothrud Towers,Pune,Kothrud,27195000,3,3,3155,Independent House,18.490854,73.813517,1.8,Yes,1,Available,Lodha Group,2023-04-23
+PROP00826,Prahlad Nagar Towers,Ahmedabad,Prahlad Nagar,11628000,3,2,1804,Independent House,23.06848,72.60333,4.6,Yes,1,Available,Lodha Group,2022-02-23
+PROP00545,Malad Court,Mumbai,Malad,25570000,1,1,610,Studio,19.029478,72.810725,3.9,Yes,1,Available,Independent Builder,2026-03-19
+PROP00118,HSR Layout Enclave,Bangalore,HSR Layout,11035000,3,3,1131,Apartment,12.993209,77.602735,1.2,Yes,20,Available,Shapoorji Pallonji,2025-08-05
+PROP00066,Pitampura Homes,Delhi,Pitampura,42261000,5,4,3045,Villa,28.768294,77.130918,1.4,No,5,Under Construction,Lodha Group,2025-08-01
+PROP00039,Gachibowli Enclave,Hyderabad,Gachibowli,22615000,2,2,3149,Independent House,17.315979,78.559866,0.5,Yes,2,Available,DLF Ltd,2025-06-26
+PROP00973,Porur Heights,Chennai,Porur,30293000,3,3,3714,Villa,13.115028,80.20141,0.9,Yes,10,Available,Sobha Ltd,2022-10-09
+PROP00284,Vastrapur Heights,Ahmedabad,Vastrapur,13034000,2,1,1709,Apartment,23.097338,72.609147,4,Yes,0,Available,Puravankara,2023-04-20
+PROP00493,Karol Bagh Estate,Delhi,Karol Bagh,28964000,5,5,2208,Villa,28.738195,77.179218,6.8,Yes,0,Available,Puravankara,2024-11-17
+PROP01075,Indiranagar Residency,Bangalore,Indiranagar,4735000,4,3,597,Apartment,12.951963,77.580391,2.4,Yes,15,Sold,Shapoorji Pallonji,2024-10-31
+PROP00132,Koramangala Towers,Bangalore,Koramangala,95688000,5,5,3616,Villa,12.938072,77.560621,5.8,Yes,10,Sold,Local Developer,2024-09-08
+PROP00724,Vasant Kunj Court,Delhi,Vasant Kunj,69829000,4,3,2866,Independent House,28.654867,77.115637,5.1,Yes,2,Available,Prestige Group,2022-01-11
+PROP00162,Kharadi Towers,Pune,Kharadi,8943000,3,3,1025,Apartment,18.563441,73.929477,3.3,Yes,0,Sold,Puravankara,2024-10-01
+PROP00305,Vasant Kunj Court,Delhi,Vasant Kunj,17131000,3,3,1519,Independent House,28.636658,77.175425,4,Yes,15,Under Construction,Puravankara,2024-01-31
+PROP00895,Indiranagar Homes,Bangalore,Indiranagar,6973000,3,3,935,Apartment,12.90098,77.671775,3.9,Yes,15,Available,Independent Builder,2023-10-19
+PROP00807,Pitampura Residency,Delhi,Pitampura,12734000,3,3,1126,Apartment,28.702439,77.081237,7.1,Yes,3,Available,Independent Builder,2023-08-30
+PROP00896,Prahlad Nagar Estate,Ahmedabad,Prahlad Nagar,8232000,2,2,1467,Apartment,23.042714,72.556078,3.1,No,0,Available,Brigade Group,2025-02-23
+PROP00521,Vastrapur Estate,Ahmedabad,Vastrapur,12662000,3,3,1463,Apartment,23.022569,72.616661,1.3,Yes,2,Available,Oberoi Realty,2025-02-10
+PROP00901,Saket Homes,Delhi,Saket,113900000,4,3,3731,Villa,28.72429,77.05528,7.1,Yes,7,Sold,Oberoi Realty,2024-04-27
+PROP00321,Rohini Estate,Delhi,Rohini,45949000,2,2,2014,Apartment,28.66135,77.046609,4,Yes,7,Available,Puravankara,2024-01-31
+PROP00825,Bopal Estate,Ahmedabad,Bopal,12002000,3,2,2045,Independent House,23.088576,72.618688,1.8,Yes,5,Sold,Godrej Properties,2024-07-27
+PROP00411,Dwarka Heights,Delhi,Dwarka,15781000,1,1,695,Apartment,28.718933,77.074656,1.8,Yes,2,Sold,Brigade Group,2023-04-12
+PROP00408,Saket Homes,Delhi,Saket,140906000,5,5,3687,Villa,28.630119,77.0513,4.1,Yes,25,Sold,Lodha Group,2023-12-14
+PROP00684,Kukatpally Court,Hyderabad,Kukatpally,8205000,1,1,990,Apartment,17.328206,78.457012,0.3,Yes,5,Available,Tata Housing,2026-06-17
+PROP00012,Anna Nagar Towers,Chennai,Anna Nagar,17246000,4,4,1880,Apartment,13.085512,80.210061,2,Yes,0,Sold,Sobha Ltd,2025-04-20
+PROP01150,Janakpuri Residency,Delhi,Janakpuri,39674000,4,4,3109,Independent House,28.723776,77.139249,0.5,Yes,7,Available,Sobha Ltd,2025-01-03
+PROP00247,Kothrud Gardens,Pune,Kothrud,8990000,2,1,1298,Independent House,18.51149,73.796475,2.2,Yes,2,Sold,Independent Builder,2022-01-20
+PROP00419,Kharadi Heights,Pune,Kharadi,20087000,2,1,2254,Independent House,18.44865,73.837973,3.8,Yes,5,Available,Independent Builder,2025-02-18
+PROP00061,Aundh Court,Pune,Aundh,7641000,3,3,639,Apartment,18.553236,73.906525,3.2,Yes,10,Under Construction,Prestige Group,2024-10-25
+PROP01017,Nungambakkam Estate,Chennai,Nungambakkam,25694000,3,,3149,Independent House,13.107258,80.321042,,Yes,3,Sold,Sobha Ltd,2023-05-08
+PROP00520,Whitefield Towers,Bangalore,Whitefield,17047000,3,3,1383,Apartment,12.956799,77.551998,7.1,Yes,15,Under Construction,Independent Builder,2022-07-27
+PROP00880,Rohini Gardens,Delhi,Rohini,48066000,3,3,1908,Apartment,28.647422,77.076926,3,Yes,7,Available,Local Developer,2026-06-24
+PROP00873,Maninagar Homes,Ahmedabad,Maninagar,3848000,1,1,610,Studio,23.076307,72.648694,0.8,,10,Available,Puravankara,2023-03-30
+PROP00916,Bandra Estate,Mumbai,Bandra,27966000,1,1,1191,Apartment,19.020096,72.831782,6.8,Yes,20,Under Construction,Tata Housing,2024-07-03
+PROP00728,Gachibowli Towers,Hyderabad,Gachibowli,87557000,3,3,4387,Villa,17.409517,78.411864,3.5,Yes,5,Under Construction,DLF Ltd,2022-10-13
+PROP01082,Worli Heights,Mumbai,Worli,46950000,3,3,2172,Apartment,19.005271,72.847496,0.8,Yes,15,Sold,Tata Housing,2023-08-11
+PROP01089,Gachibowli Heights,Hyderabad,Gachibowli,14382000,4,3,1316,Apartment,17.313544,78.513424,3.7,Yes,20,Sold,Shapoorji Pallonji,2024-01-25
+PROP00715,Baner Gardens,Pune,Baner,19246000,1,1,1520,Apartment,18.511411,73.785605,1.2,No,10,Under Construction,Sobha Ltd,2025-01-24
